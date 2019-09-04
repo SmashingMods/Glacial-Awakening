@@ -1,0 +1,1 @@
+recipes.replaceAllOccurences(<minecraft:iron_block>,<enderio:item_material>,<xnet:controller>);

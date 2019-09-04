@@ -1,0 +1,45 @@
+
+setSingleBiome("minecraft:mutated_ice_flats")
+
+overworld = new OverworldGenerator()
+addGenerator(overworld)
+
+//Adds the vanilla caves.
+caves = new VanillaCaveGenerator()
+addGenerator(caves)
+
+//Adds the vanilla ravines.
+ravines = new VanillaRavineGenerator()
+addGenerator(ravines)
+
+//Adds water lakes. Blacklisted in deserts and desert hills as per vanilla.
+waterLake = new VanillaLakeGenerator(<minecraft:water>)
+waterLake.blacklistBiome(["minecraft:desert", "minecraft:desert_hills"])
+addGenerator(waterLake)
+
+layers = new LayerGenerator()
+layers.addLayer(0~0,<minecraft:bedrock>)
+layers.addLayer(1~4,<minecraft:ice>)
+layers.addLayer(5~14, <minecraft:packed_ice>)
+layers.addLayer(15~35, <quark:biome_cobblestone:1>)
+layers.addLayer(36~45, <minecraft:snow>)
+layers.addLayer(46~48, <minecraft:obsidian>)
+layers.addLayer(49~51, <minecraft:ice>)
+addGenerator(layers)
+
+waterLake = new VanillaLakeGenerator(<minecraft:water>)
+addGenerator(waterLake)
+
+//Generates animals.
+animals = new VanillaAnimalGenerator()
+addGenerator(animals)
+
+//Generates snow and freezes ice in cold areas.
+ice = new IceAndSnowGenerator()
+addGenerator(ice)
+
+//Adds vanilla decorations. This includes trees, ores, etc.
+//decoration = new VanillaDecorationGenerator()
+//addGenerator(decoration)
+
+setSpawnStructure("empty",15)

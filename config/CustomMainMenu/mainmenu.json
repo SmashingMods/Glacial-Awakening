@@ -1,0 +1,192 @@
+{
+    "images":
+    {
+		"black":
+        {
+            "image" : "mainmenu:textures/bg_menu.png",
+            "posX" : 95,
+            "posY" : -80,
+            "width" : 200,
+            "height" : 1500,
+            "alignment" : "top_left"
+        },
+		"logo":
+        {
+            "image" : "mainmenu:textures/logo.png",
+            "posX" : 50,
+            "posY" : 10,
+            "width" : 300,
+            "height" : 150,
+            "alignment" : "top_left"
+        }
+
+	},
+
+    "buttons":
+    {			 
+		"create":
+        {
+            "text" : "One-Click Glacial Server Creation!",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 5081343,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : -30,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.akliz.net/al132"      
+			}
+        },
+		"multiplayer":
+        {
+            "text" : "Multiplayer",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 5081343,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : -60,
+            "width" : 196,
+            "height" : 30,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },	
+        "singleplayer":
+        {
+            "text" : "Single Player!",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 5081343,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : -90,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+
+        },
+		"options":
+        {
+            "text" : "menu.options",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 5081343,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : 30,
+            "width" : 196,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+		"language":
+        {
+            "text" : "options.language",
+			"texture" : "mainmenu:textures/btn.png",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 5081343,
+            "posX" : 97,
+            "posY" : 50,
+            "width" : 196,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 14483456,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : 100,
+            "width" : 196,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+			"hoverText" : "Quit Game",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 5081343,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : 70,
+            "width" : 196,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "versionChecker":
+        {
+            "text" : "Version-Checker",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 5081343,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 193,
+            "posY" : 100,
+            "width" : 100,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "wrappedButton" : 404
+        }
+	},
+
+
+
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:textures/bg.png",
+			"mode" : "stretch"
+		}
+    }
+}

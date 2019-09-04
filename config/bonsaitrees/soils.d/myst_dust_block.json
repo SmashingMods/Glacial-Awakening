@@ -1,0 +1,14 @@
+{
+  "name": "hwell:myst_dust_block",
+  "mod": "hwell",
+  "soil": {
+    "name": "hwell:myst_dust_block",
+    "data": 0,
+    "ignoreMeta": false
+  },
+  "modifiers": {
+    "growTime": 1.0,
+    "dropChance": 1.0
+  },
+  "providedTags": [ "myst" ]
+}

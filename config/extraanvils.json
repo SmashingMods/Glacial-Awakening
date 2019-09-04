@@ -1,0 +1,286 @@
+{
+  "anvils": {
+    "diamond": {
+      "enabled": true,
+      "durability": 32,
+      "cap": 32767,
+      "weight": 1,
+      "enchantability": 1.1,
+      "playerDamage": true
+    },
+    "gold": {
+      "enabled": true,
+      "durability": 4,
+      "cap": 160,
+      "weight": 2.5,
+      "enchantability": 2.8,
+      "playerDamage": false
+    },
+    "stone": {
+      "enabled": true,
+      "durability": 0,
+      "cap": 20,
+      "weight": 0.7,
+      "enchantability": 0.5,
+      "playerDamage": false
+    },
+    "inferium": {
+      "enabled": true,
+      "durability": 4,
+      "cap": 80,
+      "weight": 1,
+      "enchantability": 1.7,
+      "playerDamage": false
+    },
+    "intermedium": {
+      "enabled": true,
+      "durability": 16,
+      "cap": 320,
+      "weight": 1,
+      "enchantability": 2.2,
+      "playerDamage": false
+    },
+    "prudentium": {
+      "enabled": true,
+      "durability": 64,
+      "cap": 1280,
+      "weight": 1,
+      "enchantability": 2.8,
+      "playerDamage": false
+    },
+    "superium": {
+      "enabled": true,
+      "durability": 256,
+      "cap": 5120,
+      "weight": 1,
+      "enchantability": 3.9,
+      "playerDamage": false
+    },
+    "supremium": {
+      "enabled": true,
+      "durability": 1024,
+      "cap": 20480,
+      "weight": 1,
+      "enchantability": 4.4,
+      "playerDamage": true
+    },
+    "aluminum": {
+      "enabled": true,
+      "durability": 1,
+      "cap": 1,
+      "weight": 0.34,
+      "enchantability": 1.6,
+      "playerDamage": false
+    },
+    "ardite": {
+      "enabled": true,
+      "durability": 6,
+      "cap": 200,
+      "weight": 1,
+      "enchantability": 1,
+      "playerDamage": false
+    },
+    "bronze": {
+      "enabled": true,
+      "durability": 1.5,
+      "cap": 60,
+      "weight": 1.2,
+      "enchantability": 1.1,
+      "playerDamage": false
+    },
+    "cobalt": {
+      "enabled": true,
+      "durability": 12,
+      "cap": 300,
+      "weight": 1.2,
+      "enchantability": 1,
+      "playerDamage": false
+    },
+    "copper": {
+      "enabled": true,
+      "durability": 1,
+      "cap": 40,
+      "weight": 1.3,
+      "enchantability": 0.9,
+      "playerDamage": false
+    },
+    "electrum": {
+      "enabled": true,
+      "durability": 3,
+      "cap": 120,
+      "weight": 2,
+      "enchantability": 3.3,
+      "playerDamage": false
+    },
+    "endsteel": {
+      "enabled": true,
+      "durability": 25,
+      "cap": 200,
+      "weight": 1.1,
+      "enchantability": 2.8,
+      "playerDamage": false
+    },
+    "enderium": {
+      "enabled": true,
+      "durability": 25,
+      "cap": 200,
+      "weight": 2.1,
+      "enchantability": 2.8,
+      "playerDamage": false,
+      "traits": [
+        "teleporting"
+      ]
+    },
+    "energetic_alloy": {
+      "enabled": true,
+      "durability": 25,
+      "cap": 200,
+      "weight": 2.5,
+      "enchantability": 2.8,
+      "playerDamage": false,
+      "traits": [
+        "redstone"
+      ]
+    },
+    "invar": {
+      "enabled": true,
+      "durability": 2,
+      "cap": 80,
+      "weight": 1.3,
+      "enchantability": 1.3,
+      "playerDamage": false
+    },
+    "iridium": {
+      "enabled": true,
+      "durability": 16,
+      "cap": 640,
+      "weight": 2.5,
+      "enchantability": 1,
+      "playerDamage": true
+    },
+    "lead": {
+      "enabled": true,
+      "durability": 1.5,
+      "cap": 30,
+      "weight": 1.5,
+      "enchantability": 1,
+      "playerDamage": false
+    },
+    "manyullyn": {
+      "enabled": true,
+      "durability": 16,
+      "cap": 400,
+      "weight": 1,
+      "enchantability": 1,
+      "playerDamage": true
+    },
+    "nickel": {
+      "enabled": true,
+      "durability": 2,
+      "cap": 60,
+      "weight": 1,
+      "enchantability": 2,
+      "playerDamage": false
+    },
+    "platinum": {
+      "enabled": true,
+      "durability": 16,
+      "cap": 400,
+      "weight": 2.5,
+      "enchantability": 1.8,
+      "playerDamage": true
+    },
+    "signalum": {
+      "enabled": true,
+      "durability": 4,
+      "cap": 400,
+      "weight": 2.1,
+      "enchantability": 2,
+      "playerDamage": false,
+      "traits": [
+        "redstone"
+      ]
+    },
+    "silver": {
+      "enabled": true,
+      "durability": 2,
+      "cap": 100,
+      "weight": 1.5,
+      "enchantability": 2.8,
+      "playerDamage": false
+    },
+    "steel": {
+      "enabled": true,
+      "durability": 2.5,
+      "cap": 80,
+      "weight": 1.1,
+      "enchantability": 1,
+      "playerDamage": false
+    },
+    "stellar": {
+      "enabled": true,
+      "durability": 250,
+      "cap": 2000,
+      "weight": 3,
+      "enchantability": 2.8,
+      "playerDamage": true
+    },
+    "tin": {
+      "enabled": true,
+      "durability": 1,
+      "cap": 40,
+      "weight": 1,
+      "enchantability": 1,
+      "playerDamage": false
+    },
+    "vibrant_alloy": {
+      "enabled": true,
+      "durability": 4,
+      "cap": 400,
+      "weight": 2.6,
+      "enchantability": 2,
+      "playerDamage": false,
+      "traits": [
+        "teleporting"
+      ]
+    },
+    "zanite": {
+      "enabled": true,
+      "durability": 1,
+      "cap": 40,
+      "weight": 1,
+      "enchantability": 1,
+      "playerDamage": false,
+      "traits": [
+        "reverse"
+      ]
+    },
+    "neutronium": {
+      "enabled": true,
+      "durability": 1,
+      "cap": 30,
+      "weight": 1,
+      "enchantability": 1,
+      "playerDamage": false,
+      "traits": [
+        "dense"
+      ]
+    },
+    "thaumium": {
+      "enabled": true,
+      "durability": 2,
+      "cap": 80,
+      "weight": 1.5,
+      "enchantability": 2,
+      "playerDamage": false
+    },
+    "infinity": {
+      "enabled": true,
+      "durability": -1,
+      "cap": 2000000000,
+      "weight": 100,
+      "enchantability": 100,
+      "playerDamage": false
+    }
+  }
+}

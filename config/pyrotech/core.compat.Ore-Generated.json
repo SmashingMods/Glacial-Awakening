@@ -1,0 +1,144 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum"
+      ],
+      "output": [
+        "immersiveengineering:metal:21",
+        "magneticraft:nuggets:7"
+      ]
+    },
+    "oreCobalt": {
+      "slagColor": "1c5bc1",
+      "langKey": [
+        "magneticraft:tile.magneticraft.ores_cobalt"
+      ],
+      "output": [
+        "magneticraft:nuggets:4"
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "magneticraft:tile.magneticraft.ores_copper",
+        "mekanism:tile.OreBlock.CopperOre",
+        "mysticalworld:tile.copper_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.copper"
+      ],
+      "output": [
+        "immersiveengineering:metal:20",
+        "magneticraft:nuggets:2",
+        "mekanism:nugget:5",
+        "mysticalworld:copper_nugget:0"
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "minecraft:tile.oreGold"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "minecraft:tile.oreIron"
+      ],
+      "output": [
+        "immersiveengineering:metal:29",
+        "minecraft:iron_nugget:0"
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.lead",
+        "magneticraft:tile.magneticraft.ores_lead",
+        "nuclearcraft:tile.nuclearcraft.ore.lead"
+      ],
+      "output": [
+        "immersiveengineering:metal:22",
+        "magneticraft:nuggets:3"
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.nickel"
+      ],
+      "output": [
+        "immersiveengineering:metal:24",
+        "magneticraft:nuggets:10"
+      ]
+    },
+    "oreOsmium": {
+      "slagColor": "9babc4",
+      "langKey": [
+        "mekanism:tile.OreBlock.OsmiumOre"
+      ],
+      "output": [
+        "magneticraft:nuggets:11",
+        "mekanism:nugget:1"
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.silver",
+        "magneticraft:tile.magneticraft.ores_lead",
+        "mysticalworld:tile.silver_ore"
+      ],
+      "output": [
+        "immersiveengineering:metal:23",
+        "magneticraft:nuggets:12",
+        "mysticalworld:silver_nugget:0"
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "mekanism:tile.OreBlock.TinOre",
+        "nuclearcraft:tile.nuclearcraft.ore.tin"
+      ],
+      "output": [
+        "magneticraft:nuggets:13",
+        "mekanism:nugget:6"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "immersiveengineering:tile.immersiveengineering.ore.uranium",
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
+      ]
+    }
+  }
+}

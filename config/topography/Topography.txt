@@ -1,0 +1,10 @@
+//If this file is deleted, a new set of default configs will be generated.
+
+//Sets if the mod should print documentation.
+printDocumentation(false)
+
+//Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+standard = registerPreset("Standard", "images/Standard", "...")
+standard.registerDimension(0, "Standard")

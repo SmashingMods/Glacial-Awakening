@@ -1,0 +1,24 @@
+{
+    "name": "hwell:myst_tree",
+    "mod": "hwell",
+    "sapling": {
+        "name": "contenttweaker:myst_sapling",
+        "data": 0
+    },
+    "growTimeMultiplier": 1.5,
+    "drops": [
+        {
+            "name": "hwell:myst_log",
+            "data": 0,
+            "type": "WOOD"
+        },
+		{
+          "name": "hwell:myst_leaves",
+		  "data": 0,
+		  "type": "CUSTOM",
+		  "count": 1,
+		  "chance": 0.85
+		}
+    ],
+  "compatibleSoilTags": ["myst"]
+}

@@ -1,0 +1,36 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "Netherrack",
+			"type":
+			{
+				"type": "block",
+				"name": "quark:biome_cobblestone"
+			},
+			"clicktype": "left",
+			"properties":
+			[
+				{
+					"type": "require_sneak"
+				},
+				{
+					"type": "play_sound",
+					"name": "minecraft:block.stone.step",
+					"volume": 0.25
+				}
+				
+			],
+			"drops":
+			[
+				{
+					"name": "pyrotech:rock",
+					"meta": 1,
+					"chance": 5
+				}
+			]
+		}
+	]
+}
+
+ 
