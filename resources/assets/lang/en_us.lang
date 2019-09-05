@@ -1,4 +1,14 @@
 # Chapters
+glacial.chapter_1.chapter=Chapter 1
+glacial.chapter_2.chapter=Chapter 2
+glacial.chapter_3.chapter=Chapter 3
+glacial.chapter_4.chapter=Chapter 4
+glacial.chapter_5.chapter=Chapter 5
+glacial.chemisty_chapter.chapter=The Periodic Table [Challenge Quests]
+
+#
+#Chapter 1
+#
 glacial.first_quest.title=The Awakening
 glacial.first_quest.text=You find yourself in this small, dark cave... It has some roots growing on the walls. You don't have many other resources available to you, so try to not use all of these.
 
@@ -56,7 +66,7 @@ glacial.roots_staff.title=Prepare for Liberation
 glacial.roots_staff.text=Imbue your staff with the "Shatter" spell. Use this spell to break free of this underground prison
 
 glacial.obsidian.title=Be Free!
-glacial.obsidian.text=
+glacial.obsidian.text=Use the Imbuer to imbue your staff with the shatter spell. Use your imbued staff to break the obsidian layer above you in order to break free to the surface
 
 glacial.early_storage.title=Early Storage
 glacial.early_storage.text=
@@ -125,6 +135,13 @@ glacial.life_seed.text=Can be used on dirt to create grass
 glacial.rock_core.title=Cores for Ores
 glacial.rock_core.text=Soon you will be able to turn these rock cores into several different ores
 
+glacial.mysterious_grass.title=Mysterious Grass
+glacial.mysterious_grass.text_1=If you are lucky you may find some grass near your base, but if you aren't so lucky you can also create grass with a seed of life. 
+glacial.mysterious_grass.text_2=You can infuse grass with mystical dust (via right-click) to create mysterious grass. This mysterious grass will slowly grow plants that can be harvested for an infinite supply of more mysterious dust
+
+#
+#Chapter 2
+#
 glacial.gravity_block.title=Gravity Block
 glacial.gravity_block.text=If you are using your grit vase to farm trees it's probably make a mess of saplings and acorns. Use the gravity block to pull these drops towards a hopper.
 
@@ -135,3 +152,344 @@ glacial.grit_vase.text_3=Read the Book of the Wells for more information
 
 glacial.chapter_2.title=Chapter 2
 glacial.chapter_2.text=Welcome to Chapter 2  :D Doodley doo
+
+glacial.iron_ore.title=Create Iron Ore
+glacial.iron_ore.text_1=How to use a rock core:
+glacial.iron_ore.text_2=1. Place down a rock core
+glacial.iron_ore.text_3=2. Right-click the rock core with the shard indicated by the JEI recipe that you want (for this quest, the gray shard)
+glacial.iron_ore.text_4=3. Place the catalyst block (also indicated by the JEI recipe) next to the rock core
+glacial.iron_ore.text_5=4. The catalyst block will pop off. Continue to place the catalyst block next to the rock core until it eventually converts
+glacial.iron_ore.text_6=Later in this chapter you will be given a stabilizer which will prevent the catalyst block from popping off
+
+glacial.druidic_supplies.title=Gather Druidic Supplies
+glacial.druidic_supplies.text_1=Like earlier, terra moss can be found by using a knife on mossy cobblestone. Mossy cobblestone will occasionally spawn on the surface in small clusters
+glacial.druidic_supplies.text_2=To acquire wild roots, break grass plants
+
+glacial.fey_crafter.title=Fey Crafter
+glacial.fey_crafter.desc=Fey is bae
+
+glacial.stone_sawmill.title=Stone Sawmill
+glacial.stone_sawmill.text=The sawmill will give a much better yield of logs to planks
+
+glacial.stone_crucible.title=Stone Crucible
+glacial.stone_crucible.text=Used to melt clay
+
+glacial.soaking_pot.title=Soaking Pot
+glacial.soaking_pot.text=Used to infuse certain items with liquids
+
+glacial.ashes.title=Ashes, Ashes
+glacial.ashes.text=toss plank items in-world then light the item on fire to convert them into ash
+
+glacial.bonsai.title=Hopping Bonsai Pot
+glacial.bonsai.text=Can be used to automate trees, including mysterious trees
+
+glacial.bloomery.title=Bloomery
+glacial.bloomery.text_1=How to use the bloomery:
+glacial.bloomery.text_2=1. From above, right-click an ore into the bloomery
+glacial.bloomery.text_3=2. Right-click some fuel into the bloomery. Fuel like charcoal will allow the bloomery to operate quickly, but weaker fuel like sticks will make it very slow
+glacial.bloomery.text_4=3. When it is done, right-click with a shovel to dig out the ash.
+glacial.bloomery.text_5=4. Use tongs to pick up the bloom and transfer it to an anvil
+
+glacial.lapis.title=Create Lapis
+glacial.lapis.text=Create lapis ore with a rock core
+
+glacial.furnace.title=Craft a Furnace
+glacial.furnace.desc=Lit
+
+glacial.melon.title=Create a melon
+glacial.melon.text_1=Convert a pumpkin into a melon with the Roots Ritual of Transmutation. In order for this to work a water block needs to be underneath the pumpkin
+glacial.melon.text_2=To start this ritual you will also need a standing stone nearby. This is a 2 block tall stack of runestone (from roots) with a chiseled runestone on top
+
+glacial.iron_ingots.title=Iron Ingots
+glacial.iron_ingots.text=Stone and primitive hammers do not seem to be well suited for handling iron blooms
+
+glacial.pereskia.title=Pereskia
+glacial.pereskia.text=The pereskia is used for many different rituals and spells
+
+glacial.tavern.title=Craft a Shabby Tavern
+glacial.tavern.text=The shabby tavern can be used as a warp point with hearthening planks
+
+glacial.gold_ore.title=Create Gold Ore
+glacial.gold_ore.text=Created with rock cores
+
+glacial.redstone.title=Redstone
+glacial.redstone.text=Created with the combustion heater
+
+glacial.iron_casing.title=Iron Casing
+glacial.iron_casing.text=You can use this iron casing to replace your stone casing. This will allow your combustion chamber to operate a much higher heat. Enough heat to create redstone.
+
+glacial.runic_shears.title=Runic Shears
+glacial.runic_shears.desc=Snip
+
+glacial.wildwood.title=Chop Wildwood
+glacial.wildwood.text=Create a wildwood tree by using the "Wildroot Growth" ritual near a fully grown wildroot
+
+glacial.natural_aura.title=An Introduction to Natural Aura
+glacial.natural_aura.text=To acquire gold leaf: use brilliant fibers on the leaves of a tree and it will slowly transform the leaves of the tree into golden leaves. Break these golden leaves and they will drop gold leaf
+
+glacial.joy_tokens.title=Tokens of Joy
+glacial.joy_tokens.desc=yay!
+
+glacial.natural_altar.title=Natural Altar
+glacial.natural_altar.text=Requires a multiblock structure, your Book of Natural Aura can display a hologram to help you build it
+
+glacial.natural_altar_ores.title=Natural Altar Ore Processing
+glacial.natural_altar_ores.text=WIth the natural altar, you can process your ores significantly more quickly and easily compared to the bloomery. though the yield will be slightly lower per ore.
+
+glacial.ancient_sapling.title=Ancient Sapling
+glacial.ancient_sapling.text=The ancient tree will restore the aura in the back to neutral, however it will not generate excess aura
+
+glacial.jungle_sapling.title=Jungle Sapling
+glacial.jungle_sapling.text=Create a jungle sapling with the ritual of transmutation (from Roots, see "The Druidic Arts" book)
+
+glacial.bottled_ghosts.title=Bottled Ghosts
+glacial.bottled_ghosts.text=
+
+glacial.burst_seed.title=Try out a Netherrack Burst Seed
+glacial.burst_seed.text_1=Burst seeds can be used to multiply several basic materials including: stone, netherrack, sand, nether quartz, and more.
+glacial.burst_seed.text_2=Place the burst seed down and within a few minutes it will spew dozens of the block it was made from in all directions.
+
+glacial.sorrow_tokens.title=Tokens of Sorrow
+glacial.sorrow_tokens.text=
+
+glacial.fear_token.title=Token of Fear
+glacial.fear_token.text=Spooky.
+
+glacial.offering_table.title=Offering Table
+glacial.offering_table.text=To use: place the inputs on the offering table, then toss a 'Spirit of Calling' item onto it
+
+glacial.sky_ingot.title=Ingot of the Skies
+glacial.sky_ingot.text_1=In order to use the offering table you need to set up the "multiblock" structure as depicted in the "Book of Natural Aura"
+glacial.sky_ingot.text_2=The patchouli hologram in the guidebook indicates that you need 36 poppies for the structure, but actually any single block vanilla flower will work
+
+glacial.cow_ritual.title=Creating ... Cows?
+glacial.cow_ritual.text_1=You can summon a cow to kill for cowhide by using the roots ritual of animal summoning. You will need an offering plate with raw beef to start this ritual.
+
+glacial.cowhide.title=Cowhide
+glacial.cowhide.text_1=Now that you have a cow, you can peacefully harvest dozens of drops from it by using the "Animal Harvest" ritual. This is not required, but it is recommended as otherwise you will need to summon cows multiple times. You will need 3 standing stones to start this ritual.
+glacial.cowhide.text_2=A standing stone consists of a pillar of 2 runestones with a chiseled runestone on top
+
+#
+#Chapter 3
+#
+
+glacial.chapter_3.text=Welcome to Chapter 3
+
+glacial.radiant_resonators.title=Craft Radiant Resonators
+glacial.radiant_resonators.text=Used to generate radiant quartz
+
+glacial.astral_tome.title=Astral Tome
+glacial.astral_tome.desc=Your guide to the stars
+
+glacial.glacidius.title=Explore Glacidius
+glacial.glacidius.text=The merialces can be found in the middle layer of glacidius, underneath the surface where the plants and trees are
+
+glacial.glacidius_diagram.title=Create a Glacidius Portal Diagram
+glacial.glacidius_diagram.text=
+
+glacial.magnet_manual.title=Create a Magneticraft Manual
+glacial.magnet_manual.desc=An Introduction to Magneticraft!
+
+glacial.cookiequest.title=CookieQuest 2001 [Optional]
+glacial.cookiequest.text=The secret art of making cookies has been lost to time. However, there are rumors of a near limitless supply of cookies deep in the Glacidius dimension
+
+
+glacial.magnet_grinder.title=Grinder
+glacial.magnet_grinder.text=The Grinder multiblock will allow us to process our ores more efficiently both in terms of time and yield
+
+glacial.rocky_iron.title=Grind Iron Ore
+glacial.rocky_iron.desc=Try out your grinder
+
+glacial.magnet_washer.title=Create an Ore Washer
+glacial.magnet_washer.text=
+
+glacial.luminous_table.title=Luminous Crafting Table
+glacial.luminous_table.text=
+
+glacial.lightwell.title=Lightwell
+glacial.lightwell.text=
+
+glacial.starlight_altar.title=Starlight Crafting Altar
+glacial.starlight_altar.text=
+
+glacial.astral_lens.title=Lens
+glacial.astral_lens.text=
+
+glacial.starmetal.title=Create Starmetal Ingots
+glacial.starmetal.text=
+
+glacial.hydraulic_press.title=Create a Hydraulic Press
+glacial.hydraulic_press.text=The hydraulic press is used to create plates
+
+glacial.coke_oven.title=Create a Coke Oven
+glacial.coke_oven.text=
+
+glacial.blast_furnace.title=Create a Blast Furnace
+glacial.blast_furnace.text=
+
+glacial.alloy_kiln.title=Create an Alloy Kiln
+glacial.alloy_kiln.text=
+
+glacial.electrum.title=Acquire Electrum Ingots
+glacial.electrum.text=
+
+glacial.steel.title=Acquire Steel Ingots
+glacial.steel.text=
+
+glacial.simple_chassis.title=Simple Machine Chassis
+glacial.simple_chassis.text=This Simple Chassis will open up a whole lot of new possibilities for you
+
+#
+#Chapter 4
+#
+
+glacial.chapter_4.text=
+
+glacial.item_conduits.title=Craft Item Conduits
+glacial.item_conduits.text=
+
+glacial.fluid_conduits.title=Craft Pressurized Fluid Conduits
+glacial.fluid_conduits.text=
+
+glacial.ore_puller.title=Mystical Ore Puller
+glacial.ore_puller.text=This block can be used as part of a multiblock structure to generate ores. It requires hearth well power, so it is only semi-automatable. Look for it in the book of the well to see how it's built.
+
+glacial.alloy_furnace.title=Alloy Furnace
+glacial.alloy_furnace.text=
+
+glacial.energy_conduits.title=Craft Energy Conduits
+glacial.energy_conduits.text=
+
+glacial.ae2_charger.title=Charger
+glacial.ae2_charger.text=
+
+glacial.growth_chamber.title=Crystal Growth Chamber
+glacial.growth_chamber.text=
+
+glacial.manufactory.title=Manufactory
+glacial.manufactory.text=
+
+glacial.inscriber_presses.title=Gather Inscriber Presses
+glacial.inscriber_presses.text=
+
+glacial.energy_acceptor.title=Energy Acceptor
+glacial.energy_acceptor.text=
+
+glacial.me_terminal.title=ME Terminal
+glacial.me_terminal.text=
+
+glacial.crafting_terminal.title=Crafting Terminal
+glacial.crafting_terminal.text=
+
+glacial.aura_forge.title=Energetic Aura Forge
+glacial.aura_forge.text=
+
+glacial.aura_generator.title=Create an Aura Generator
+glacial.aura_generator.text=
+
+glacial.advanced_inscriber.title=Advanced Inscriber
+glacial.advanced_inscriber.text=
+
+glacial.tree_extractor.title=Tree Fluid Extractor
+glacial.tree_extractor.text=
+
+glacial.fermenter_multiblock.title=Create a Fermenter Multiblock
+glacial.fermenter_multiblock.text=
+
+glacial.squeezer_multiblock.title=Create a Squeezer Multiblock
+glacial.squeezer_multiblock.text=
+
+glacial.create_powergen.title=Create a Generator
+glacial.create_powergen.text=
+
+glacial.me_drive.title=ME Drive
+glacial.me_drive.text=
+
+glacial.heavy_engineering.title=Create Heavy Engineering Blocks
+glacial.heavy_engineering.text=
+
+glacial.refinery.title=Create a Refinery Multiblock
+glacial.refinery.text=
+
+glacial.reinforced_blast.title=Create Reinforced Blast Bricks
+glacial.reinforced_blast.text=
+
+glacial.latex.title=Latex Processing Unit
+glacial.latex.text=
+
+glacial.arc_furnace.title=Create an Arc Furnace
+glacial.arc_furnace.text=
+
+glacial.industrial_chassis.title=Industrial Machine Chassis
+glacial.industrial_chassis.text=
+
+#
+#Chapter 5
+#
+glacial.chapter_5.text=
+
+glacial.starlight_infuser.title=Starlight Infuser
+glacial.starlight_infuser.text=
+
+glacial.rock_crusher.title=Rock Crusher
+glacial.rock_crusher.text=
+
+glacial.atomic_reconstructor.title=Atomic Reconstructor
+glacial.atomic_reconstructor.text=
+
+glacial.end_chassis.title=End Steel Chassis
+glacial.end_chassis.text=
+
+glacial.fission_controller.title=Fission Controller
+glacial.fission_controller.text=
+
+glacial.du_plating.title=DU Plating
+glacial.du_plating.text=
+
+glacial.manganese.title=Create Manganese Ingots
+glacial.manganese.text=
+
+glacial.resonating_gem.title=Resonating Gem
+glacial.resonating_gem.text=
+
+glacial.enhanced_chassis.title=Enhanced Machine Chassis
+glacial.enhanced_chassis.text=
+
+glacial.decay_hastener.title=Decay Hastener
+glacial.decay_hastener.text=
+
+glacial.empowerer.title=Empowerer
+glacial.empowerer.text=
+
+glacial.chem_dissolver.title=Chemical Dissolver
+glacial.chem_dissolver.text=
+
+glacial.chem_combiner.title=Chemical Combiner
+glacial.chem_combiner.text=
+
+glacial.enrichment_chamber.title=Enrichment Chamber
+glacial.enrichment_chamber.text=
+
+glacial.metallurgic_infuser.title=Metallurgic Infuser
+glacial.metallurgic_infuser.text=
+
+glacial.osmium_compressor.title=Osmium Compressor
+glacial.osmium_compressor.text=
+
+glacial.alchem_fission.title=Alchemistry Fission Multiblock
+glacial.alchem_fission.text=
+
+glacial.purification_chamber.title=Purification Chamber
+glacial.purification_chamber.text=
+
+glacial.electrolytic_separator.title=Electrolytic Separator
+glacial.electrolytic_separator.text=
+
+glacial.mek_crusher.title=Crusher
+glacial.mek_crusher.text=
+
+glacial.chem_dissolution.title=Chemical Dissolution Chamber
+glacial.chem_dissolution.text=
+
+
+

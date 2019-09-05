@@ -4405,12 +4405,12 @@ appliedenergistics2:facade:0, Cable Facade - Wet Sand
 appliedenergistics2:facade:0, Cable Facade - Raw Radiant Quartz Block
 appliedenergistics2:facade:0, Cable Facade - Shaped Radiant Quartz Block
 appliedenergistics2:facade:0, Cable Facade - Manifest Lectern
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -7030,12 +7030,12 @@ appliedenergistics2:facade:0, Cable Facade - Compact Raw Porkchop
 appliedenergistics2:facade:0, Cable Facade - Machine Block
 appliedenergistics2:facade:0, Cable Facade - Support Column (Y axis)
 appliedenergistics2:facade:0, Cable Facade - Pumpjack Pipe
-appliedenergistics2:facade:0, Cable Facade - Limestone
-appliedenergistics2:facade:0, Cable Facade - Burnt Limestone
-appliedenergistics2:facade:0, Cable Facade - Limestone Tiles
 appliedenergistics2:facade:0, Cable Facade - Chalcopyrite Ore (Copper)
 appliedenergistics2:facade:0, Cable Facade - Oil Source (Full)
 appliedenergistics2:facade:0, Cable Facade - Copper Block
+appliedenergistics2:facade:0, Cable Facade - Limestone
+appliedenergistics2:facade:0, Cable Facade - Burnt Limestone
+appliedenergistics2:facade:0, Cable Facade - Limestone Tiles
 appliedenergistics2:facade:0, Cable Facade - Block of Leavening Agent
 appliedenergistics2:facade:0, Cable Facade - Block of Drying Agent
 appliedenergistics2:facade:0, Cable Facade - Rock Salt
@@ -8337,55 +8337,6 @@ artisanworktables:artisans_knife_elementium, Artisan's %s Knife
 artisanworktables:artisans_knife_terrasteel, Artisan's %s Knife
 artisanworktables:toolbox, Toolbox
 artisanworktables:mechanical_toolbox, Mechanical Toolbox
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
-quark:pickarang, item.pickarang.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 quark:pipe, tile.pipe.name
 quark:backpack, item.backpack.name
 quark:tiny_potato, tile.tiny_potato.name
@@ -8487,6 +8438,23 @@ quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:glass_item_frame, item.glass_item_frame.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -8609,23 +8577,6 @@ quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
 quark:witch_hat, item.witch_hat.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -8946,6 +8897,55 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
 bonsaitrees:bonsaipot:0, Bonsai Pot
 bonsaitrees:bonsaipot:1, Hopping Bonsai Pot
 buildinggadgets:buildingtool, Building Gadget
@@ -9988,100 +9988,6 @@ hearthstones:deep_blue, Deep Blue
 hearthstones:aquamarine_dust, Aquamarine Dust
 hearthstones:diamond_dust, Diamond Dust
 hearthstones:lapis_dust, Lapis Lazuli Dust
-hwell:loot_base, Loot Kit Base
-hwell:loot_blaze, Blaze Loot Kit
-hwell:loot_creeper, Creeper Loot Kit
-hwell:loot_enderman, Enderman Loot Kit
-hwell:loot_ghast, Ghast Loot Kit
-hwell:loot_shulker, Shulker Loot Kit
-hwell:loot_skeleton, Skeleton Loot Kit
-hwell:loot_slime, Slime Loot Kit
-hwell:loot_spider, Spider Loot Kit
-hwell:loot_witch, Witch Loot Kit
-hwell:loot_wither, Wither Skeleton Loot Kit
-hwell:loot_zombie, Zombie Loot Kit
-hwell:loot_guardian, Guardian Loot Kit
-hwell:heavy_mesh, Heavy Mix Lump
-hwell:heavy_ingot, Heavy Ingot
-hwell:heavy_nugget, Heavy Nugget
-hwell:fuel_dust, Heavy Fuel Dust
-hwell:fuel_dust_tiny, Tiny Pile of Heavy Fuel Dust
-hwell:asul_ingot, Asul Ingot
-hwell:asul_nugget, Asul Nugget
-hwell:heavy_shears, Heavy Shears
-hwell:dust, Stone Dust
-hwell:myst_dust, Mysterious Dust
-hwell:myst_fertilizer, Mysterious Fertilizer
-hwell:leaf_mesh, Mysterious Mixture
-hwell:crystal, Crystal
-hwell:crystal_bowl, Crystal Bowl
-hwell:crystal_bowl_water, Water Filled Crystal Bowl
-hwell:wheat_flour, Wheat Flour
-hwell:salt, Salt
-hwell:hamburger, Hamburger
-hwell:hamburger_cooked, Cooked Hamburger
-hwell:shard_c, Shard of the Soil of Fire
-hwell:shard_fe, Shard of the Sacred Land
-hwell:shard_au, Shard of the Shining Dawn
-hwell:shard_o, Shard of the Root of Life
-hwell:shard_h, Shard of the Living World
-hwell:shard_ca, Shard of the Born Might
-hwell:shard_p, Shard of the Morning Star
-hwell:shard_n, Shard of the Pure Giver
-hwell:seed_of_life, Seed of Life
-hwell:seed_of_the_nether, Seed of the Nether
-hwell:seed_of_the_end, Seed of the End
-hwell:obsidian_displacer, Obsidian Displacer
-hwell:empowered_displacer, Empowered Displacer
-hwell:power_crystal, Power Crystal
-hwell:crystal_nether, Nether Crystal
-hwell:myst_dust_picker_fe, Dust Picker
-hwell:myst_dust_picker_ca, Dust Picker
-hwell:myst_dust_picker_c, Dust Picker
-hwell:myst_dust_picker_o, Dust Picker
-hwell:myst_dust_picker_au, Dust Picker
-hwell:myst_dust_picker_h, Dust Picker
-hwell:myst_dust_picker_p, Dust Picker
-hwell:myst_dust_picker_n, Dust Picker
-hwell:grinding_wheel_iron, Iron Grinding Wheel
-hwell:grinding_wheel_diamond, Diamond Grinding Wheel
-hwell:grinding_wheel_crystal, Crystal Grinding Wheel
-hwell:locked_light, Imprisoned Light
-hwell:raw_mystic_iron, Raw Mystic Iron
-hwell:mystic_iron_ingot, Mystic Iron Ingot
-hwell:mystic_iron_sword, Mystic Iron Sword
-hwell:mystic_iron_dagger, Mystic Iron Dagger
-hwell:mystic_iron_axe, Mystic Iron Axe
-hwell:mystic_iron_pickaxe, Mystic Iron Pickaxe
-hwell:mystic_iron_shovel, Mystic Iron Shovel
-hwell:mystic_iron_helmet, Mystic Iron Helmet
-hwell:mystic_iron_chest, Mystic Iron Chestplate
-hwell:mystic_iron_legs, Mystic Iron Leggings
-hwell:mystic_iron_boots, Mystic Iron Boots
-hwell:crystal_catalyst, Crystal Catalyst
-hwell:metaldiamond, Metaldiamond
-hwell:raw_soulsteel, Raw Soulsteel
-hwell:soul_dust, Soul Dust
-hwell:soulsteel_ingot, Soulsteel Ingot
-hwell:mutation_paste, Mutation Paste
-hwell:repairing_paste, Repairing Paste
-hwell:raw_repairing_paste, Raw Repairing Paste
-hwell:soulsteel_sword, Soulsteel Sword
-hwell:soulsteel_dagger, Soulsteel Dagger
-hwell:soulsteel_axe, Soulsteel Axe
-hwell:soulsteel_pickaxe, Soulsteel Pickaxe
-hwell:soulsteel_shovel, Soulsteel Shovel
-hwell:soulsteel_helmet, Soulsteel Helmet
-hwell:soulsteel_chest, Soulsteel Chestplate
-hwell:soulsteel_legs, Soulsteel Leggings
-hwell:soulsteel_boots, Soulsteel Boots
-hwell:empty_rod, Empty Rod
-hwell:myst_rod, Myst Rod
-hwell:rod_myst_2, 66% Soul Filled Rod
-hwell:rod_myst_1, 33% Soul Filled Rod
-hwell:rod_blaze_3, 75% Blaze Filled Rod
-hwell:rod_blaze_2, 50% Blaze Filled Rod
-hwell:rod_blaze_1, 25% Blaze Filled Rod
 hwell:quartz_ore, Quartz Ore
 hwell:glowstone_ore, Glowstone Ore
 hwell:producer, Loot Kit Producer
@@ -10255,6 +10161,100 @@ hwell:box_graft_anima, tile.hwell.box_graft_anima.name
 hwell:box_graft_heat, tile.hwell.box_graft_heat.name
 hwell:box_graft_green, tile.hwell.box_graft_green.name
 hwell:box_graft_sentient, tile.hwell.box_graft_sentient.name
+hwell:loot_base, Loot Kit Base
+hwell:loot_blaze, Blaze Loot Kit
+hwell:loot_creeper, Creeper Loot Kit
+hwell:loot_enderman, Enderman Loot Kit
+hwell:loot_ghast, Ghast Loot Kit
+hwell:loot_shulker, Shulker Loot Kit
+hwell:loot_skeleton, Skeleton Loot Kit
+hwell:loot_slime, Slime Loot Kit
+hwell:loot_spider, Spider Loot Kit
+hwell:loot_witch, Witch Loot Kit
+hwell:loot_wither, Wither Skeleton Loot Kit
+hwell:loot_zombie, Zombie Loot Kit
+hwell:loot_guardian, Guardian Loot Kit
+hwell:heavy_mesh, Heavy Mix Lump
+hwell:heavy_ingot, Heavy Ingot
+hwell:heavy_nugget, Heavy Nugget
+hwell:fuel_dust, Heavy Fuel Dust
+hwell:fuel_dust_tiny, Tiny Pile of Heavy Fuel Dust
+hwell:asul_ingot, Asul Ingot
+hwell:asul_nugget, Asul Nugget
+hwell:heavy_shears, Heavy Shears
+hwell:dust, Stone Dust
+hwell:myst_dust, Mysterious Dust
+hwell:myst_fertilizer, Mysterious Fertilizer
+hwell:leaf_mesh, Mysterious Mixture
+hwell:crystal, Crystal
+hwell:crystal_bowl, Crystal Bowl
+hwell:crystal_bowl_water, Water Filled Crystal Bowl
+hwell:wheat_flour, Wheat Flour
+hwell:salt, Salt
+hwell:hamburger, Hamburger
+hwell:hamburger_cooked, Cooked Hamburger
+hwell:shard_c, Shard of the Soil of Fire
+hwell:shard_fe, Shard of the Sacred Land
+hwell:shard_au, Shard of the Shining Dawn
+hwell:shard_o, Shard of the Root of Life
+hwell:shard_h, Shard of the Living World
+hwell:shard_ca, Shard of the Born Might
+hwell:shard_p, Shard of the Morning Star
+hwell:shard_n, Shard of the Pure Giver
+hwell:seed_of_life, Seed of Life
+hwell:seed_of_the_nether, Seed of the Nether
+hwell:seed_of_the_end, Seed of the End
+hwell:obsidian_displacer, Obsidian Displacer
+hwell:empowered_displacer, Empowered Displacer
+hwell:power_crystal, Power Crystal
+hwell:crystal_nether, Nether Crystal
+hwell:myst_dust_picker_fe, Dust Picker
+hwell:myst_dust_picker_ca, Dust Picker
+hwell:myst_dust_picker_c, Dust Picker
+hwell:myst_dust_picker_o, Dust Picker
+hwell:myst_dust_picker_au, Dust Picker
+hwell:myst_dust_picker_h, Dust Picker
+hwell:myst_dust_picker_p, Dust Picker
+hwell:myst_dust_picker_n, Dust Picker
+hwell:grinding_wheel_iron, Iron Grinding Wheel
+hwell:grinding_wheel_diamond, Diamond Grinding Wheel
+hwell:grinding_wheel_crystal, Crystal Grinding Wheel
+hwell:locked_light, Imprisoned Light
+hwell:raw_mystic_iron, Raw Mystic Iron
+hwell:mystic_iron_ingot, Mystic Iron Ingot
+hwell:mystic_iron_sword, Mystic Iron Sword
+hwell:mystic_iron_dagger, Mystic Iron Dagger
+hwell:mystic_iron_axe, Mystic Iron Axe
+hwell:mystic_iron_pickaxe, Mystic Iron Pickaxe
+hwell:mystic_iron_shovel, Mystic Iron Shovel
+hwell:mystic_iron_helmet, Mystic Iron Helmet
+hwell:mystic_iron_chest, Mystic Iron Chestplate
+hwell:mystic_iron_legs, Mystic Iron Leggings
+hwell:mystic_iron_boots, Mystic Iron Boots
+hwell:crystal_catalyst, Crystal Catalyst
+hwell:metaldiamond, Metaldiamond
+hwell:raw_soulsteel, Raw Soulsteel
+hwell:soul_dust, Soul Dust
+hwell:soulsteel_ingot, Soulsteel Ingot
+hwell:mutation_paste, Mutation Paste
+hwell:repairing_paste, Repairing Paste
+hwell:raw_repairing_paste, Raw Repairing Paste
+hwell:soulsteel_sword, Soulsteel Sword
+hwell:soulsteel_dagger, Soulsteel Dagger
+hwell:soulsteel_axe, Soulsteel Axe
+hwell:soulsteel_pickaxe, Soulsteel Pickaxe
+hwell:soulsteel_shovel, Soulsteel Shovel
+hwell:soulsteel_helmet, Soulsteel Helmet
+hwell:soulsteel_chest, Soulsteel Chestplate
+hwell:soulsteel_legs, Soulsteel Leggings
+hwell:soulsteel_boots, Soulsteel Boots
+hwell:empty_rod, Empty Rod
+hwell:myst_rod, Myst Rod
+hwell:rod_myst_2, 66% Soul Filled Rod
+hwell:rod_myst_1, 33% Soul Filled Rod
+hwell:rod_blaze_3, 75% Blaze Filled Rod
+hwell:rod_blaze_2, 50% Blaze Filled Rod
+hwell:rod_blaze_1, 25% Blaze Filled Rod
 immersiveengineering:ore:0, Copper Ore
 immersiveengineering:ore:1, Bauxite Ore
 immersiveengineering:ore:2, Lead Ore
@@ -11185,10 +11185,10 @@ inspirations:dyed_bottle:2, Green Dyed Water Bottle
 inspirations:dyed_bottle:1, Red Dyed Water Bottle
 inspirations:dyed_bottle:0, Black Dyed Water Bottle
 inspirations:potato_soup, Potato Soup
-mechanics:martlet_stone, Stone Martlet
-mechanics:martlet_iron, Iron Martlet
 mechanics:drying_table, Drying Table
 mechanics:alloy_furnace, Alloy Furnace
+mechanics:martlet_stone, Stone Martlet
+mechanics:martlet_iron, Iron Martlet
 morecharcoal:apple_charcoal, Apple Charcoal
 morecharcoal:beet_charcoal, Beet Charcoal
 morecharcoal:chorus_charcoal, Chorus Fruit Charcoal
@@ -11605,27 +11605,6 @@ speedyladders:stone_ladder, Stone Ladder
 speedyladders:iron_ladder, Iron Ladder
 speedyladders:gold_ladder, Gold Ladder
 speedyladders:diamond_ladder, Diamond Ladder
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -11676,6 +11655,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 tombstone:decorative_grave_simple, Simple Grave
 tombstone:decorative_grave_normal, Normal Grave
 tombstone:decorative_grave_cross, Cross Grave
@@ -15023,8 +15023,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Fusion Core
 chiselsandbits:block_bit:0, Chiseled Bit - Wet Sand
 chiselsandbits:block_bit:0, Chiseled Bit - Raw Radiant Quartz Block
 chiselsandbits:block_bit:0, Chiseled Bit - Shaped Radiant Quartz Block
-chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
-chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
@@ -15032,6 +15030,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
 chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
+chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
+chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
 chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
@@ -16388,46 +16388,8 @@ magneticraft:steel_gear, item.magneticraft.steel_gear.name
 magneticraft:tungsten_gear, item.magneticraft.tungsten_gear.name
 magneticraft:inserter_upgrade:0, Inserter Upgrade: Speed
 magneticraft:inserter_upgrade:1, Inserter Upgrade: Stack
-magneticraft:connector:0, Electric Connector
-magneticraft:electric_pole:0, Electric Pole
-magneticraft:electric_cable:0, Electric cable
-magneticraft:tesla_tower:0, Tesla Tower
-magneticraft:energy_receiver:0, Energy Receiver
-magneticraft:electric_pole_transformer:0, Electric Pole Transformer
-magneticraft:conveyor_belt:0, Conveyor Belt
-magneticraft:inserter:0, Inserter
-magneticraft:water_generator:0, Water Generator
-magneticraft:feeding_trough:0, Wooden Feeding Trough
-magneticraft:pneumatic_tube:0, Pneumatic Tube
-magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
-magneticraft:relay:0, Relay
-magneticraft:filter:0, Filter
-magneticraft:transposer:0, Transposer
-magneticraft:multiblock_parts:0, Machine Block
-magneticraft:multiblock_parts:1, Electrical Machine Block
-magneticraft:multiblock_parts:2, Iron Grate Machine Block
-magneticraft:multiblock_parts:3, Striped Machine Block
-magneticraft:multiblock_parts:4, Copper Coil Machine Block
-magneticraft:multiblock_parts:5, Corrugate Iron Machine Block
-magneticraft:multiblock_column:0, Support Column (Y axis)
-magneticraft:pumpjack_drill:0, Pumpjack Pipe
-magneticraft:computer:0, Computer
-magneticraft:mining_robot:0, Mining Robot
-magneticraft:battery:0, Battery Block
-magneticraft:electric_furnace:0, Electric furnace
-magneticraft:infinite_energy:0, Infinite Energy
-magneticraft:air_bubble:0, Air Bubble
-magneticraft:airlock:0, Airlock
-magneticraft:thermopile:0, Thermopile
-magneticraft:wind_turbine:0, Wind turbine
-magneticraft:electric_heater:0, Electric Heater
-magneticraft:rf_heater:0, RF Heater
-magneticraft:rf_transformer:0, RF transformer
-magneticraft:electric_engine:0, Electric Engine
-magneticraft:box:0, Wooden Box
-magneticraft:crushing_table:0, Crushing Table
-magneticraft:sluice_box:0, Sluice Box
-magneticraft:fabricator:0, Fabricator
+magneticraft:small_tank:0, Small tank
+magneticraft:iron_pipe:0, Iron Pipe
 magneticraft:solar_panel:0, Solar Panel
 magneticraft:shelving_unit:0, Shelving Unit
 magneticraft:steam_engine:0, Small Steam Engine
@@ -16444,17 +16406,14 @@ magneticraft:big_combustion_chamber:0, Big Combustion Chamber
 magneticraft:big_steam_boiler:0, Big Steam Boiler
 magneticraft:steam_turbine:0, Steam Turbine
 magneticraft:big_electric_furnace:0, Big Electric Furnace
-magneticraft:limestone:0, Limestone
-magneticraft:limestone:1, Limestone Brick
-magneticraft:limestone:2, Limestone Cobble
-magneticraft:burnt_limestone:0, Burnt Limestone
-magneticraft:burnt_limestone:1, Burnt Limestone Brick
-magneticraft:burnt_limestone:2, Burnt Limestone Cobble
-magneticraft:tile_limestone:0, Limestone Tiles
-magneticraft:tile_limestone:1, Inverted Limestone Tiles
-magneticraft:tube_light:0, Tube Light
-magneticraft:small_tank:0, Small tank
-magneticraft:iron_pipe:0, Iron Pipe
+magneticraft:multiblock_parts:0, Machine Block
+magneticraft:multiblock_parts:1, Electrical Machine Block
+magneticraft:multiblock_parts:2, Iron Grate Machine Block
+magneticraft:multiblock_parts:3, Striped Machine Block
+magneticraft:multiblock_parts:4, Copper Coil Machine Block
+magneticraft:multiblock_parts:5, Corrugate Iron Machine Block
+magneticraft:multiblock_column:0, Support Column (Y axis)
+magneticraft:pumpjack_drill:0, Pumpjack Pipe
 magneticraft:combustion_chamber:0, Combustion Chamber
 magneticraft:steam_boiler:0, Boiler
 magneticraft:heat_pipe:0, Heat Pipe
@@ -16462,6 +16421,36 @@ magneticraft:insulated_heat_pipe:0, Insulated Heat Pipe
 magneticraft:heat_sink:0, Heat sink
 magneticraft:gasification_unit:0, Gasification Unit
 magneticraft:brick_furnace:0, Brick furnace
+magneticraft:battery:0, Battery Block
+magneticraft:electric_furnace:0, Electric furnace
+magneticraft:infinite_energy:0, Infinite Energy
+magneticraft:air_bubble:0, Air Bubble
+magneticraft:airlock:0, Airlock
+magneticraft:thermopile:0, Thermopile
+magneticraft:wind_turbine:0, Wind turbine
+magneticraft:electric_heater:0, Electric Heater
+magneticraft:rf_heater:0, RF Heater
+magneticraft:rf_transformer:0, RF transformer
+magneticraft:electric_engine:0, Electric Engine
+magneticraft:connector:0, Electric Connector
+magneticraft:electric_pole:0, Electric Pole
+magneticraft:electric_cable:0, Electric cable
+magneticraft:tesla_tower:0, Tesla Tower
+magneticraft:energy_receiver:0, Energy Receiver
+magneticraft:electric_pole_transformer:0, Electric Pole Transformer
+magneticraft:conveyor_belt:0, Conveyor Belt
+magneticraft:inserter:0, Inserter
+magneticraft:water_generator:0, Water Generator
+magneticraft:feeding_trough:0, Wooden Feeding Trough
+magneticraft:pneumatic_tube:0, Pneumatic Tube
+magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
+magneticraft:relay:0, Relay
+magneticraft:filter:0, Filter
+magneticraft:transposer:0, Transposer
+magneticraft:box:0, Wooden Box
+magneticraft:crushing_table:0, Crushing Table
+magneticraft:sluice_box:0, Sluice Box
+magneticraft:fabricator:0, Fabricator
 magneticraft:ores:0, Chalcopyrite Ore (Copper)
 magneticraft:ores:1, Galena Ore (Lead)
 magneticraft:ores:2, Cobaltite Ore (Cobalt)
@@ -16474,6 +16463,17 @@ magneticraft:storage_blocks:1, Lead Block
 magneticraft:storage_blocks:2, Cobalt Block
 magneticraft:storage_blocks:3, Tungsten Block
 magneticraft:storage_blocks:4, Sulfur Block
+magneticraft:computer:0, Computer
+magneticraft:mining_robot:0, Mining Robot
+magneticraft:limestone:0, Limestone
+magneticraft:limestone:1, Limestone Brick
+magneticraft:limestone:2, Limestone Cobble
+magneticraft:burnt_limestone:0, Burnt Limestone
+magneticraft:burnt_limestone:1, Burnt Limestone Brick
+magneticraft:burnt_limestone:2, Burnt Limestone Cobble
+magneticraft:tile_limestone:0, Limestone Tiles
+magneticraft:tile_limestone:1, Inverted Limestone Tiles
+magneticraft:tube_light:0, Tube Light
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 tetra:sword_modular, item.sword_modular.name
 tetra:geode, Geode
