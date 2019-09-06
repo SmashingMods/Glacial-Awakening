@@ -10,57 +10,58 @@ glacial.chemisty_chapter.chapter=The Periodic Table [Challenge Quests]
 #Chapter 1
 #
 glacial.first_quest.title=The Awakening
-glacial.first_quest.text=You find yourself in this small, dark cave... It has some roots growing on the walls. You don't have many other resources available to you, so try to not use all of these.
+ glacial.first_quest.text=You find yourself in this small, dark cave... The walls are made of ice and you don't have many other resources available. Use them wisely.
 
 glacial.cave_roots.title=Harvest Cave Roots
-glacial.cave_roots.text=First, collect some of these roots growing on the walls. They will drop "Cave Root", which you can craft on their own back into "Cave RootS"
+glacial.cave_roots.text= glacial.cave_roots.text=First, collect some of these roots growing on the walls. They will drop "Cave Root". Place these on a crafting grid to get more "Cave Roots" to grow on the walls.
 
-glacial.plant_fibers.title=Create plant fibers
-glacial.plant_fibers.text=Toss the "Cave Root" item into water to convert them into plant fibers. This packed ice below me isn't too hard, maybe if I try digging through it i'll find water
+glacial.plant_fibers.title=Create Plant Fibers
+glacial.plant_fibers.text=Toss the "Cave Root" item into water to make plant fibers. Water can be found far beneath you.
+
 
 glacial.torches.title=Craft Torches
-glacial.torches.text=Create more torches from dried plant fiber. Acquire sticks by tossing torches in the water. Be careful to not use all your sticks.
+glacial.torches.text=Create more torches by crafting dried plant fibers with a stick. Acquire sticks by extinquishing torches in the water. Be careful not to use all your sticks.
 
 glacial.granite_rocks.title=Punch for Granite Rocks
-glacial.granite_rocks.text=Hold shift and hold left-click while aiming at a block of permafrost to harvest small rocks
+glacial.granite_rocks.text=To harvest granite rocks, hold shift and repeatedly punch a block of permafrost.
 
 glacial.crude_pickaxe.title=Crude Pickaxe
-glacial.crude_pickaxe.text=
+glacial.crude_pickaxe.text=Use some plant fiber, granite rocks and sticks to make a crude pickaxe.
 
 glacial.crude_shovel.title=Crude Shovel
-glacial.crude_shovel.text=
+glacial.crude_shovel.text=Use some plant fiber, granite rocks and sticks to make a crude shovel.
 
 glacial.crafting_table.title=Crafting Table
-glacial.crafting_table.text=
-
+glacial.crafting_table.text=Click the crafting table above to see the recipe. You can use this technique throughout the pack. Additionaly, hover over a quest item and hit "A" to save it to the JEI.
+ 
 glacial.compacting_bin.title=Compacting Bin
-glacial.compacting_bin.text=You can use this to compact certain items into blocks, including snow and gravel
+glacial.compacting_bin.text=Place items into the bin and smack it repeatedly with a shovel to compact them into blocks. View recipes by hovering over the the compacting bin and hitting "U".
 
 glacial.flint.title=Flint
-glacial.flint.text=Pack at least 8 granite rocks into the compacting bin, then dig out the debris with a shovel to get gravel
+glacial.flint.text=Pack at least 8 granite rocks into the compacting bin to get gravel, then use the gravel to craft some flint.
 
 glacial.granite_anvil.title=Granite Anvil
-glacial.granite_anvil.text=Break a piece of flint on the anvil by right-clicking it with a pickaxe. The resulting shards can be used to create flint tools
+glacial.granite_anvil.text=Place flint on the anvil, then right-click it with a pickaxe to create flint shards. The resulting shards can be used to create flint tools.
 
 glacial.mini_freezer.title=Mini Freezer
 glacial.mini_freezer.text=If you are having trouble finding snow, then dig towards the surface
 
 glacial.terra_moss.title=Harvest Terra Moss
-glacial.terra_moss.text_1=Harvest Terra Moss by right-clicking mossy cobblestone with a knife
+glacial.terra_moss.text_1=Harvest Terra Moss by right-clicking mossy cobblestone with a knife.
 glacial.terra_moss.text_2=The stone knife can be crafted with cobbled granite (made by crafting 9 granite rocks together)
 
 glacial.blue_sprout.title=Blue Sprout
-glacial.blue_sprout.text=To get a blue sprout: Plant cave roots on the walls, and make sure there are open blocks below them so they can grow downwards. If you give them a chance to do this they will sometimes grow blue roots
+glacial.blue_sprout.text=You may already have one, but in case you don't, grow some cave roots on the walls. As cave roots grow downward, they have a chance of growing blue sprouts.
 
 glacial.ice_crystal.title=Ice Crystal
-glacial.ice_crystal.text=
+glacial.ice_crystal.text=Apparently, snow can get really heavy, and when you freeze it, it creates crystals.
 
 glacial.create_stalicripe.title=Create Stalicripe
-glacial.create_stalicripe.text=Insert the appropriate ingredients into the pyre, then start the stalicripe ritual by right-clicking it with your firestarter
+glacial.create_stalicripe.text=Place the appropriate ingredients into the pyre, then start the stalicripe ritual by right-clicking it with your firestarter. When the ritual is over, you can collect the stalicripe.
 
 
 glacial.shatter_dust.title=Concoct
-glacial.shatter_dust.text=Create "Shatter" spell dust in the mortar
+glacial.shatter_dust.text=Create the "Shatter" spell dust in the mortar.
 
 glacial.roots_staff.title=Prepare for Liberation
 glacial.roots_staff.text=Imbue your staff with the "Shatter" spell. Use this spell to break free of this underground prison
@@ -69,22 +70,22 @@ glacial.obsidian.title=Be Free!
 glacial.obsidian.text=Use the Imbuer to imbue your staff with the shatter spell. Use your imbued staff to break the obsidian layer above you in order to break free to the surface
 
 glacial.early_storage.title=Early Storage
-glacial.early_storage.text=
+glacial.early_storage.text=No wood, no problem. Craft 2 stone chests to solve your stuff problems.
 
 glacial.stone_rock_grinder.title=Stone Rock Grinder
-glacial.stone_rock_grinder.text=
+glacial.stone_rock_grinder.text=Cobble to gravel, gravel to sand. Grinding gravel has a chance to drop blue flint.
 
 glacial.wooden_bucket.title=Wooden Bucket
-glacial.wooden_bucket.text=This bucket has limited durability that will deplete when it holds fluids.
+glacial.wooden_bucket.text=Use the wooden bucket to gather water and other fluids. Each usage will decrease its durability until depleted.
 
 glacial.gather_cobblestone.title=Gather Cobblestone
-glacial.gather_cobblestone.text=
+glacial.gather_cobblestone.text=Dig!
 
-glacial.flesh_nuggets.title=A little snow helps the rotten flesh go down
-glacial.flesh_nuggets.text=
+glacial.flesh_nuggets.title=An Icy Treat
+glacial.flesh_nuggets.text=A little snow helps the rotten flesh go down.
 
 glacial.hammer.title=Hammer Time!
-glacial.hammer.text=
+glacial.hammer.text=Some items require a heavier tool in order to break them upon the anvil.
 
 glacial.clay.title=Clay one way or another
 glacial.clay.text=Clay can either be acquired either by mining underground or by mixing bonemeal and crushed limestone together in water
@@ -93,19 +94,19 @@ glacial.water_strainer.title=Your First Strainer
 glacial.water_strainer.text=Having trouble getting string? Try getting animal hide strap instead. Penguins, bears, and deer will all drop leather
 
 glacial.fertile_soil.title=Fertile Soil
-glacial.fertile_soil.text=
-
+glacial.fertile_soil.text=No twerking required.
+ 
 glacial.growing_trees.title=Growing Trees
-glacial.growing_trees.text=Bring some greenery to this frozen wasteland
+glacial.growing_trees.text=Bring some greenery to this frozen wasteland.
 
 glacial.log_mallet.title=Log Mallet
-glacial.log_mallet.text=To create the tetra workbench, right-click a vanilla crafting table with a log mallet. This new workbench can be used to upgrade your tools
+glacial.log_mallet.text=To create the tetra workbench, right-click a vanilla crafting table with a log mallet. This new workbench can be used to upgrade and repair your tools.
 
 glacial.bed.title=Craft a Bed
-glacial.bed.text=
+glacial.bed.text=No sheep? Use string to create wool.
 
 glacial.storage_crate.title=Small Storage Crate
-glacial.storage_crate.text=
+glacial.storage_crate.text=Two for the price of one, what a deal!
 
 glacial.well_book.title=Book of the Well
 glacial.well_book.text_1=To get this item you need two wooden pressure plates, one on each hand. Then say a heartfelt prayer to the gods containing the words "poor", "please", "send", "book", "gods". Quickly after that, while looking directly up, smash the pressure plates
@@ -114,30 +115,30 @@ glacial.well_book.text_3=(The gods want you to work for it, give them at least 3
 
 glacial.stone_combustion.title=Stone Combustion Heater
 glacial.stone_combustion.text_1=In order to use the combustion chamber:
-glacial.stone_combustion.text_2=1. Place down the stone casing
-glacial.stone_combustion.text_3=2. Right-click it with the stone combustion heater to insert it into the casing
-glacial.stone_combustion.text_4=3. Make sure the block space above the stone casing is empty, then surround it on all other 5 sides with stone or cobblestone
-glacial.stone_combustion.text_5=4. In order to actually use the chamber, consult JEI for recipes, toss the inputs into the empty space above the combustion heater, seal it back up, put fuel into the combustion heater, then finally provide a redstone pulse
-glacial.stone_combustion.text_6=Having trouble getting stone to craft these items? Use the survivalist strainer required by this quest to acquire stone
+glacial.stone_combustion.text_2=  1. Place down the stone casing
+glacial.stone_combustion.text_3=  2. Right-click it with the stone combustion heater to insert it into the casing
+glacial.stone_combustion.text_4=  3. Surround all 4 sides of the empty space above the combustion heater with stone or cobblestone.
+glacial.stone_combustion.text_5=  4. Place a block on TOP of the empty space to act as a lid or seal. Place a button or lever on the combustion heater to activate it when items are present in the chamber.
+glacial.stone_combustion.text_6=Having trouble getting stone to craft these items? Check the different Survivalist Strainers to find the one to acquire stone.
 
 glacial.blaze_powder.title=Create Blaze Powder
-glacial.blaze_powder.text=
-
+glacial.blaze_powder.text=To use the combustion heater, unseal the top, throw in some gunpowder and seal it up. Add some fuel to heat it up to at least 75 HU, then activate the heater. You should hear a nice satisfying BOOM.
+ 
 glacial.stone_kiln.title=Stone Kiln
-glacial.stone_kiln.text=
+glacial.stone_kiln.text=You will need a lot of masonry bricks and a decent stash of heavy ingots in the future.
 
 glacial.empty_rod.title=Empty Rod
-glacial.empty_rod.text=
+glacial.empty_rod.text=Right click with the rod in hand to fill it with Mystery.
 
 glacial.life_seed.title=Seed of Life
-glacial.life_seed.text=Can be used on dirt to create grass
+glacial.life_seed.text=Use this on dirt to create grass.
 
 glacial.rock_core.title=Cores for Ores
-glacial.rock_core.text=Soon you will be able to turn these rock cores into several different ores
+glacial.rock_core.text=Master the art of crystal making to craft rock cores, which will soon be used to create ores.
 
 glacial.mysterious_grass.title=Mysterious Grass
-glacial.mysterious_grass.text_1=If you are lucky you may find some grass near your base, but if you aren't so lucky you can also create grass with a seed of life. 
-glacial.mysterious_grass.text_2=You can infuse grass with mystical dust (via right-click) to create mysterious grass. This mysterious grass will slowly grow plants that can be harvested for an infinite supply of more mysterious dust
+glacial.mysterious_grass.text_1=You can infuse grass with mystical dust (via right-click) to create mysterious grass. This mysterious grass will slowly grow plants that can be harvested for an infinite supply of more mysterious dust.
+glacial.mysterious_grass.text_2=The mysterious grass will spread to any adjacent grass blocks.
 
 #
 #Chapter 2
@@ -234,13 +235,13 @@ glacial.natural_altar.title=Natural Altar
 glacial.natural_altar.text=Requires a multiblock structure, your Book of Natural Aura can display a hologram to help you build it
 
 glacial.natural_altar_ores.title=Natural Altar Ore Processing
-glacial.natural_altar_ores.text=WIth the natural altar, you can process your ores significantly more quickly and easily compared to the bloomery. though the yield will be slightly lower per ore.
+glacial.natural_altar_ores.text=With the natural altar, you can process your ores significantly more quickly and easily compared to the bloomery. though the yield will be slightly lower per ore.
 
 glacial.ancient_sapling.title=Ancient Sapling
 glacial.ancient_sapling.text=The ancient tree will restore the aura in the back to neutral, however it will not generate excess aura
 
 glacial.jungle_sapling.title=Jungle Sapling
-glacial.jungle_sapling.text=Create a jungle sapling with the ritual of transmutation (from Roots, see "The Druidic Arts" book)
+glacial.jungle_sapling.text=You can convert birch logs and leaves into their jungle equivalents with the ritual of transmutation (from Roots, see "The Druidic Arts" book).
 
 glacial.bottled_ghosts.title=Bottled Ghosts
 glacial.bottled_ghosts.text=

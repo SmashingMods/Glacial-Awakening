@@ -1,0 +1,137 @@
+# Chapters
+glacial.first_quest.title=Пробуждение
+glacial.first_quest.text=Вы находитесь в маленькой, тёмной пещере... У вас есть корни, растущие на стенах. У вас нет доступа к другим ресурсам, так что посторойтесь не использовать все что имеете.
+
+glacial.cave_roots.title=Сбор пещерных корней
+glacial.cave_roots.text=Для начала соберите несколько корней со стен. Из них Вы получите пещерный корень, из которого Вы сможете сделать свисающие пещерные корни.
+
+glacial.plant_fibers.title=Создание растительного волокона
+glacial.plant_fibers.text=Бросьте "Пещерный корень" в воду, чтобы превратить их в растительное волокно. Этот плотный лёд подо мной довольно хрупкий, возможно, если я попытаюсь копаться в нём, я найду воду
+
+glacial.torches.title=Создание факелов
+glacial.torches.text=Сделайте больше факелов из высушенного растительного волокна. Получайте палки, бросая факела в воду. Будьте осторожны, чтобы не использовать все свои палки.
+
+glacial.granite_rocks.title=Бейте для гранитных камней
+glacial.granite_rocks.text=Зажмите shift и левую кнопку мыши целясь на ледниковый камень, чтобы собрать маленькие камни
+
+glacial.crude_pickaxe.title=Примитивная кирка
+glacial.crude_pickaxe.text=
+
+glacial.crude_shovel.title=Примитивная лопата
+glacial.crude_shovel.text=
+
+glacial.crafting_table.title=Верстак
+glacial.crafting_table.text=
+
+glacial.compacting_bin.title=Уплотнительный закром
+glacial.compacting_bin.text=Вы можете использовать это для уплотнения определенных предметов в блоки, в том числе снег и гравий
+
+glacial.flint.title=Кремень
+glacial.flint.text=Упокуйте не менее 8 гравия в уплотнительном закроме, затем выкопайте все осколки лопатой, чтобы получить гравий
+
+glacial.granite_anvil.title=Гранитная наковальня
+glacial.granite_anvil.text=Разбейте кусок гравия на наковальне, зажав правую кнопку мыши с киркой в руках по наковальне. Полученные осколки можно использовать для создания кремниевых инструментов 
+
+glacial.mini_freezer.title=Мини холодильник
+glacial.mini_freezer.text=Если у вас появятся проблемы с поиском снега, то копайтесь к поверхности
+
+glacial.terra_moss.title=Сбор мха
+glacial.terra_moss.text_1=Собирайте мох нажатием правой кнопкой мыши по замшелому булыжнику с ножом в руках
+glacial.terra_moss.text_2=Каменный нож можно сделать из мощного гранита (гранит создается из 9 кусочков гранитного булыжника)
+
+glacial.blue_sprout.title=Синий росток
+glacial.blue_sprout.text=Чтобы получить синий росток: посадите пещерные корни на стены и убедитесь, что под ними есть свободные блоки, чтобы они могли расти вниз. С некоторым шансом могут вырасти синие корни
+
+glacial.ice_crystal.title=Ледяной кристалл
+glacial.ice_crystal.text=
+
+glacial.create_stalicripe.title=Создание Stalicripe
+glacial.create_stalicripe.text=Вставьте соответствующие предметы в костер, затем начните ритуал Stalicripe, щелкнув правой кнопкой мыши по нему с помощью зажигалки. Она же Fire starter
+
+
+glacial.shatter_dust.title=Изобретение
+glacial.shatter_dust.text=Создайте заклинание "Shatter" в ступке.
+
+glacial.roots_staff.title=Подготовьтесь к освобождению
+glacial.roots_staff.text=Пропитайте свой посох заклинанием "Shatter". Используйте это заклинание, чтобы вырваться из этой подземной тюрьмы
+
+glacial.obsidian.title=Будь свободен!
+glacial.obsidian.text=
+
+glacial.early_storage.title=Раннее хранение
+glacial.early_storage.text=
+
+glacial.stone_rock_grinder.title=Stone Rock Grinder
+glacial.stone_rock_grinder.text=
+
+glacial.wooden_bucket.title=Деревянное ведро
+glacial.wooden_bucket.text=Это ведро имеет ограниченное количество прочности, которое тратится, когда оно содержит жидкость.
+
+glacial.gather_cobblestone.title=Соберите булыжник
+glacial.gather_cobblestone.text=
+
+glacial.flesh_nuggets.title=Немного снега помогает гнилой плоти быть более полезной
+glacial.flesh_nuggets.text=
+
+glacial.hammer.title=Время молота!
+glacial.hammer.text=
+
+glacial.clay.title=Глина так или иначе
+glacial.clay.text=Глину можно добывать либо подземным способом, либо смешивая костную муку и измельченный известняк вместе в воде.
+
+glacial.water_strainer.title=Ваше первое сито
+glacial.water_strainer.text=Возникли проблемы с получением ниток? Попробуйте вместо этого взять шкуры животных. Пингвины, медведи и олени сбрасывают кожу
+
+glacial.fertile_soil.title=Плодородная почва
+glacial.fertile_soil.text=
+
+glacial.growing_trees.title=Выращивание деревьев
+glacial.growing_trees.text=Принесите немного зелени в эту замерзшую пустошь
+
+glacial.log_mallet.title=Log Mallet
+glacial.log_mallet.text=Чтобы создать tetra верстак, щелкните правой кнопкой мыши на ванильном верстаке с молотком из бревна в руках. Этот новый верстак может быть использован для обновления ваших инструментов
+
+glacial.bed.title=Создание кровати
+glacial.bed.text=
+
+glacial.storage_crate.title=Малый ящик для хранения
+glacial.storage_crate.text=
+
+glacial.well_book.title=Book of the Well
+glacial.well_book.text_1=Чтобы получить этот предмет, вам понадобится 2 деревянные нажимные плиты, по одной в каждую руку. Затем произнести чистосердечную молитву богам, содержащую слова: "poor", "please", "send", "book", "gods".
+glacial.well_book.text_2=После этого необходимо быстро посмотреть в небо и нажать shift + првую кнопку мыши
+glacial.well_book.text_3=(Чтобы это работало, боги хотят не менее 30 символов)
+
+glacial.stone_combustion.title=Каменная камера сгорания
+glacial.stone_combustion.text_1=Для использования камеры сгорания:
+glacial.stone_combustion.text_2=1. Поместите вниз каменный корпус
+glacial.stone_combustion.text_3=2. Щелкните правой кнопкой мыши каменным нагревателем на корпус, чтобы вставить его.
+glacial.stone_combustion.text_4=3. Убедитесь, что пространство над каменным корпусом пустое, а затем окружите его со всех 5 сторон камнем или булыжником.
+glacial.stone_combustion.text_5=4. Чтобы использовать камеру, обратитесь к JEI за рецептами, киньте в пустое пространство над камерой сгорания необходимые предметы, закройте ее со всех сторон, поместите топливо в камеру сгорания, и, наконец, подайте сигнал красного камня
+glacial.stone_combustion.text_6=Возникли проблемы с получением камня для изготовления этих предметов? Используйте сито необходимое для этого квеста, чтобы получить камень
+
+glacial.blaze_powder.title=Создание огненного порошка
+glacial.blaze_powder.text=
+
+glacial.stone_kiln.title=Каменная печь
+glacial.stone_kiln.text=
+
+glacial.empty_rod.title=Пустой жезл
+glacial.empty_rod.text=
+
+glacial.life_seed.title=Семя жизни
+glacial.life_seed.text=Can be used on dirt to create grass
+
+glacial.rock_core.title=Ядра для руд
+glacial.rock_core.text=Вскоре вы сможете превратить эти каменные ядра в разную руду
+
+glacial.gravity_block.title=Гравитационный блок
+glacial.gravity_block.text=Если вы используете свою grit vase для выращивания деревьев, то, вероятно, у Вас беспорядок из саженцев и желудей. Используйте гравитационный блок, чтобы тянуть эти предметы к воронке.
+
+glacial.grit_vase.title=Grit Vase
+glacial.grit_vase.text_1=grit vase может использоваться для автоматического сборка блоков, например деревьев. Установите grit vase, затем несколько раз нажмите правой кнопкой мыши с мистическим удобрением в руках по grit vase, чтобы вырастить дерево
+glacial.grit_vase.text_2=Это дерево сломает любые блоки в пределах большого радиуса (над собой). Если вы хотите внести в черный или белый список блоки, которые он может сломать, вы можете использовать Tray
+glacial.grit_vase.text_3=Прочитайте Book of the Wells для получения дополнительной информации
+
+glacial.chapter_2.title=Глава 2
+glacial.chapter_2.text=Добро пожаловать в вторую главу :D Ту-туту
