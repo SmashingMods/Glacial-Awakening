@@ -278,104 +278,113 @@ glacial.cowhide.text_2=This is not required, but it is recommended as otherwise 
 #Chapter 3
 #
 
-glacial.chapter_3.text=Welcome to Chapter 3
+glacial.chapter_3.text=Welcome to Chapter 3  :D  Diddily-dee.  If you haven't tried Deep Mob learning, make the manual and give it a whirl!
 
 glacial.radiant_resonators.title=Craft Radiant Resonators
-glacial.radiant_resonators.text=Used to generate radiant quartz
+glacial.radiant_resonators.text=Place the resonators under open sky to produce radiant crystals. The chest and brazier can work as a intermediate item transfer system. Items thrown in the brazier will end up in the chest.
 
 glacial.astral_tome.title=Astral Tome
-glacial.astral_tome.desc=Your guide to the stars
+glacial.astral_tome.desc=This is your guide to the stars. Information will appear in this guide as you complete objectives. If you align yourself just right, you can be nearly invincible.
 
 glacial.glacidius.title=Explore Glacidius
 glacial.glacidius.text=The merialces can be found in the middle layer of glacidius, underneath the surface where the plants and trees are
 
 glacial.glacidius_diagram.title=Create a Glacidius Portal Diagram
-glacial.glacidius_diagram.text=
+glacial.glacidius_diagram.text=This is just a fancy picture showing how to build the portal. You will need 36 packed ice to create the portal. You might consider getting the hydralic press first!
 
 glacial.magnet_manual.title=Create a Magneticraft Manual
-glacial.magnet_manual.desc=An Introduction to Magneticraft!
+glacial.magnet_manual.desc=An Introduction to Magneticraft! Electricity in action.
 
 glacial.cookiequest.title=CookieQuest 2001 [Optional]
 glacial.cookiequest.text=The secret art of making cookies has been lost to time. However, there are rumors of a near limitless supply of cookies deep in the Glacidius dimension
 
-
 glacial.magnet_grinder.title=Grinder
-glacial.magnet_grinder.text=The Grinder multiblock will allow us to process our ores more efficiently both in terms of time and yield
+glacial.magnet_grinder.text_1=The Grinder multiblock will allow us to process our ores more efficiently both in terms of time and yield. Check the manual for all the building materials. It has a hefty pricetag.
+glacial.magnet_grinder.text_2=When you place down the blueprint, a grinder block will appear. You can break this block to get the blueprint back to re-position the multiblock. Once built, right-click the grinder block to create the structure.
 
 glacial.rocky_iron.title=Grind Iron Ore
-glacial.rocky_iron.desc=Try out your grinder
+glacial.rocky_iron.desc_1=This thing needs power. If you crafted the thermopile, just place it down, put lava or other really hot block on opposite sides and something super cold on the other two. Connect the thermopile to the grinder via the energy cables.
+glacial.rocky_iron.desc_2=If you crafted the combustion heater, craft a boiler and set on top to create steam. The boiler will need water, constantly. Build the steam generator multiblock and connect your boiler to it, then connect the generator to your grinder.
 
 glacial.magnet_washer.title=Create an Ore Washer
-glacial.magnet_washer.text=
+glacial.magnet_washer.text=Using the rocky chunks you gathered from the Grinder, you can wash them into chunks which yield two ingots per chunk.
 
 glacial.luminous_table.title=Luminous Crafting Table
-glacial.luminous_table.text=
+glacial.luminous_table.text_1=To craft the Luminous Table, you will need to find a Starlight Altar and underneath the center is a crystal. Place a crafting table down next to it and the crystal will direct starlight to it.
+glacial.luminous_table.text_2=Consider crafting a Resonating Wand as well to make finding Rock Crystal Ores easier. Consult the "Astral Tome" for more information.
 
 glacial.lightwell.title=Lightwell
-glacial.lightwell.text=
+glacial.lightwell.text_1=Liquid Starlight! Throw a rock crystal in and depending on the stats of the crystal, will fill the well up with liquid starlight. This needs a clear view to the sky, like most things in Astral Sorcery.
+glacial.lightwell.text_2=You may want to consider pumping the liquid out. Even if the well is full, it will still drain the crystal.
 
 glacial.starlight_altar.title=Starlight Crafting Altar
-glacial.starlight_altar.text=
+glacial.starlight_altar.text_1=You will need a much higher concentration of starlight in order to fully harness the power of starlight. For that, you will need a better crafting table.
+glacial.starlight_altar.text_2=This is a multiblock structure and can be upgraded. Consult the "Astral Tome" on how to build it.
 
 glacial.astral_lens.title=Lens
-glacial.astral_lens.text=
+glacial.astral_lens.text_1=Since your knowledge of starlight hinders you from crafting a collector crystal, you must create a network to transmit the starlight from the altar to where you would like.
+glacial.astral_lens.text_2=Right click the collector crystal with the linking tool, then right click a lens to create a connection. Continue making connections until the starlight beam is where you want it.
 
 glacial.starmetal.title=Create Starmetal Ingots
-glacial.starmetal.text=
+glacial.starmetal.text=Place iron ore near one of the lens with a starlight beam. Link the lens to the ore, once starlight hits it, it will transform to Starmetal Ore.
 
 glacial.hydraulic_press.title=Create a Hydraulic Press
-glacial.hydraulic_press.text=The hydraulic press is used to create plates
+glacial.hydraulic_press.text_1=The hydraulic press is used to create metal plates. It can also press other things, like stone to cobblestone or ice to packed ice. Take note of the mode you need for each press.
+glacial.hydraulic_press.text_2=This build is picky. The support beams along the top need to lay on their sides so that the lines on the beams are horizontal.
 
 glacial.coke_oven.title=Create a Coke Oven
-glacial.coke_oven.text=
+glacial.coke_oven.text=The first step in creating steel, which will be needed in large quantities later. The coke oven is a multi-block structure and produces creosote oil as a by product. Consult the Engineer's Manual for more info.
 
 glacial.blast_furnace.title=Create a Blast Furnace
-glacial.blast_furnace.text=
+glacial.blast_furnace.text_1=The second step in creating steel. This multi-block structure is not capable of automation and must be handled manually.
+glacial.blast_furnace.text_2=The third step, and highly recommended, is to upgrade to the Improved Blast Furnace to allow for automation and pre-heaters to greatly speed up steel production.
 
 glacial.alloy_kiln.title=Create an Alloy Kiln
-glacial.alloy_kiln.text=
+glacial.alloy_kiln.text=Who needs a smeltery? This requires a lot of sky stone. A crystal pickaxe would definately help. Consult the Astral Tome on crystal tools, especially how to repair them.
 
 glacial.electrum.title=Acquire Electrum Ingots
-glacial.electrum.text=
+glacial.electrum.text=Fun Fact: The medal given to Nobel Prize winners is electrum plated in gold.
 
 glacial.steel.title=Acquire Steel Ingots
-glacial.steel.text=
+glacial.steel.text=Steel. Useful for crafting building materials and alloying, but useless when it comes to tools and armor. A good alloy with steel is soulsteel. Soulsteel armor has the same protection as diamond armor, without the diamonds.
 
 glacial.simple_chassis.title=Simple Machine Chassis
-glacial.simple_chassis.text=This Simple Chassis will open up a whole lot of new possibilities for you
+glacial.simple_chassis.text=The basic building block for many more machines. To acquire Grains of Infinity, set bedrock on fire and wait for the grains to pop off.
 
 #
 #Chapter 4
 #
 
-glacial.chapter_4.text=
+glacial.chapter_4.text=Welcome to Chapter 4 :P  Diggety - dore  Power is important, try the aura forge to get started,
 
 glacial.item_conduits.title=Craft Item Conduits
-glacial.item_conduits.text=
+glacial.item_conduits.text=Use the Alloy furnace to craft special ingots used in the creation of conduits. To change a conduit's configuration, use a Yeta wrench. Conduits can support filters and upgrades.
 
 glacial.fluid_conduits.title=Craft Pressurized Fluid Conduits
-glacial.fluid_conduits.text=
+glacial.fluid_conduits.text=These special conduits can carry fluids much faster than the basic kind. Need Nether quartz? Try certuz quartz on a Natural Altar.
 
 glacial.ore_puller.title=Mystical Ore Puller
-glacial.ore_puller.text=This block can be used as part of a multiblock structure to generate ores. It requires hearth well power, so it is only semi-automatable. Look for it in the book of the well to see how it's built.
+glacial.ore_puller.text_1=The Mystical Ore Puller is a multiblock structure to generate ore from Hearth power and sunlight. It's built as a tower, and the higher you build it the faster it pulls ores. Consult the Book of the Well to see how to build it.
+glacial.ore_puller.text_2=Ores are generated above the Ore Puller block in the liquid souls. You will have to devise a fancy way to pull those ores out.
+glacial.ore_puller.text_3=To create Hearth power, you will need to craft power crystals. These crystals are crafted with many different blocks, each block adjusting the overall traits of the crystal. Consule "Powering" section of the book for more info.
 
 glacial.alloy_furnace.title=Alloy Furnace
-glacial.alloy_furnace.text=
+glacial.alloy_furnace.text=For all your alloying needs!  Well, maybe not ALL!
 
 glacial.energy_conduits.title=Craft Energy Conduits
-glacial.energy_conduits.text=
+glacial.energy_conduits.text=These special conduits carry energy. Upgrade them to transmit even larger quantities of energy at a time.
 
 glacial.ae2_charger.title=Charger
-glacial.ae2_charger.text=
+glacial.ae2_charger.text=The charger is used to create charged certus quartz crystals. It can also be used to charge various ME items. Struggling with power?  Attached a hand crank to get those certus quartz zapped.
 
 glacial.growth_chamber.title=Crystal Growth Chamber
-glacial.growth_chamber.text=
+glacial.growth_chamber.text=This chamber is specially designed to grow PURE crystals. Just insert a certus, nether or fluix seed and wait for it to mature into a pure, innocent crystal.
 
 glacial.manufactory.title=Manufactory
-glacial.manufactory.text=
+glacial.manufactory.text=A lot of power and utility in one small box. Used primarily for breaking items down into their powder forms, it can also break chunks down to increase ingot yield to 3.
 
 glacial.inscriber_presses.title=Gather Inscriber Presses
-glacial.inscriber_presses.text=
+glacial.inscriber_presses.text=Hopefully, through gathering the sky stone from earlier, you found a few of these already at the center of the meteors. Struggling to find meteors? Craft a meteor compass.
 
 glacial.energy_acceptor.title=Energy Acceptor
 glacial.energy_acceptor.text=
