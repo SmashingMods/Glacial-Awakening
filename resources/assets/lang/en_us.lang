@@ -10,7 +10,7 @@ glacial.chemisty_chapter.chapter=The Periodic Table [Challenge Quests]
 #Chapter 1
 #
 glacial.first_quest.title=The Awakening
- glacial.first_quest.text=You find yourself in this small, dark cave... The walls are made of ice and you don't have many other resources available. Use them wisely.
+glacial.first_quest.text=You find yourself in this small, dark cave... The walls are made of ice and you don't have many other resources available. Use them wisely.
 
 glacial.cave_roots.title=Harvest Cave Roots
 glacial.cave_roots.text= glacial.cave_roots.text=First, collect some of these roots growing on the walls. They will drop "Cave Root". Place these on a crafting grid to get more "Cave Roots" to grow on the walls.
@@ -33,7 +33,7 @@ glacial.crude_shovel.text=Use some plant fiber, granite rocks and sticks to make
 
 glacial.crafting_table.title=Crafting Table
 glacial.crafting_table.text=Click the crafting table above to see the recipe. You can use this technique throughout the pack. Additionaly, hover over a quest item and hit "A" to save it to the JEI.
- 
+
 glacial.compacting_bin.title=Compacting Bin
 glacial.compacting_bin.text=Place items into the bin and smack it repeatedly with a shovel to compact them into blocks. View recipes by hovering over the the compacting bin and hitting "U".
 
@@ -109,7 +109,7 @@ glacial.storage_crate.title=Small Storage Crate
 glacial.storage_crate.text=Two for the price of one, what a deal!
 
 glacial.well_book.title=Book of the Well
-glacial.well_book.text_1=To get this item you need two wooden pressure plates, one on each hand. Then say a heartfelt prayer to the gods containing the words "poor", "please", "send", "book", "gods". Quickly after that, while looking directly up, smash the pressure plates
+glacial.well_book.text_1=To get this item you need two wooden pressure plates, one on each hand. Then plead mightily to the gods containing the words "poor", "please", "send", "book", "gods". Quickly after that, while looking directly up, smash the pressure plates
 glacial.well_book.text_2=together with right click!
 glacial.well_book.text_3=(The gods want you to work for it, give them at least 30 characters)
 
@@ -152,227 +152,250 @@ glacial.grit_vase.text_2=This tree will break any blocks within a generous radiu
 glacial.grit_vase.text_3=Read the Book of the Wells for more information
 
 glacial.chapter_2.title=Chapter 2
-glacial.chapter_2.text=Welcome to Chapter 2  :D Doodley doo
+glacial.chapter_2.text=Welcome to Chapter 2  :D  Doodley doo!  Magic and Mayhem awaits.
 
 glacial.iron_ore.title=Create Iron Ore
 glacial.iron_ore.text_1=How to use a rock core:
 glacial.iron_ore.text_2=1. Place down a rock core
 glacial.iron_ore.text_3=2. Right-click the rock core with the shard indicated by the JEI recipe that you want (for this quest, the gray shard)
-glacial.iron_ore.text_4=3. Place the catalyst block (also indicated by the JEI recipe) next to the rock core
+glacial.iron_ore.text_4=3. Place the catalyst block, also indicated by the JEI recipe, next to the rock core.
 glacial.iron_ore.text_5=4. The catalyst block will pop off. Continue to place the catalyst block next to the rock core until it eventually converts
-glacial.iron_ore.text_6=Later in this chapter you will be given a stabilizer which will prevent the catalyst block from popping off
+glacial.iron_ore.text_6=Stabilizers can be used to prevent the catalyst block from popping off, one of which you will earn later.
 
 glacial.druidic_supplies.title=Gather Druidic Supplies
 glacial.druidic_supplies.text_1=Like earlier, terra moss can be found by using a knife on mossy cobblestone. Mossy cobblestone will occasionally spawn on the surface in small clusters
-glacial.druidic_supplies.text_2=To acquire wild roots, break grass plants
+glacial.druidic_supplies.text_2=Break tall grass to acquire wildroots. Once found, you can grow them on farmland.
 
 glacial.fey_crafter.title=Fey Crafter
 glacial.fey_crafter.desc=Fey is bae
+glacial.fey_crafter.text=To use, read "Crafting in Groves" in the "Druidic Arts Book". Your staff can hold up to 5 spells.
 
 glacial.stone_sawmill.title=Stone Sawmill
-glacial.stone_sawmill.text=The sawmill will give a much better yield of logs to planks
+glacial.stone_sawmill.text=The sawmill will cut logs to planks, giving a higher yield. Having trouble finding a fuel source? Throw logs on an open fire. You can even throw multiple stacks at a time.
 
 glacial.stone_crucible.title=Stone Crucible
-glacial.stone_crucible.text=Used to melt clay
+glacial.stone_crucible.text=Melts clay to liquid clay, which can be used to make Flint Clay.
 
 glacial.soaking_pot.title=Soaking Pot
-glacial.soaking_pot.text=Used to infuse certain items with liquids
+glacial.soaking_pot.text=Items placed in the pot with various liquids will get saturated, creating new crafting materials.
 
 glacial.ashes.title=Ashes, Ashes
-glacial.ashes.text=toss plank items in-world then light the item on fire to convert them into ash
+glacial.ashes.text=Toss planks on an open fire and they will turn to ashes. Ashes can be used to potash mulch, which will apply a bonemeal effect for the duration of the mulch.
 
 glacial.bonsai.title=Hopping Bonsai Pot
-glacial.bonsai.text=Can be used to automate trees, including mysterious trees
+glacial.bonsai.text=Trees growing in these will drop their items below. Place a chest or 2x2 Storage drawer underneath to collect the drops.
 
 glacial.bloomery.title=Bloomery
 glacial.bloomery.text_1=How to use the bloomery:
 glacial.bloomery.text_2=1. From above, right-click an ore into the bloomery
-glacial.bloomery.text_3=2. Right-click some fuel into the bloomery. Fuel like charcoal will allow the bloomery to operate quickly, but weaker fuel like sticks will make it very slow
-glacial.bloomery.text_4=3. When it is done, right-click with a shovel to dig out the ash.
-glacial.bloomery.text_5=4. Use tongs to pick up the bloom and transfer it to an anvil
+glacial.bloomery.text_3=2. Right-click some fuel into the bloomery. Different fuels affect its efficiency. For max airflow, clean up the slag that spills out.
+glacial.bloomery.text_4=3. Use the mechanical bellows, equipped with the cog, to speed up the process. When it is done, right-click with a shovel to dig out the ash.
+glacial.bloomery.text_5=4. Use tongs to pick up the bloom and transfer it to an anvil.
 
 glacial.lapis.title=Create Lapis
-glacial.lapis.text=Create lapis ore with a rock core
+glacial.lapis.text=Use a rock core and the appropriate shard and catalyst to create lapis ore.
 
 glacial.furnace.title=Craft a Furnace
 glacial.furnace.desc=Lit
 
 glacial.melon.title=Create a melon
-glacial.melon.text_1=Convert a pumpkin into a melon with the Roots Ritual of Transmutation. In order for this to work a water block needs to be underneath the pumpkin
-glacial.melon.text_2=To start this ritual you will also need a standing stone nearby. This is a 2 block tall stack of runestone (from roots) with a chiseled runestone on top
+glacial.melon.text_1=Convert a pumpkin into a melon with the Roots "Ritual of Transmutation". The pumpkin needs to be directly above a water source or running water. Place dirt, place pumpkin on dirt, remove dirt and replace with water.
+glacial.melon.text_2=To start this ritual you will need a standing stone nearby, 2 blocks should do it. This is a 2 block tall stack of runestone (from Roots) with a chiseled runestone on top. The pyre should be close to your pumpkin.
+glacial.melon.text_3=Having trouble getting enough cloud berry? Try throwing some Elemental Soil on the ground at around y=100. Check out other enhancements Elemental Soils can do in the Druidic Arts book.
 
 glacial.iron_ingots.title=Iron Ingots
-glacial.iron_ingots.text=Stone and primitive hammers do not seem to be well suited for handling iron blooms
+glacial.iron_ingots.text_1=Smack the iron blooms with a hammer on the anvil. The closer you stand, the more power you apply increasing your yield. Heavier hammers will also increase your yield.
+glacial.iron_ingots.text_2=To get the most of your blacksmithing, use the iron-ore slag to create more iron and consequently, more slag.
 
 glacial.pereskia.title=Pereskia
-glacial.pereskia.text=The pereskia is used for many different rituals and spells
-
+glacial.pereskia.text=The pereskia is used for many different rituals and spells. Place on a crafting grid to obtain seends, then plant on regular farmland.
+ 
 glacial.tavern.title=Craft a Shabby Tavern
-glacial.tavern.text=The shabby tavern can be used as a warp point with hearthening planks
+glacial.tavern.text=The shabby tavern can be used as a warp point with hearthing planks. Shift right click the tavern to give it a special name and click the home icon to set it as your home.
 
 glacial.gold_ore.title=Create Gold Ore
-glacial.gold_ore.text=Created with rock cores
+glacial.gold_ore.text=Use a rock core and the appropriate shard and catalyst to create gold ore.
 
 glacial.redstone.title=Redstone
-glacial.redstone.text=Created with the combustion heater
+glacial.redstone.text=Combust gunpowder and blaze powder together in the combustion heater to get redstone. Gunpowder can also be created by combusting flint.
 
 glacial.iron_casing.title=Iron Casing
-glacial.iron_casing.text=You can use this iron casing to replace your stone casing. This will allow your combustion chamber to operate a much higher heat. Enough heat to create redstone.
+glacial.iron_casing.text=Swap out your stone casing for an iron casing. This will allow your combustion chamber to operate at a much higher heat, enough heat to create redstone. Use the JEI to determine HU levels for various combustion recipes.
 
 glacial.runic_shears.title=Runic Shears
-glacial.runic_shears.desc=Snip
-
+glacial.runic_shears.desc=Snip Snip. But just the tip! 
+glacial.runic_shears.text=Use the runic sheaers on a beetroot plant to obtain spirit herb. Spirit herb can be crafted to obtain a seed, then planted on farmland.
+ 
 glacial.wildwood.title=Chop Wildwood
-glacial.wildwood.text=Create a wildwood tree by using the "Wildroot Growth" ritual near a fully grown wildroot
+glacial.wildwood.text=Create a wildwood tree by using the "Wildroot Growth" ritual near a fully grown wildroot plant.
 
 glacial.natural_aura.title=An Introduction to Natural Aura
-glacial.natural_aura.text=To acquire gold leaf: use brilliant fibers on the leaves of a tree and it will slowly transform the leaves of the tree into golden leaves. Break these golden leaves and they will drop gold leaf
+glacial.natural_aura.text=To acquire gold leaf: use brilliant fibers on the leaves of a tree and it will slowly transform the leaves into golden leaves. Break these golden leaves and they will drop gold leaf.
 
 glacial.joy_tokens.title=Tokens of Joy
-glacial.joy_tokens.desc=yay!
+glacial.joy_tokens.desc=Yay!
+glacial.joy_tokens.text=Emotions are powerful. An emotion's power can be harnessed by Aura and contained in a token. These tokens can be used to create powerful devices.
 
 glacial.natural_altar.title=Natural Altar
-glacial.natural_altar.text=Requires a multiblock structure, your Book of Natural Aura can display a hologram to help you build it
+glacial.natural_altar.text=Use the Book of Natural Aura to build the multi-block natural altar. You can click on the eye in the book to display a hologram to help you build it. You may use ANY wood plank in the construction.
 
 glacial.natural_altar_ores.title=Natural Altar Ore Processing
-glacial.natural_altar_ores.text=With the natural altar, you can process your ores significantly more quickly and easily compared to the bloomery. though the yield will be slightly lower per ore.
+glacial.natural_altar_ores.text_1=With the natural altar, you can process your ores significantly more quickly and easily compared to the bloomery. though the yield will be slightly lower per ore.
+glacial.natural_altar_ores.text_2=You can also automate the altar by placing a hopper on the sides of the natural altar. Items can be pulled from the bottom via a hopper or other device.
+
 
 glacial.ancient_sapling.title=Ancient Sapling
-glacial.ancient_sapling.text=The ancient tree will restore the aura in the back to neutral, however it will not generate excess aura
+glacial.ancient_sapling.text=The ancient tree will restore the aura in the area by draining the aura from its leaves. It will not generate excess aura it will only restore back to neutral, half the bar, however it will still lose it leaves.
 
 glacial.jungle_sapling.title=Jungle Sapling
-glacial.jungle_sapling.text=You can convert birch logs and leaves into their jungle equivalents with the ritual of transmutation (from Roots, see "The Druidic Arts" book).
+glacial.jungle_sapling.text_1=Create a jungle sapling with the Roots "Ritual of Transmutation" (see "The Druidic Arts" book, or JEI).
+glacial.jungle_sapling.text_2=You will first transmute birch leaves into jungle leaves, then break those to get a sapling. Crooks help decrease the rarity of sapling drops.
 
 glacial.bottled_ghosts.title=Bottled Ghosts
-glacial.bottled_ghosts.text=
+glacial.bottled_ghosts.text=Access to the Nether is forbidden. Therefore, from crushed artificially created netherrack, we can use aura to extract a ghost essence.
 
 glacial.burst_seed.title=Try out a Netherrack Burst Seed
 glacial.burst_seed.text_1=Burst seeds can be used to multiply several basic materials including: stone, netherrack, sand, nether quartz, and more.
-glacial.burst_seed.text_2=Place the burst seed down and within a few minutes it will spew dozens of the block it was made from in all directions.
+glacial.burst_seed.text_2=Place the burst seed down and within a few minutes it will spew dozens of the block it was made from in all directions. Might want to consider using an enclosed space.
 
 glacial.sorrow_tokens.title=Tokens of Sorrow
-glacial.sorrow_tokens.text=
+glacial.sorrow_tokens.text=The most sorrowful creature in the land, The Ghast. Creating a ghast tear is a long arduous process, but suffering sorrow is often long and arduous.
 
 glacial.fear_token.title=Token of Fear
-glacial.fear_token.text=Spooky.
+glacial.fear_token.text=Using parts of the scariest monsters of the land, ghost essence and some soul sand, fear can manifest in a token. Spooky.
 
 glacial.offering_table.title=Offering Table
-glacial.offering_table.text=To use: place the inputs on the offering table, then toss a 'Spirit of Calling' item onto it
+glacial.offering_table.text_1=In order to use the offering table you need to set up the "multiblock" structure as depicted in the "Book of Natural Aura".
+glacial.offering_table.text_2=The hologram in the guidebook indicates that you need 36 poppies for the structure, but actually any 1-high vanilla flower will work.
 
 glacial.sky_ingot.title=Ingot of the Skies
-glacial.sky_ingot.text_1=In order to use the offering table you need to set up the "multiblock" structure as depicted in the "Book of Natural Aura"
-glacial.sky_ingot.text_2=The patchouli hologram in the guidebook indicates that you need 36 poppies for the structure, but actually any single block vanilla flower will work
+glacial.sky_ingot.text_1=Place the offering items in the bowl and toss a Spirit of Calling on the ground nearby.
+glacial.sky_ingot.text_2=It may take a minute for the item to fall from the sky. It can land anywhere within the offering table structure.
 
 glacial.cow_ritual.title=Creating ... Cows?
-glacial.cow_ritual.text_1=You can summon a cow to kill for cowhide by using the roots ritual of animal summoning. You will need an offering plate with raw beef to start this ritual.
+glacial.cow_ritual.text_1=Summon a cow by using the Roots "Ritual of Animal Summoning". You will need an offering plate with raw beef to start this ritual. Raw beef can be crafted using mutation paste.
 
 glacial.cowhide.title=Cowhide
-glacial.cowhide.text_1=Now that you have a cow, you can peacefully harvest dozens of drops from it by using the "Animal Harvest" ritual. This is not required, but it is recommended as otherwise you will need to summon cows multiple times. You will need 3 standing stones to start this ritual.
-glacial.cowhide.text_2=A standing stone consists of a pillar of 2 runestones with a chiseled runestone on top
+glacial.cowhide.text_1=Now that you have a cow, you can peacefully harvest dozens of drops from it by using the "Animal Harvest" ritual.
+glacial.cowhide.text_2=This is not required, but it is recommended as otherwise you will need to summon cows multiple times. You will need 3 standing stones to start this ritual.
 
 #
 #Chapter 3
 #
 
-glacial.chapter_3.text=Welcome to Chapter 3
+glacial.chapter_3.text=Welcome to Chapter 3  :D  Diddily-dee.
 
 glacial.radiant_resonators.title=Craft Radiant Resonators
-glacial.radiant_resonators.text=Used to generate radiant quartz
+glacial.radiant_resonators.text=Place the resonators under open sky to produce radiant crystals. The chest and brazier can work as a intermediate item transfer system. Items thrown in the brazier will end up in the chest.
 
 glacial.astral_tome.title=Astral Tome
-glacial.astral_tome.desc=Your guide to the stars
+glacial.astral_tome.desc=This is your guide to the stars. Information will appear in this guide as you complete objectives. If you align yourself just right, you can be nearly invincible.
 
 glacial.glacidius.title=Explore Glacidius
 glacial.glacidius.text=The merialces can be found in the middle layer of glacidius, underneath the surface where the plants and trees are
 
 glacial.glacidius_diagram.title=Create a Glacidius Portal Diagram
-glacial.glacidius_diagram.text=
-
+glacial.glacidius_diagram.text=This is just a fancy picture showing how to build the portal. You will need 36 packed ice to create the portal.
+ 
 glacial.magnet_manual.title=Create a Magneticraft Manual
-glacial.magnet_manual.desc=An Introduction to Magneticraft!
+glacial.magnet_manual.desc=An Introduction to Magneticraft! Electricity in action.
 
 glacial.cookiequest.title=CookieQuest 2001 [Optional]
 glacial.cookiequest.text=The secret art of making cookies has been lost to time. However, there are rumors of a near limitless supply of cookies deep in the Glacidius dimension
 
 
 glacial.magnet_grinder.title=Grinder
-glacial.magnet_grinder.text=The Grinder multiblock will allow us to process our ores more efficiently both in terms of time and yield
+glacial.magnet_grinder.text_1=The Grinder multiblock will allow us to process our ores more efficiently both in terms of time and yield. Check the manual for all the building materials. It has a hefty pricetag.
+glacial.magnet_grinder.text_2=When you place down the blueprint, a grinder block will appear. You can break this block to get the blueprint back to re-position the multiblock. Once built, right-click the grinder block to create the structure.
+
 
 glacial.rocky_iron.title=Grind Iron Ore
-glacial.rocky_iron.desc=Try out your grinder
+glacial.rocky_iron.text_1=This thing needs power. If you crafted the thermopile, just place it down, put lava or other really hot block on opposite sides and something super cold on the other two. Connect the thermopile to the grinder via the energy cables.
+glacial.rocky_iron.text_2=If you crafted the combustion heater, craft a boiler and set on top to create steam. The boiler will need water, constantly. Build the steam generator multiblock and connect your boiler to it, then connect the generator to your grinder.
 
 glacial.magnet_washer.title=Create an Ore Washer
-glacial.magnet_washer.text=
-
+glacial.magnet_washer.text=Using the rocky chunks you gathered from the Grinder, you can wash them into chunks which yield two ingots per chunk.
+ 
 glacial.luminous_table.title=Luminous Crafting Table
-glacial.luminous_table.text=
+glacial.luminous_table.text_1=To craft the Luminous Table, you will need to find a Starlight Altar and underneath the center is a crystal. Place a crafting table down next to it and the crystal will direct starlight to it.
+glacial.luminous_table.text_2=Consider crafting a Resonating Wand as well to make finding Rock Crystal Ores easier. Consult the "Astral Tome" for more information.
 
 glacial.lightwell.title=Lightwell
-glacial.lightwell.text=
+glacial.lightwell.text_1=Liquid Starlight! Throw a rock crystal in and depending on the stats of the crystal, will fill the well up with liquid starlight. This needs a clear view to the sky, like most things in Astral Sorcery.
+glacial.lightwell.text_2=You may want to consider pumping the liquid out. Even if the well is full, it will still drain the crystal.
 
 glacial.starlight_altar.title=Starlight Crafting Altar
-glacial.starlight_altar.text=
+glacial.starlight_altar.text_1=You will need a much higher concentration of starlight in order to fully harness the power of starlight. For that, you will need a better crafting table.
+glacial.starlight_altar.text_2=This is a multiblock structure and can be upgraded. Consult the "Astral Tome" on how to build it.
 
 glacial.astral_lens.title=Lens
-glacial.astral_lens.text=
+glacial.astral_lens.text_1=Since your knowledge of starlight hinders you from crafting a collector crystal, you must create a network to transmit the starlight from the altar to where you would like.
+glacial.astral_lens.text_2=Right click the collector crystal with the linking tool, then right click a lens to create a connection. Continue making connections until the starlight beam is where you want it.
+
 
 glacial.starmetal.title=Create Starmetal Ingots
-glacial.starmetal.text=
+glacial.starmetal.text=Place iron ore near one of the lens with a starlight beam. Link the lens to the ore, once starlight hits it, it will transform to Starmetal Ore.
 
 glacial.hydraulic_press.title=Create a Hydraulic Press
 glacial.hydraulic_press.text=The hydraulic press is used to create plates
 
 glacial.coke_oven.title=Create a Coke Oven
-glacial.coke_oven.text=
+glacial.coke_oven.text=The first step in creating steel, which will be needed in large quantities later. The coke oven is a multi-block structure and produces creosote oil as a by product. Consult the Engineer's Manual for more info.
 
 glacial.blast_furnace.title=Create a Blast Furnace
-glacial.blast_furnace.text=
+glacial.blast_furnace.text_1=The second step in creating steel. This multi-block structure is not capable of automation and must be handled manually.
+glacial.blast_furnace.text_2=The third step, and highly recommended, is to upgrade to the Improved Blast Furnace to allow for automation and pre-heaters (when you are able to power them) to greatly speed up steel production.
+
 
 glacial.alloy_kiln.title=Create an Alloy Kiln
-glacial.alloy_kiln.text=
+glacial.alloy_kiln.text=Who needs a smeltery? This requires a lot of sky stone. A crystal pickaxe would definately help. Consult the Astral Tome on crystal tools, especially how to repair them.
 
 glacial.electrum.title=Acquire Electrum Ingots
-glacial.electrum.text=
+glacial.electrum.text=Fun Fact: The medal given to Nobel Prize winners is electrum plated in gold.
 
 glacial.steel.title=Acquire Steel Ingots
-glacial.steel.text=
+glacial.steel.text=Steel. Useful for crafting building materials and alloying, but less useful when it comes to tools and armor. A good alloy with steel is soulsteel. Soulsteel armor has the same protection as diamond armor, without the diamonds.
 
 glacial.simple_chassis.title=Simple Machine Chassis
-glacial.simple_chassis.text=This Simple Chassis will open up a whole lot of new possibilities for you
+glacial.simple_chassis.text=The basic building block for many more machines. To acquire Grains of Infinity, set bedrock on fire and wait for the grains to pop off.
 
 #
 #Chapter 4
 #
 
-glacial.chapter_4.text=
+glacial.chapter_4.text=Welcome to Chapter 4
 
 glacial.item_conduits.title=Craft Item Conduits
-glacial.item_conduits.text=
+glacial.item_conduits.text=Use the Alloy furnace to craft special ingots used in the creation of conduits. To change a conduit's configuration, use a Yeta wrench. Conduits can support filters and upgrades.
 
 glacial.fluid_conduits.title=Craft Pressurized Fluid Conduits
-glacial.fluid_conduits.text=
+glacial.fluid_conduits.text=These special conduits can carry fluids much faster than the basic kind. Need Nether quartz? Try certuz quartz on a Natural Altar.
 
 glacial.ore_puller.title=Mystical Ore Puller
-glacial.ore_puller.text=This block can be used as part of a multiblock structure to generate ores. It requires hearth well power, so it is only semi-automatable. Look for it in the book of the well to see how it's built.
+glacial.ore_puller.text_1=The Mystical Ore Puller is a multiblock structure to generate ore from Hearth power and sunlight. It's built as a tower, and the higher you build it the faster it pulls ores. Consult the Book of the Well to see how to build it.
+glacial.ore_puller.text_2=Ores are generated above the Ore Puller block in the liquid souls. You will have to devise a fancy way to pull those ores out.
+glacial.ore_puller.text_3=To create Hearth power, you will need to craft power crystals. These crystals are crafted with many different blocks, each block adjusting the overall traits of the crystal. Consule "Powering" section of the book for more info.
+
+
 
 glacial.alloy_furnace.title=Alloy Furnace
-glacial.alloy_furnace.text=
+glacial.alloy_furnace.text=For all your alloying needs!  Well, maybe not ALL!
 
 glacial.energy_conduits.title=Craft Energy Conduits
-glacial.energy_conduits.text=
+glacial.energy_conduits.text=These special conduits carry energy. Upgrade them to transmit even larger quantities of energy at a time.
 
 glacial.ae2_charger.title=Charger
-glacial.ae2_charger.text=
-
+glacial.ae2_charger.text=The charger is used to create charged certus quartz crystals. It can also be used to charge various ME items. Struggling with power?  Attached a hand crank to get those certus quartz zapped.
+ 
 glacial.growth_chamber.title=Crystal Growth Chamber
-glacial.growth_chamber.text=
+glacial.growth_chamber.text=This chamber is specially designed to grow PURE crystals. Just insert a certus, nether or fluix seed and wait for it to mature into a pure, innocent crystal.
 
 glacial.manufactory.title=Manufactory
-glacial.manufactory.text=
-
+glacial.manufactory.text=A lot of power and utility in one small box. Used primarily for breaking items down into their powder forms, it can also break chunks down to increase ingot yield to 3.
+ 
 glacial.inscriber_presses.title=Gather Inscriber Presses
-glacial.inscriber_presses.text=
-
+glacial.inscriber_presses.text=Hopefully, through gathering the sky stone from earlier, you found a few of these already at the center of the meteors. Struggling to find meteors? Craft a meteor compass.
+ 
 glacial.energy_acceptor.title=Energy Acceptor
 glacial.energy_acceptor.text=
 

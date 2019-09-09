@@ -9,6 +9,8 @@ import mods.pyrotech.CompactingBin;
 import mods.pyrotech.DryingRack;
 import mods.pyrotech.BrickSawmill;
 import mods.pyrotech.BrickKiln;
+import mods.pyrotech.MechanicalCompactor;
+
 
 furnace.remove(<pyrotech:slag_glass>);
 furnace.addRecipe(<pyrotech:slag_glass>*8,<pyrotech:pile_slag>);
@@ -335,3 +337,8 @@ furnace.addRecipe(<pyrotech:material:22>,<pyrotech:material:28>);
 
 CompactingBin.removeRecipes(<pyrotech:charcoal_block>);
 disableAndHide(<pyrotech:charcoal_block>);
+
+CompactingBin.removeRecipes(<minecraft:bone_block>);
+MechanicalCompactor.removeRecipes(<minecraft:bone_block>);
+
+

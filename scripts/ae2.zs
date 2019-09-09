@@ -7,10 +7,6 @@ furnace.addRecipe(<appliedenergistics2:quartz_glass>,<arcanearchives:raw_quartz>
 
 val glass = <ore:blockGlass>;
 
-<ore:dustAnyQuartz>.add(<appliedenergistics2:material:3>);
-<ore:dustAnyQuartz>.add(<appliedenergistics2:material:2>);
-<ore:dustAnyQuartz>.add(<enderio:item_material:33>);
-<ore:dustAnyQuartz>.add(<nuclearcraft:gem_dust:2>);
 val quartzAny = <ore:dustAnyQuartz>;
 
 recipes.remove(<appliedenergistics2:part:140>);
@@ -22,11 +18,7 @@ recipes.addShaped(<appliedenergistics2:part:140>*6,
 val engProcessor = <appliedenergistics2:material:24>;
 val logicProcessor = <appliedenergistics2:material:22>;
 
-<ore:quartzNether>.add(<minecraft:quartz>);
-<ore:quartzNether>.add(<appliedenergistics2:material:11>);
 
-<ore:quartzCertus>.add(<appliedenergistics2:material>);
-<ore:quartzCertus>.add(<appliedenergistics2:material:1>);
 
 val cable = <appliedenergistics2:part:16>;
 val glowstone = <minecraft:glowstone_dust>;

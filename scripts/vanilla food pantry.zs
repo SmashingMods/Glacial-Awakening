@@ -11,12 +11,9 @@ recipes.remove(<vanillafoodpantry:animal_hide_tie>);
 recipes.addShapeless(<vanillafoodpantry:animal_hide_tie>*4,
 [blueFlint,<vanillafoodpantry:portion_leather>,<vanillafoodpantry:portion_leather>]);
 
-<ore:twine>.add(<vanillafoodpantry:animal_hide_tie>);
 
 recipes.remove(<minecraft:blaze_rod>);
 
-<ore:flint>.add(<minecraft:flint>);
-<ore:flint>.add(<vanillafoodpantry:red_flint>);
 
 val axe = <vanillafoodpantry:flint_butcher_axe>.anyDamage().transformDamage();
 recipes.remove(<vanillafoodpantry:portion_leather>);

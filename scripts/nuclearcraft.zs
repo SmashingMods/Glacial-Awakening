@@ -21,6 +21,9 @@ manufactory.addRecipe([<magneticraft:chunks:3>,<magneticraft:ingots:3>*3]);
 manufactory.addRecipe([<immersiveengineering:material:6>,<immersiveengineering:material:17>]);
 manufactory.addRecipe([<minecraft:coal:1>,<nuclearcraft:gem_dust:7>]);
 
+manufactory.removeRecipeWithInput([<magneticraft:ores:1>]);
+manufactory.addRecipe([<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>]);
+
 
 <nuclearcraft:gem_dust:7>.displayName="Carbon Dust";
 

@@ -70,9 +70,7 @@ recipes.addShaped(<hwell:core_stone>*2,
  [<minecraft:stone_slab>,<minecraft:stone_slab>,<minecraft:stone_slab>]]);
 
 
-<ore:dustSalt>.add(<hwell:salt>);
-<ore:ingredientSalt>.add(<hwell:salt>);
-<ore:portionSalt>.add(<hwell:salt>);
+
 recipes.replaceAllOccurences(<hwell:salt>,<ore:dustSalt>,<minecraft:leather>);
 
 recipes.addShaped(<hwell:seed_of_life>,

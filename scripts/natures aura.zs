@@ -23,8 +23,8 @@ recipes.addShapeless(netherAir,[overworldAir,<rustic:tallow>,<rustic:tallow>,<sk
 mods.naturesaura.Altar.addRecipe("altar_iron_nugs",<minecraft:iron_ore>,<minecraft:iron_nugget>*10,null,15000,100);
 mods.naturesaura.Altar.addRecipe("altar_gold_nugs",<minecraft:gold_ore>,<minecraft:gold_nugget>*10,null,15000,100);
 mods.naturesaura.Altar.addRecipe("altar_copper_nugs",<magneticraft:ores>,<magneticraft:nuggets:2>*10,null,15000,100);
-mods.naturesaura.Altar.addRecipe("altar_lead_nugs",<magneticraft:ores:1>,<magneticraft:nuggets:3>*10,null,15000,100);
-mods.naturesaura.Altar.addRecipe("altar_feater",<minecraft:egg>,<minecraft:feather>,null,15000,100);
+mods.naturesaura.Altar.addRecipe("altar_galena",<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>,null,15000,100);
+mods.naturesaura.Altar.addRecipe("altar_feather",<minecraft:egg>,<minecraft:feather>,null,15000,100);
 
 mods.naturesaura.Altar.addRecipe("altar_quartz",<appliedenergistics2:material>,<minecraft:quartz>,null,15000,100);
 mods.naturesaura.Altar.addRecipe("altar_paper",<minecraft:reeds>,<minecraft:paper>,null,10000,10);

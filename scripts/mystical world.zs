@@ -1,4 +1,4 @@
-<ore:bone>.add(<mysticalworld:antlers>);
 
-<ore:logWood>.remove(<mysticalworld:charred_log>);
 recipes.remove(<mysticalworld:charred_planks>);
+
+recipes.addShapeless(<minecraft:leather>,[<mysticalworld:pelt>,<mysticalworld:pelt>]);

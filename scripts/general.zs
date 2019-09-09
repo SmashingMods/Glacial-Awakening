@@ -5,8 +5,6 @@ import scripts._func.disable;
 
 
 recipes.addShapeless(<minecraft:flint>,[<minecraft:gravel>,<minecraft:gravel>,<minecraft:gravel>]);
-<ore:flint>.add(<minecraft:flint>);
-<ore:flint>.add(<vanillafoodpantry:red_flint>);
 
 
 /*

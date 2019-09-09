@@ -78,7 +78,6 @@ recipes.addShaped(<roots:pestle>,
  [null,null,permafrost]]);
 
 
-<ore:treeLeaves>.add(<roots:wildwood_leaves>);
 
 recipes.remove(<roots:offertory_plate>);
 recipes.addShaped(<roots:offertory_plate>,

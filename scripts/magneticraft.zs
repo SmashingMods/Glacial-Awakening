@@ -1,5 +1,7 @@
 import scripts._func.disable;
 
+
+mods.magneticraft.Grinder.addRecipe(<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>,<minecraft:gravel>, 0.15, 50, false);
 disable(<magneticraft:crushing_table>);
 //disable(<magneticraft:brick_furnace>);
 disable(<magneticraft:stone_hammer>);
@@ -74,12 +76,6 @@ furnace.addRecipe(<magneticraft:ingots:3>,<magneticraft:rocky_chunks:3>);
 recipes.replaceAllOccurences(<magneticraft:light_plates:3>,<magneticraft:ingots:3>,<magneticraft:multiblock_column>);
 
 
-<ore:plateIron>.add(<magneticraft:light_plates>);
-<ore:plateGold>.add(<magneticraft:light_plates:1>);
-<ore:plateCopper>.add(<magneticraft:light_plates:2>);
-<ore:plateLead>.add(<magneticraft:light_plates:3>);
-<ore:plateTungsten>.add(<magneticraft:light_plates:5>);
-<ore:plateSteel>.add(<magneticraft:light_plates:6>);
 
 <magneticraft:small_tank>.addTooltip("Does not keep fluids when broken");
 
