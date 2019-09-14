@@ -140,10 +140,6 @@ recipes.addShapeless(<minecraft:blaze_rod>,
 
 <minecraft:diamond>.addTooltip("Diamond ore can be created from a sentient core");
 
-recipes.removeByRecipeName("nuclearcraft:item.cookie");
-recipes.removeByRecipeName("minecraft:cookie");
-<minecraft:cookie>.addTooltip("The art of making cookies has been lost.. only a few remain buried deep in the glacidius dimension");
-
 recipes.addShaped(<minecraft:crafting_table>,
 [[<quark:biome_cobblestone:1>,<quark:roots>],
  [<quark:roots>,<quark:biome_cobblestone:1>]]);

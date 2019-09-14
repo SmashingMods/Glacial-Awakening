@@ -16,8 +16,15 @@ manufactory.addRecipe([<naturesaura:gold_leaf>,<naturesaura:gold_powder>*4]);
 manufactory.addRecipe([<pyrotech:material:11>,<minecraft:dye:15>*2]);
 manufactory.addRecipe([<magneticraft:chunks>,<minecraft:iron_ingot>*3]);
 manufactory.addRecipe([<magneticraft:chunks:1>,<minecraft:gold_ingot>*3]);
-manufactory.addRecipe([<magneticraft:chunks:2>,<magneticraft:ingots:2>*3]);
-manufactory.addRecipe([<magneticraft:chunks:3>,<magneticraft:ingots:3>*3]);
+manufactory.addRecipe([<magneticraft:chunks:2>,<mekanism:ingot:5>*3]);
+manufactory.addRecipe([<magneticraft:chunks:3>,<alchemistry:ingot:82>*3]);
+manufactory.addRecipe([<magneticraft:chunks:4>,<alchemistry:ingot:27>*3]);
+manufactory.addRecipe([<magneticraft:chunks:7>,<alchemistry:ingot:13>*3]);
+manufactory.addRecipe([<magneticraft:chunks:10>,<alchemistry:ingot:28>*3]);
+manufactory.addRecipe([<magneticraft:chunks:11>,<mekanism:ingot:1>*3]);
+manufactory.addRecipe([<magneticraft:chunks:12>,<alchemistry:ingot:47>*3]);
+manufactory.addRecipe([<magneticraft:chunks:12>,<mekanism:ingot:6>*3]);
+
 manufactory.addRecipe([<immersiveengineering:material:6>,<immersiveengineering:material:17>]);
 manufactory.addRecipe([<minecraft:coal:1>,<nuclearcraft:gem_dust:7>]);
 

@@ -32,7 +32,3 @@ mods.naturesaura.Altar.addRecipe("altar_worm",<minecraft:dirt>,<waterstrainer:wo
 
 mods.naturesaura.Altar.removeRecipe(<naturesaura:infused_stone>);
 mods.naturesaura.Altar.addRecipe("infused_stone",<appliedenergistics2:sky_stone_block>,<naturesaura:infused_stone>,null,15000,80);
-
-mods.naturesaura.Altar.addRecipe("black_quartz",<glacidus:eukeite>,<actuallyadditions:item_misc:5>,null,100000,10);
-
-mods.naturesaura.Altar.addRecipe("arcane_ore",<glacidus:crysium>,<forbidden_arcanus:arcane_crystal_ore>,null,10000,50);

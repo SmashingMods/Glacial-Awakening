@@ -73,7 +73,7 @@ furnace.addRecipe(<magneticraft:ingots:2>,<magneticraft:rocky_chunks:2>);
 furnace.addRecipe(<magneticraft:ingots:3>*2,<magneticraft:chunks:3>);
 furnace.addRecipe(<magneticraft:ingots:3>,<magneticraft:rocky_chunks:3>);
 
-recipes.replaceAllOccurences(<magneticraft:light_plates:3>,<magneticraft:ingots:3>,<magneticraft:multiblock_column>);
+recipes.replaceAllOccurences(<magneticraft:light_plates:3>,<ore:ingotLead>,<magneticraft:multiblock_column>);
 
 
 

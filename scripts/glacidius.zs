@@ -1,1 +1,0 @@
-recipes.removeByRecipeName("glacidius:crafting_table");

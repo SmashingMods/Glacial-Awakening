@@ -405,11 +405,8 @@ glacial.me_terminal.text=
 glacial.crafting_terminal.title=Crafting Terminal
 glacial.crafting_terminal.text=
 
-glacial.aura_forge.title=Energetic Aura Forge
-glacial.aura_forge.text=
-
-glacial.aura_generator.title=Create an Aura Generator
-glacial.aura_generator.text=
+glacial.electric_connector.title=Electric Connectors
+glacial.electric_connector.text=Convert magneticraft into RF by connecting one electric connector to each block, then connect them with a copper coil.
 
 glacial.advanced_inscriber.title=Advanced Inscriber
 glacial.advanced_inscriber.text=

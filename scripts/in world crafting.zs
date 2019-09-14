@@ -18,13 +18,14 @@ FluidToItem.transform(<minecraft:stick>,<liquid:water>,[<minecraft:torch>],false
 
 FluidToItem.transform(<minecraft:egg>*8,<liquid:liquid_souls>,[<pyrotech:rock:8>],true);
 FluidToItem.transform(<minecraft:soul_sand>,<liquid:liquid_souls>,[<minecraft:sand>],true);
-FluidToItem.transform(<hwell:raw_soulsteel>,<liquid:liquid_souls>,[<magneticraft:ingots:6>],true);
+FluidToItem.transform(<hwell:raw_soulsteel>,<liquid:liquid_souls>,[<mekanism:ingot:4>],true);
 
 FluidToItem.transform(<hearthstones:tattered_leather>*7,<liquid:water>,[<minecraft:dye:15>*3,<minecraft:leather>],true);
+FluidToItem.transform(<contenttweaker:cowhide>,<liquid:astralsorcery.liquidstarlight>,[<minecraft:rotten_flesh>],false);
 
 val ash = <pyrotech:material>;
 val time = 140;
-FireCrafting.addRecipe(<rustic:slate>,<glacidus:frozen_antinatric_stone>,time);
+//FireCrafting.addRecipe(<rustic:slate>,<glacidus:frozen_antinatric_stone>,time);
 FireCrafting.addRecipe(ash,<minecraft:planks>,time);
 FireCrafting.addRecipe(ash,<minecraft:planks:1>,time);
 FireCrafting.addRecipe(ash,<minecraft:planks:2>,time);

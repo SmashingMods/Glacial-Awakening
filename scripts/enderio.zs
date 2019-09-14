@@ -29,7 +29,7 @@ recipes.addShaped(enhancedChassis,
  [darkbars,<astralsorcery:itemcraftingcomponent:4>,darkbars]]);
 
 //removeRecipe(IItemStack output)
-mods.enderio.AlloySmelter.removeRecipe(<magneticraft:ingots:6>);
+mods.enderio.AlloySmelter.removeRecipe(<mekanism:ingot:4>);
 mods.enderio.AlloySmelter.removeRecipe(industrialChassis);
 mods.enderio.AlloySmelter.removeRecipe(enhancedChassis);
 mods.enderio.AlloySmelter.removeRecipe(<minecraft:cookie>*8);

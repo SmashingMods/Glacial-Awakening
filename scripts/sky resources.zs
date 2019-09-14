@@ -57,6 +57,8 @@ for i in 0 to 25 {
 //mods.skyresources.freezer.removeRecipe(ItemStack output);
 freezer.addRecipe(<contenttweaker:ice_crystal>,<skyresources:heavysnow>*4,200);
 freezer.addRecipe(<minecraft:gunpowder>,<pyrotech:material:31>*16,200);
+freezer.addRecipe(<minecraft:packed_ice>,<minecraft:snow>*4,200);
+
 freezer.removeRecipe(<minecraft:dirt:1>);
 
 

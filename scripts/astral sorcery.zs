@@ -9,9 +9,9 @@ val aquamarine = <astralsorcery:itemcraftingcomponent>;
 
 recipes.remove(<astralsorcery:itemjournal>);
 recipes.addShaped(<astralsorcery:itemjournal>,
-[[<glacidus:merialces_hide>,<roots:fey_leather>,<glacidus:merialces_hide>],
+[[<contenttweaker:cowhide>,<roots:fey_leather>,<contenttweaker:cowhide>],
  [<ore:gemAquamarine>,<minecraft:book>,<ore:gemAquamarine>],
- [<glacidus:merialces_hide>,<arcanearchives:shaped_quartz>,<glacidus:merialces_hide>]]);
+ [<contenttweaker:cowhide>,<arcanearchives:shaped_quartz>,<contenttweaker:cowhide>]]);
 
  recipes.addShapeless(aquamarine, [<hearthstones:aquamarine>]);
 
