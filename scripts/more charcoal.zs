@@ -1,0 +1,1 @@
+furnace.remove(<morecharcoal:egg_charcoal>);
