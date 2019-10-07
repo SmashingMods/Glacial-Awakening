@@ -1,4 +1,5 @@
 import mods.immersiveengineering.Squeezer;
+import mods.immersiveengineering.MetalPress;
 
 recipes.remove(<immersiveengineering:stone_decoration>);
 recipes.addShaped(<immersiveengineering:stone_decoration>*3,
@@ -41,8 +42,8 @@ recipes.addShaped(<immersiveengineering:tool>,
 
 mods.immersiveengineering.BlastFurnace.removeFuel(<minecraft:coal:1>);
 mods.immersiveengineering.BlastFurnace.removeFuel(<chisel:block_charcoal>);
-mods.immersiveengineering.BlastFurnace.removeRecipe(<magneticraft:ingots:6>);
-mods.immersiveengineering.BlastFurnace.addRecipe(<magneticraft:ingots:6>,<minecraft:iron_ingot>,800,<immersiveengineering:material:7>);
+mods.immersiveengineering.BlastFurnace.removeRecipe(<mekanism:ingot:4>);
+mods.immersiveengineering.BlastFurnace.addRecipe(<mekanism:ingot:4>,<minecraft:iron_ingot>,800,<immersiveengineering:material:7>);
 
 //mods.immersiveengineering.CokeOven.addRecipe(IItemStack output, int fuelOutput, IIngredient input, int time);
 mods.immersiveengineering.CokeOven.addRecipe(<immersiveengineering:material:6>, 100, <ore:charcoal>, 600);
@@ -82,3 +83,6 @@ Squeezer.addRecipe(null,<liquid:plantoil>*40,<rustic:apple_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*80,<rustic:grape_stem>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*200,<roots:assorted_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*20,<vanillafoodpantry:oak_acorn>,1000);
+
+//mods.immersiveengineering.MetalPress.addRecipe(IItemStack output, IIngredient input, IItemStack mold, int energy, @Optional int inputSize);
+MetalPress.addRecipe(<magneticraft:light_plates:5>,<magneticraft:ingots:5>,<immersiveengineering:mold>,1000);

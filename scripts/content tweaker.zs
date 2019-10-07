@@ -34,3 +34,6 @@ akliz.register();
 
 var youtube = VanillaFactory.createItem("youtube");
 youtube.register();
+
+var glacial = VanillaFactory.createItem("glacial");
+glacial.register();

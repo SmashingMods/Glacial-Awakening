@@ -11,6 +11,7 @@ import mods.pyrotech.BrickSawmill;
 import mods.pyrotech.BrickKiln;
 import mods.pyrotech.MechanicalCompactor;
 
+furnace.setFuel(<pyrotech:bucket_wood>, 0);
 
 furnace.remove(<pyrotech:slag_glass>);
 furnace.addRecipe(<pyrotech:slag_glass>*8,<pyrotech:pile_slag>);

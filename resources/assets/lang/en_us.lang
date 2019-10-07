@@ -4,6 +4,7 @@ glacial.chapter_2.chapter=Chapter 2
 glacial.chapter_3.chapter=Chapter 3
 glacial.chapter_4.chapter=Chapter 4
 glacial.chapter_5.chapter=Chapter 5
+glacial.chapter_6.chapter=Chapter 6
 glacial.chemisty_chapter.chapter=The Periodic Table [Challenge Quests]
 
 #
@@ -13,7 +14,7 @@ glacial.first_quest.title=The Awakening
 glacial.first_quest.text=You find yourself in this small, dark cave... The walls are made of ice and you don't have many other resources available. Use them wisely.
 
 glacial.cave_roots.title=Harvest Cave Roots
-glacial.cave_roots.text= glacial.cave_roots.text=First, collect some of these roots growing on the walls. They will drop "Cave Root". Place these on a crafting grid to get more "Cave Roots" to grow on the walls.
+glacial.cave_roots.text=First, collect some of these roots growing on the walls. They will drop "Cave Root". Place these on a crafting grid to get more "Cave Roots" to grow on the walls.
 
 glacial.plant_fibers.title=Create Plant Fibers
 glacial.plant_fibers.text=Toss the "Cave Root" item into water to make plant fibers. Water can be found far beneath you.
@@ -164,7 +165,7 @@ glacial.iron_ore.text_6=Stabilizers can be used to prevent the catalyst block fr
 
 glacial.druidic_supplies.title=Gather Druidic Supplies
 glacial.druidic_supplies.text_1=Like earlier, terra moss can be found by using a knife on mossy cobblestone. Mossy cobblestone will occasionally spawn on the surface in small clusters
-glacial.druidic_supplies.text_2=Break tall grass to acquire wildroots. Once found, you can grow them on farmland.
+glacial.druidic_supplies.text_2=Break 1-tall grass to acquire wildroots. Once found, you can grow them on farmland.
 
 glacial.fey_crafter.title=Fey Crafter
 glacial.fey_crafter.desc=Fey is bae
@@ -208,7 +209,7 @@ glacial.iron_ingots.text_1=Smack the iron blooms with a hammer on the anvil. The
 glacial.iron_ingots.text_2=To get the most of your blacksmithing, use the iron-ore slag to create more iron and consequently, more slag.
 
 glacial.pereskia.title=Pereskia
-glacial.pereskia.text=The pereskia is used for many different rituals and spells. Place on a crafting grid to obtain seends, then plant on regular farmland.
+glacial.pereskia.text=The pereskia is used for many different rituals and spells. Place on a crafting grid to obtain seeds, then plant on regular farmland.
  
 glacial.tavern.title=Craft a Shabby Tavern
 glacial.tavern.text=The shabby tavern can be used as a warp point with hearthing planks. Shift right click the tavern to give it a special name and click the home icon to set it as your home.

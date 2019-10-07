@@ -1,7 +1,7 @@
 {
 	"generatorType": "SURFACE",
-	"minY": -1,
-	"maxY": -1,
+	"minY": 60,
+	"maxY": 90,
 	"offsetX": 0,
 	"offsetY": 0,
 	"offsetZ": 0,

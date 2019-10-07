@@ -57,6 +57,14 @@ Mortar.changeSpell("spell_harvest",
  <roots:terra_moss>,
  <minecraft:wheat_seeds>]);
 
+ Mortar.changeSpell("spell_fey_light",
+[<roots:cloud_berry>,
+ <minecraft:glowstone_dust>,
+ <minecraft:gunpowder>,
+ <roots:bark_birch>,
+ <minecraft:flint_and_steel>]);
+
+
 
 val permafrost = <quark:biome_cobblestone:1>;
 recipes.remove(<roots:component_pouch>);

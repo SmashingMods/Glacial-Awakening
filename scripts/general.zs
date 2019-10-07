@@ -129,12 +129,6 @@ recipes.addShaped(<minecraft:torch>*3, [[<morecharcoal:melon_charcoal>],[<ore:st
 recipes.remove(<ftbquests:book>);
 recipes.addShapeless(<ftbquests:book>,[<quark:root>,<minecraft:cobblestone>]);
 
-recipes.remove(<rustic:book>);
-recipes.addShaped(<rustic:book>,
-[[null,<minecraft:iron_nugget>,null],
- [<minecraft:iron_nugget>,<minecraft:paper>,<minecraft:iron_nugget>],
- [null,<minecraft:iron_nugget>,null]]);
-
 recipes.addShapeless(<minecraft:blaze_rod>,
 [<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
 
@@ -143,3 +137,5 @@ recipes.addShapeless(<minecraft:blaze_rod>,
 recipes.addShaped(<minecraft:crafting_table>,
 [[<quark:biome_cobblestone:1>,<quark:roots>],
  [<quark:roots>,<quark:biome_cobblestone:1>]]);
+
+recipes.addShapeless(<minecraft:nether_wart>*9,[<minecraft:nether_wart_block>]);

@@ -1,7 +1,6 @@
 import scripts._func.disable;
 
 mods.jei.JEI.hideCategory("Painter");
-
 disable(<enderio:block_solar_panel>);
 disable(<enderio:block_solar_panel:1>);
 disable(<enderio:block_solar_panel:2>);

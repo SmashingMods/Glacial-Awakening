@@ -12,6 +12,8 @@ disable(<nuclearcraft:rtg_plutonium>);
 disable(<nuclearcraft:rtg_americium>);
 disable(<nuclearcraft:rtg_californium>);
 
+
+
 manufactory.addRecipe([<naturesaura:gold_leaf>,<naturesaura:gold_powder>*4]);
 manufactory.addRecipe([<pyrotech:material:11>,<minecraft:dye:15>*2]);
 manufactory.addRecipe([<magneticraft:chunks>,<minecraft:iron_ingot>*3]);
@@ -23,10 +25,14 @@ manufactory.addRecipe([<magneticraft:chunks:7>,<alchemistry:ingot:13>*3]);
 manufactory.addRecipe([<magneticraft:chunks:10>,<alchemistry:ingot:28>*3]);
 manufactory.addRecipe([<magneticraft:chunks:11>,<mekanism:ingot:1>*3]);
 manufactory.addRecipe([<magneticraft:chunks:12>,<alchemistry:ingot:47>*3]);
-manufactory.addRecipe([<magneticraft:chunks:12>,<mekanism:ingot:6>*3]);
+manufactory.addRecipe([<magneticraft:chunks:13>,<mekanism:ingot:6>*3]);
+manufactory.addRecipe([<pyrotech:material:25>,<minecraft:paper>*2]);
 
 manufactory.addRecipe([<immersiveengineering:material:6>,<immersiveengineering:material:17>]);
 manufactory.addRecipe([<minecraft:coal:1>,<nuclearcraft:gem_dust:7>]);
+
+manufactory.addRecipe([<nuclearcraft:ore:6>,<mekanism:otherdust:4>*2]);
+manufactory.addRecipe([<alchemistry:ingot:3>,<mekanism:otherdust:4>]);
 
 manufactory.removeRecipeWithInput([<magneticraft:ores:1>]);
 manufactory.addRecipe([<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>]);
@@ -44,6 +50,8 @@ val treatedplank = <immersiveengineering:treated_wood>;
 infuser.removeRecipeWithOutput([treatedplank]);
 //mods.nuclearcraft.infuser.addRecipe([itemInput, fluidInput, itemOutput, {timeMultiplier (double), powerMultiplier (double), processRadiation (double)}]);
 infuser.addRecipe([astralplank,<liquid:creosote>,treatedplank]);
+infuser.addRecipe([<minecraft:quartz>,<liquid:creosote>,<actuallyadditions:item_misc:5>]);
+infuser.addRecipe([<nuclearcraft:cooler>,<liquid:ender>,<nuclearcraft:cooler:9>]);
 
 recipes.replaceAllOccurences(<minecraft:piston>,<enderio:item_material>,<nuclearcraft:manufactory_idle>);
 recipes.replaceAllOccurences(<minecraft:redstone>,<enderio:item_material>,<nuclearcraft:decay_generator>);
@@ -78,3 +86,5 @@ recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<
 recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<nuclearcraft:centrifuge_idle>);
 recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<nuclearcraft:rock_crusher_idle>);
 */
+
+

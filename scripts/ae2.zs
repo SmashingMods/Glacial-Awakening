@@ -2,6 +2,7 @@ import scripts._func.disable;
 
 mods.jei.JEI.hideCategory("appliedenergistics2.grinder");
 disable(<appliedenergistics2:grindstone>);
+disable(<appliedenergistics2:vibration_chamber>);
 
 furnace.addRecipe(<appliedenergistics2:quartz_glass>,<arcanearchives:raw_quartz>);
 

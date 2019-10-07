@@ -19,9 +19,19 @@ FluidToItem.transform(<minecraft:stick>,<liquid:water>,[<minecraft:torch>],false
 FluidToItem.transform(<minecraft:egg>*8,<liquid:liquid_souls>,[<pyrotech:rock:8>],true);
 FluidToItem.transform(<minecraft:soul_sand>,<liquid:liquid_souls>,[<minecraft:sand>],true);
 FluidToItem.transform(<hwell:raw_soulsteel>,<liquid:liquid_souls>,[<mekanism:ingot:4>],true);
+FluidToItem.transform(<forbidden_arcanus:runestone>,<liquid:liquid_souls>,[<minecraft:stone>],true);
+FluidToItem.transform(<forbidden_arcanus:arcane_crystal_ore>,<liquid:liquid_souls>,[<minecraft:cobblestone>,<xencraft:xen_gem>],true);
+FluidToItem.transform(<forbidden_arcanus:dark_runestone>,<liquid:liquid_souls>,[<rustic:slate>,<actuallyadditions:item_crystal:2>],true);
+
+FluidToItem.transform(<forbidden_arcanus:cherrywood_sapling>,<liquid:liquid_souls>,[<minecraft:sapling>],true);
+FluidToItem.transform(<forbidden_arcanus:mysterywood_sapling>,<liquid:gold>,[<minecraft:sapling>],true);
 
 FluidToItem.transform(<hearthstones:tattered_leather>*7,<liquid:water>,[<minecraft:dye:15>*3,<minecraft:leather>],true);
 FluidToItem.transform(<contenttweaker:cowhide>,<liquid:astralsorcery.liquidstarlight>,[<minecraft:rotten_flesh>],false);
+
+for i in 0 to 16 {
+	FluidToItem.transform(<minecraft:concrete>.definition.makeStack(i),<liquid:water>,[<minecraft:concrete_powder>.definition.makeStack(i)],false);
+}
 
 val ash = <pyrotech:material>;
 val time = 140;
