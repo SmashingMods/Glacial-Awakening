@@ -5,6 +5,11 @@ disable(<enderio:block_solar_panel>);
 disable(<enderio:block_solar_panel:1>);
 disable(<enderio:block_solar_panel:2>);
 disable(<enderio:block_solar_panel:3>);
+disable(<enderio:block_tank>);
+disable(<enderio:block_tank:1>);
+<enderio:block_tank>.addTooltip(format.red("Infinite dupe bug with Arcane Archives"));
+<enderio:block_tank:1>.addTooltip(format.red("Infinite dupe bug with Arcane Archives"));
+
 
 val basicChassis = <enderio:item_material>;
 val industrialChassis = <enderio:item_material:1>;

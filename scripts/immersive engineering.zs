@@ -42,6 +42,8 @@ recipes.addShaped(<immersiveengineering:tool>,
 
 mods.immersiveengineering.BlastFurnace.removeFuel(<minecraft:coal:1>);
 mods.immersiveengineering.BlastFurnace.removeFuel(<chisel:block_charcoal>);
+mods.immersiveengineering.BlastFurnace.addFuel(<pyrotech:material:1>, 3200);
+mods.immersiveengineering.BlastFurnace.addFuel(<pyrotech:coal_coke_block>, 32000);
 mods.immersiveengineering.BlastFurnace.removeRecipe(<mekanism:ingot:4>);
 mods.immersiveengineering.BlastFurnace.addRecipe(<mekanism:ingot:4>,<minecraft:iron_ingot>,800,<immersiveengineering:material:7>);
 

@@ -2,6 +2,7 @@ import scripts._func.disable;
 import mods.nuclearcraft.alloy_furnace;
 import mods.nuclearcraft.infuser;
 import mods.nuclearcraft.manufactory;
+import mods.nuclearcraft.melter;
 
 disable(<nuclearcraft:solar_panel_basic>);
 disable(<nuclearcraft:solar_panel_advanced>);
@@ -49,9 +50,9 @@ val treatedplank = <immersiveengineering:treated_wood>;
 
 infuser.removeRecipeWithOutput([treatedplank]);
 //mods.nuclearcraft.infuser.addRecipe([itemInput, fluidInput, itemOutput, {timeMultiplier (double), powerMultiplier (double), processRadiation (double)}]);
-infuser.addRecipe([astralplank,<liquid:creosote>,treatedplank]);
-infuser.addRecipe([<minecraft:quartz>,<liquid:creosote>,<actuallyadditions:item_misc:5>]);
-infuser.addRecipe([<nuclearcraft:cooler>,<liquid:ender>,<nuclearcraft:cooler:9>]);
+infuser.addRecipe([astralplank,<liquid:creosote>*144,treatedplank]);
+infuser.addRecipe([<minecraft:quartz>,<liquid:creosote>*144,<actuallyadditions:item_misc:5>]);
+infuser.addRecipe([<nuclearcraft:cooler>,<liquid:ender>*144,<nuclearcraft:cooler:9>]);
 
 recipes.replaceAllOccurences(<minecraft:piston>,<enderio:item_material>,<nuclearcraft:manufactory_idle>);
 recipes.replaceAllOccurences(<minecraft:redstone>,<enderio:item_material>,<nuclearcraft:decay_generator>);
@@ -87,4 +88,4 @@ recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<
 recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<nuclearcraft:rock_crusher_idle>);
 */
 
-
+melter.addRecipe([<roots:assorted_seeds>,<liquid:plantoil>*720]);

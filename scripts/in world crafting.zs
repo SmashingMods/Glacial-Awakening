@@ -23,6 +23,11 @@ FluidToItem.transform(<forbidden_arcanus:runestone>,<liquid:liquid_souls>,[<mine
 FluidToItem.transform(<forbidden_arcanus:arcane_crystal_ore>,<liquid:liquid_souls>,[<minecraft:cobblestone>,<xencraft:xen_gem>],true);
 FluidToItem.transform(<forbidden_arcanus:dark_runestone>,<liquid:liquid_souls>,[<rustic:slate>,<actuallyadditions:item_crystal:2>],true);
 
+FluidToItem.transform(<rustic:sapling:1>,<liquid:iron>,[<minecraft:sapling>],true);
+FluidToItem.transform(<rustic:sapling_apple>,<liquid:sugar>,[<minecraft:apple>,<minecraft:sapling>],true);
+FluidToItem.transform(<rustic:sapling>,<liquid:liquid_souls>,[<minecraft:brown_mushroom>]);
+FluidToItem.transform(<rustic:sapling>,<liquid:liquid_souls>,[<minecraft:red_mushroom>]);
+
 FluidToItem.transform(<forbidden_arcanus:cherrywood_sapling>,<liquid:liquid_souls>,[<minecraft:sapling>],true);
 FluidToItem.transform(<forbidden_arcanus:mysterywood_sapling>,<liquid:gold>,[<minecraft:sapling>],true);
 
