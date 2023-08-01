@@ -1,0 +1,26 @@
+{
+	title: "{glacial.squeezer_multiblock.title}",
+	x: -2.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.squeezer_multiblock.text}"
+	],
+	dependencies: [
+		"a7fb1ae4"
+	],
+	tasks: [{
+		uid: "3422e381",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "plantoil",
+				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}]
+}

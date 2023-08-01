@@ -1,0 +1,26 @@
+{
+	title: "{glacial.joy_tokens.title}",
+	x: -2.0d,
+	y: 2.0d,
+	description: "{glacial.joy_tokens.desc}",
+	text: [
+		"{glacial.joy_tokens.text}"
+	],
+	dependencies: [
+		"d26caa4d"
+	],
+	tasks: [{
+		uid: "2edaf1c7",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_joy"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "02628633",
+		type: "item",
+		item: "essentials:candle_lilypad",
+		count: 8
+	}]
+}

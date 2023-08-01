@@ -1,0 +1,22 @@
+{
+	title: "{glacial.chapter_6.chapter}",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 150,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "contenttweaker:glacial",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 255,
+			TrophyName: "Glacial Master",
+			TrophyColorRed: 50,
+			TrophyEarnedAt: 1568902095L
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

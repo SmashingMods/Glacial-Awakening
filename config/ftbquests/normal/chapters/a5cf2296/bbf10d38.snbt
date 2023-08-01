@@ -1,0 +1,20 @@
+{
+	title: "{glacial.simple_chassis.title}",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.simple_chassis.text}"
+	],
+	dependencies: [
+		"ce7c340c",
+		"40ab3571",
+		"2cb7cfc1"
+	],
+	tasks: [{
+		uid: "e19fc7d7",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}]
+}

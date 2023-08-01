@@ -83,7 +83,7 @@ Squeezer.addRecipe(null,<liquid:plantoil>*60,<rustic:chili_pepper_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*60,<rustic:tomato_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*40,<rustic:apple_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*80,<rustic:grape_stem>,2000);
-Squeezer.addRecipe(null,<liquid:plantoil>*200,<roots:assorted_seeds>,2000);
+//Squeezer.addRecipe(null,<liquid:plantoil>*200,<roots:assorted_seeds>,2000);
 Squeezer.addRecipe(null,<liquid:plantoil>*20,<vanillafoodpantry:oak_acorn>,1000);
 
 //mods.immersiveengineering.MetalPress.addRecipe(IItemStack output, IIngredient input, IItemStack mold, int energy, @Optional int inputSize);

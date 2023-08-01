@@ -1,0 +1,25 @@
+{
+	title: "{glacial.pereskia.title}",
+	x: -3.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.pereskia.text}"
+	],
+	dependencies: [
+		"befe5a12",
+		"dc03895e",
+		"ef22d059"
+	],
+	tasks: [{
+		uid: "a2ebd593",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}]
+	}],
+	rewards: [{
+		uid: "780e49b8",
+		type: "item",
+		item: "hwell:stabiliser_heavy"
+	}]
+}

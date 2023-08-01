@@ -1,0 +1,26 @@
+{
+	title: "{glacial.chapter_4.chapter}",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.chapter_4.text}"
+	],
+	dependencies: [
+		"bbf10d38"
+	],
+	tasks: [{
+		uid: "5ac101ec",
+		type: "checkmark",
+		title: "Chapter 4"
+	}],
+	rewards: [{
+		uid: "e95db538",
+		type: "item",
+		item: "appliedenergistics2:sky_compass"
+	},
+	{
+		uid: "8a08969a",
+		type: "item",
+		item: "enderio:block_cap_bank 1 1"
+	}]
+}

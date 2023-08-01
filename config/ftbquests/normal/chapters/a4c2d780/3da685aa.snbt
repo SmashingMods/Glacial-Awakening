@@ -1,0 +1,55 @@
+{
+	title: "{glacial.shatter_dust.title}",
+	icon: "roots:mortar",
+	x: -6.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.shatter_dust.text}"
+	],
+	dependencies: [
+		"f1a400b2"
+	],
+	tasks: [{
+		uid: "3e97e39e",
+		type: "item",
+		items: [{
+			id: "roots:pestle",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dc500d38",
+		type: "item",
+		items: [{
+			item: "roots:mortar"
+		}]
+	},
+	{
+		uid: "068151ca",
+		type: "item",
+		items: [{
+			id: "roots:spell_dust",
+			tag: {
+				spell_holder: {
+					spell_0: "spell_shatter",
+					selectedSlot: 0,
+					lastCooldown: 0,
+					cooldown: 0
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "32bd3111",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

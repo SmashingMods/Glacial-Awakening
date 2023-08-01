@@ -1,0 +1,18 @@
+{
+	title: "{glacial.resonating_gem.title}",
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		"{glacial.resonating_gem.text}"
+	],
+	dependencies: [
+		"d99f8711"
+	],
+	tasks: [{
+		uid: "bae12a51",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 4"
+		}]
+	}]
+}

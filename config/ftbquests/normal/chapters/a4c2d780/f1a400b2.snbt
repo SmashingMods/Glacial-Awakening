@@ -1,0 +1,55 @@
+{
+	title: "{glacial.create_stalicripe.title}",
+	icon: "roots:pyre",
+	x: -6.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.create_stalicripe.text}"
+	],
+	dependencies: [
+		"6aa72d9d",
+		"13a1a83e"
+	],
+	tasks: [{
+		uid: "f3887ee6",
+		type: "item",
+		items: [{
+			item: "roots:pyre"
+		}]
+	},
+	{
+		uid: "74bf7693",
+		type: "item",
+		items: [{
+			item: "roots:stalicripe"
+		}],
+		count: 2L
+	},
+	{
+		uid: "d51a315a",
+		type: "item",
+		items: [{
+			id: "minecraft:flint_and_steel",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b7907ee",
+		type: "xp_levels",
+		xp_levels: 5
+	},
+	{
+		uid: "cc5af712",
+		type: "item",
+		item: {
+			id: "akashictome:tome",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -9,7 +9,8 @@ disable(<enderio:block_tank>);
 disable(<enderio:block_tank:1>);
 <enderio:block_tank>.addTooltip(format.red("Infinite dupe bug with Arcane Archives"));
 <enderio:block_tank:1>.addTooltip(format.red("Infinite dupe bug with Arcane Archives"));
-
+recipes.replaceAllOccurences(<enderio:block_tank>,<mekanism:machineblock2:11>);
+recipes.replaceAllOccurences(<enderio:block_tank:1>,<mekanism:machineblock2:11>);
 
 val basicChassis = <enderio:item_material>;
 val industrialChassis = <enderio:item_material:1>;
@@ -45,3 +46,4 @@ recipes.replaceAllOccurences(<minecraft:gold_nugget>,<ore:nuggetElectrum>,basicC
 disable(<enderio:block_simple_alloy_smelter>);
 disable(<enderio:block_simple_sag_mill>);
 disable(<enderio:block_simple_stirling_generator>);
+

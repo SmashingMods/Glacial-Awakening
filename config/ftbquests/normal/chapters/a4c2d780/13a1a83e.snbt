@@ -1,0 +1,31 @@
+{
+	title: "{glacial.ice_crystal.title}",
+	x: -7.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.ice_crystal.text}"
+	],
+	dependencies: [
+		"eeabfdf3"
+	],
+	tasks: [{
+		uid: "a19e717f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ice_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "850dfd70",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "roots:roots_guide"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "{glacial.soaking_pot.title}",
+	x: -6.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.soaking_pot.text}"
+	],
+	dependencies: [
+		"eb1e7030",
+		"6c1d446b"
+	],
+	tasks: [{
+		uid: "b87c7217",
+		type: "item",
+		items: [{
+			item: "pyrotech:soaking_pot"
+		}]
+	}],
+	rewards: [{
+		uid: "c583aecc",
+		type: "item",
+		item: "extraanvils:stone_anvil"
+	}]
+}

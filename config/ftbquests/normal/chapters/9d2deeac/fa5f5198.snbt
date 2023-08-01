@@ -1,0 +1,41 @@
+{
+	title: "{glacial.natural_altar.title}",
+	icon: "naturesaura:nature_altar",
+	x: -2.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.natural_altar.text}"
+	],
+	dependencies: [
+		"a7df45cb"
+	],
+	tasks: [{
+		uid: "1410c2c6",
+		type: "item",
+		items: [{
+			item: "naturesaura:nature_altar"
+		}]
+	},
+	{
+		uid: "00dea225",
+		type: "item",
+		items: [{
+			id: "naturesaura:eye",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bae21c78",
+		type: "item",
+		item: {
+			id: "vaultopic:vice",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

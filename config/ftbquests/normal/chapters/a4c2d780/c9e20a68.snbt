@@ -1,0 +1,49 @@
+{
+	title: "{glacial.well_book.title}",
+	x: -1.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.well_book.text_1}",
+		"{glacial.well_book.text_2}",
+		"",
+		"{glacial.well_book.text_3}"
+	],
+	dependencies: [
+		"7215f7a3"
+	],
+	tasks: [{
+		uid: "c24c404c",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "hwell:book_of_the_well"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "0be5213b",
+		type: "item",
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		uid: "ed587fcb",
+		type: "item",
+		item: {
+			id: "skyresources:stonecuttingknife",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

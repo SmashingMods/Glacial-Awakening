@@ -1,0 +1,24 @@
+{
+	title: "{glacial.iron_casing.title}",
+	x: -3.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.iron_casing.text}"
+	],
+	dependencies: [
+		"2684b920"
+	],
+	tasks: [{
+		uid: "9a3c8162",
+		type: "item",
+		items: [{
+			item: "skyresources:casing 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "85cd5b52",
+		type: "item",
+		item: "skyresources:baseitemcomponent",
+		count: 32
+	}]
+}

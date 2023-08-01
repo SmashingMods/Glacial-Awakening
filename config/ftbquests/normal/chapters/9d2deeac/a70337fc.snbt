@@ -1,0 +1,36 @@
+{
+	title: "{glacial.iron_ore.title}",
+	x: -8.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.iron_ore.text_1}",
+		"{glacial.iron_ore.text_2}",
+		"{glacial.iron_ore.text_3}",
+		"{glacial.iron_ore.text_4}",
+		"{glacial.iron_ore.text_5}",
+		"",
+		"{glacial.iron_ore.text_6}"
+	],
+	dependencies: [
+		"f5cea852"
+	],
+	tasks: [{
+		uid: "1ca3e976",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "f4e42f3d",
+		type: "item",
+		item: "hwell:furnace_tube",
+		count: 2
+	},
+	{
+		uid: "6f10b0cd",
+		type: "item",
+		item: "hwell:stabiliser_light"
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "{glacial.chapter_3.chapter}",
+	x: -7.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.chapter_3.text}"
+	],
+	dependencies: [
+		"94845dc0"
+	],
+	tasks: [{
+		uid: "0fa39ad4",
+		type: "checkmark",
+		title: "Chapter 3"
+	}],
+	rewards: [{
+		uid: "d761c078",
+		type: "item",
+		item: {
+			id: "openglider:hang_glider_basic",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

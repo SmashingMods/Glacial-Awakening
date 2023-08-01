@@ -1,0 +1,29 @@
+{
+	title: "{glacial.advanced_inscriber.title}",
+	x: -3.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.advanced_inscriber.text}"
+	],
+	dependencies: [
+		"d832912f"
+	],
+	tasks: [{
+		uid: "b19ed739",
+		type: "item",
+		items: [{
+			item: "ae2stuff:inscriber"
+		}]
+	}],
+	rewards: [{
+		uid: "e7e2b168",
+		type: "item",
+		item: {
+			id: "appliedenergistics2:storage_cell_1k",
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

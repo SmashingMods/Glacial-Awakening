@@ -1,0 +1,21 @@
+{
+	title: "{glacial.furnace.title}",
+	x: -5.0d,
+	y: -1.0d,
+	description: "{glacial.furnace.desc}",
+	dependencies: [
+		"1091780a"
+	],
+	tasks: [{
+		uid: "df4b0f74",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "25664b1a",
+		type: "item",
+		item: "minecraft:furnace"
+	}]
+}

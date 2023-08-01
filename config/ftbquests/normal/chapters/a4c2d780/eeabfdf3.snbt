@@ -1,0 +1,28 @@
+{
+	title: "{glacial.mini_freezer.title}",
+	x: -9.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.mini_freezer.text}"
+	],
+	dependencies: [
+		"cf3a878d"
+	],
+	tasks: [{
+		uid: "55d2d9fb",
+		type: "item",
+		items: [{
+			item: "skyresources:minifreezer"
+		}]
+	}],
+	rewards: [{
+		uid: "f48d8a91",
+		type: "item",
+		item: {
+			id: "pyrotech:crude_shovel",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

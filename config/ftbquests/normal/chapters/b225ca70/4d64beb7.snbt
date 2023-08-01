@@ -1,0 +1,54 @@
+{
+	title: "Chemistry Master",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 100,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "alchemistry:element",
+				Count: 1b,
+				Damage: 1s
+			},
+			TrophyColorBlue: 255,
+			TrophyName: "Chemistry Master",
+			TrophyColorRed: 50,
+			TrophyEarnedAt: 1568475652L
+		}
+	},
+	x: -6.0d,
+	y: -4.0d,
+	shape: "square",
+	text: [
+		"Requires all of the Periodic Table chapter to be completed"
+	],
+	dependencies: [
+		"2220dc2d"
+	],
+	tasks: [{
+		uid: "e93e80ee",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "b123b99c",
+		type: "command",
+		title: "Chemistry Master",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 100,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "alchemistry:element",
+					Count: 1b,
+					Damage: 1s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "Chemistry Master",
+				TrophyColorRed: 50,
+				TrophyEarnedAt: 1568475652L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0 {  TrophyItem:{id:\"alchemistry:element\",Count:1b,Damage:1s},  TrophyName:\"Chemistry Master\",  TrophyColorRed:50,  TrophyColorGreen:100,  TrophyColorBlue:255,  TrophyVariant:\"classic\"}"
+	}]
+}

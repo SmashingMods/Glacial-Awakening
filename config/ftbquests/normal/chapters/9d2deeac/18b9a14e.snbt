@@ -1,0 +1,25 @@
+{
+	title: "{glacial.ashes.title}",
+	x: -6.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.ashes.text}"
+	],
+	dependencies: [
+		"d458bb3d"
+	],
+	tasks: [{
+		uid: "b66c029f",
+		type: "item",
+		items: [{
+			item: "pyrotech:material"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "15f627dd",
+		type: "item",
+		item: "xencraft:xen_gem",
+		count: 16
+	}]
+}

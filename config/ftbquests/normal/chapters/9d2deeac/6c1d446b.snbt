@@ -1,0 +1,24 @@
+{
+	title: "{glacial.stone_crucible.title}",
+	x: -7.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.stone_crucible.text}"
+	],
+	dependencies: [
+		"f5cea852"
+	],
+	tasks: [{
+		uid: "5878c228",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "075fac51",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 8
+	}]
+}

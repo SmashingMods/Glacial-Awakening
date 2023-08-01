@@ -1,0 +1,22 @@
+{
+	title: "{glacial.magnet_manual.title}",
+	x: -6.0d,
+	y: 2.0d,
+	description: "{glacial.magnet_manual.desc}",
+	dependencies: [
+		"65c2ee6e"
+	],
+	tasks: [{
+		uid: "ee771c2b",
+		type: "item",
+		items: [{
+			item: "magneticraft:guide_book"
+		}]
+	}],
+	rewards: [{
+		uid: "81e6c423",
+		type: "item",
+		item: "forbidden_arcanus:arcane_base_block",
+		count: 64
+	}]
+}

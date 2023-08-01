@@ -1,0 +1,19 @@
+{
+	title: "{glacial.starmetal.title}",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.starmetal.text}"
+	],
+	dependencies: [
+		"efdbcc0d"
+	],
+	tasks: [{
+		uid: "8b834ed2",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 1"
+		}],
+		count: 4L
+	}]
+}

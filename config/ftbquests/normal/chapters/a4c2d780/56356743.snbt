@@ -1,0 +1,39 @@
+{
+	title: "{glacial.crude_pickaxe.title}",
+	x: -11.0d,
+	y: 5.0d,
+	text: [
+		"{glacial.crude_pickaxe.text}"
+	],
+	dependencies: [
+		"705805cc"
+	],
+	tasks: [{
+		uid: "f80ae953",
+		type: "item",
+		items: [{
+			id: "pyrotech:crude_pickaxe",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "15b8ac8b",
+		type: "item",
+		item: {
+			id: "minecraft:leather_chestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "94477874",
+		type: "item",
+		item: "stonechest:chest_andesite",
+		count: 2
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "{glacial.blaze_powder.title}",
+	x: 1.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.blaze_powder.text}"
+	],
+	dependencies: [
+		"22a139b1"
+	],
+	tasks: [{
+		uid: "ab3a324e",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_powder"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "48520373",
+		type: "item",
+		item: {
+			id: "waterstrainer:efficiency_meter",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "93ac2959",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_player_interface"
+		}]
+	}]
+}

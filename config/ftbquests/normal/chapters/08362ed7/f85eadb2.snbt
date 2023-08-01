@@ -1,0 +1,26 @@
+{
+	title: "{glacial.fermenter_multiblock.title}",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.fermenter_multiblock.text}"
+	],
+	dependencies: [
+		"a7fb1ae4"
+	],
+	tasks: [{
+		uid: "6e2b05ac",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ethanol",
+				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}]
+}

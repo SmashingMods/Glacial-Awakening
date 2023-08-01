@@ -1,0 +1,48 @@
+{
+	title: "{glacial.granite_anvil.title}",
+	icon: {
+		id: "pyrotech:flint_pickaxe",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -8.0d,
+	y: 5.0d,
+	text: [
+		"{glacial.granite_anvil.text}"
+	],
+	dependencies: [
+		"706d9b87"
+	],
+	tasks: [{
+		uid: "cc757282",
+		type: "item",
+		items: [{
+			item: "pyrotech:anvil_granite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "81c0eaa7",
+		type: "item",
+		items: [{
+			id: "pyrotech:flint_pickaxe",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d15344e3",
+		type: "item",
+		item: {
+			id: "pyrotech:flint_pickaxe",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

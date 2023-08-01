@@ -1,0 +1,49 @@
+{
+	title: "{glacial.empty_rod.title}",
+	icon: {
+		id: "hwell:empty_rod",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: 3.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.empty_rod.text}"
+	],
+	dependencies: [
+		"fb3aa392"
+	],
+	tasks: [{
+		uid: "e505d612",
+		type: "item",
+		items: [{
+			id: "hwell:empty_rod",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4c2dd3d0",
+		type: "item",
+		items: [{
+			item: "hwell:crushing_block"
+		}]
+	},
+	{
+		uid: "d84b59cb",
+		type: "item",
+		items: [{
+			item: "hwell:myst_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "aef09d52",
+		type: "item",
+		item: "vanillafoodpantry:gelo 1 398",
+		count: 4
+	}]
+}

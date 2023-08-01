@@ -1,0 +1,38 @@
+{
+	title: "{glacial.terra_moss.title}",
+	icon: "roots:terra_moss",
+	x: -11.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.terra_moss.text_1}",
+		"",
+		"{glacial.terra_moss.text_2}"
+	],
+	dependencies: [
+		"56356743"
+	],
+	tasks: [{
+		uid: "317e0cc6",
+		type: "item",
+		items: [{
+			id: "roots:stone_knife",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "86e92df7",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	}],
+	rewards: [{
+		uid: "0bdfb333",
+		type: "item",
+		item: "vanillafoodpantry:nuggets 1 60"
+	}]
+}

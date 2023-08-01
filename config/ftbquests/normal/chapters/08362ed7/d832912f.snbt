@@ -1,0 +1,46 @@
+{
+	title: "{glacial.inscriber_presses.title}",
+	icon: "appliedenergistics2:material 1 19",
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.inscriber_presses.text}"
+	],
+	dependencies: [
+		"c8950b9f"
+	],
+	tasks: [{
+		uid: "93afdc85",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 13"
+		}]
+	},
+	{
+		uid: "a849a553",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 14"
+		}]
+	},
+	{
+		uid: "38f78ce9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 15"
+		}]
+	},
+	{
+		uid: "19c2df92",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "9ed22bd7",
+		type: "item",
+		item: "appliedenergistics2:material",
+		count: 32
+	}]
+}

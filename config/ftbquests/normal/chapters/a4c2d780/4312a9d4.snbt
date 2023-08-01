@@ -1,0 +1,43 @@
+{
+	title: "{glacial.stone_rock_grinder.title}",
+	x: -7.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.stone_rock_grinder.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "309bfe85",
+		type: "item",
+		items: [{
+			id: "skyresources:stonegrinder",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "da6910b2",
+		type: "item",
+		item: {
+			id: "skyresources:stonegrinder",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "9e50e993",
+		type: "item",
+		item: {
+			id: "betterbuilderswands:wandstone",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

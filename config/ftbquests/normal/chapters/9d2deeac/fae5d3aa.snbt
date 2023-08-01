@@ -1,0 +1,35 @@
+{
+	title: "{glacial.grit_vase.title}",
+	icon: "hwell:grit_vase",
+	x: -9.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.grit_vase.text_1}",
+		"",
+		"{glacial.grit_vase.text_2}",
+		"",
+		"{glacial.grit_vase.text_3}"
+	],
+	dependencies: [
+		"f5cea852"
+	],
+	tasks: [{
+		uid: "c035a4c1",
+		type: "item",
+		items: [{
+			item: "hwell:grit_vase"
+		}]
+	},
+	{
+		uid: "a401e5cd",
+		type: "item",
+		items: [{
+			item: "hwell:tray"
+		}]
+	}],
+	rewards: [{
+		uid: "968f956a",
+		type: "item",
+		item: "hwell:grit_vase"
+	}]
+}

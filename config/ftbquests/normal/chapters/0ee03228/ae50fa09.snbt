@@ -1,0 +1,22 @@
+{
+	title: "{glacial.enrichment_chamber.title}",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.enrichment_chamber.text}"
+	],
+	dependencies: [
+		"b6cf78d4"
+	],
+	tasks: [{
+		uid: "b4c28818",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

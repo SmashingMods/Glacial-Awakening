@@ -1,0 +1,25 @@
+{
+	title: "{glacial.item_conduits.title}",
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.item_conduits.text}"
+	],
+	dependencies: [
+		"0628341a"
+	],
+	tasks: [{
+		uid: "d01765ae",
+		type: "item",
+		items: [{
+			item: "enderio:item_item_conduit"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "bd58e060",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 16
+	}]
+}

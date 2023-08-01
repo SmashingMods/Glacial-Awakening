@@ -1,0 +1,20 @@
+{
+	title: "{glacial.gather_cobblestone.title}",
+	icon: "minecraft:cobblestone",
+	x: -6.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.gather_cobblestone.text}"
+	],
+	dependencies: [
+		"81c980ba"
+	],
+	tasks: [{
+		uid: "53224bcb",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	}]
+}

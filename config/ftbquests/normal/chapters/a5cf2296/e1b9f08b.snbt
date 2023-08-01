@@ -1,0 +1,25 @@
+{
+	title: "{glacial.starlight_altar.title}",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.starlight_altar.text_1}",
+		"",
+		"{glacial.starlight_altar.text_2}"
+	],
+	dependencies: [
+		"c37588c7"
+	],
+	tasks: [{
+		uid: "7c55ba71",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blockaltar",
+			Damage: 1s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

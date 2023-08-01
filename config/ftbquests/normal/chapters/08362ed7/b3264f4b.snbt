@@ -1,0 +1,26 @@
+{
+	title: "{glacial.me_drive.title}",
+	x: -2.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.me_drive.text}"
+	],
+	dependencies: [
+		"08d10486"
+	],
+	tasks: [{
+		uid: "b4003bf4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:drive"
+		}]
+	}],
+	rewards: [{
+		uid: "cb921428",
+		type: "item",
+		item: {
+			id: "appliedenergistics2:energy_cell",
+			tag: {}
+		}
+	}]
+}

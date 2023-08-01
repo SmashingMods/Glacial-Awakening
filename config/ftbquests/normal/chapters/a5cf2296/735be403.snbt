@@ -1,0 +1,26 @@
+{
+	title: "{glacial.rocky_iron.title}",
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.rocky_iron.text_1}",
+		"",
+		"{glacial.rocky_iron.text_2}"
+	],
+	dependencies: [
+		"a50618cb"
+	],
+	tasks: [{
+		uid: "7cd6a29f",
+		type: "item",
+		items: [{
+			item: "magneticraft:rocky_chunks"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "d9b866fa",
+		type: "item",
+		item: "minecraft:iron_ore"
+	}]
+}

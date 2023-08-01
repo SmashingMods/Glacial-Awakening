@@ -88,4 +88,4 @@ recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<
 recipes.replaceAllOccurences(<enderio:item_material>,<enderio:item_material:1>,<nuclearcraft:rock_crusher_idle>);
 */
 
-melter.addRecipe([<roots:assorted_seeds>,<liquid:plantoil>*720]);
+//melter.addRecipe([<roots:assorted_seeds>,<liquid:plantoil>*720]);

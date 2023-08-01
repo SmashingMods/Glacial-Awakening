@@ -1,7 +1,7 @@
 import scripts._func.disable;
 
 
-mods.magneticraft.Grinder.addRecipe(<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>,<minecraft:gravel>, 0.15, 50, false);
+mods.magneticraft.Grinder.addRecipe(<magneticraft:ores:1>,<magneticraft:rocky_chunks:8>,<minecraft:gravel>, 0.15, 0.50);
 disable(<magneticraft:crushing_table>);
 //disable(<magneticraft:brick_furnace>);
 disable(<magneticraft:stone_hammer>);

@@ -32,3 +32,6 @@ mods.naturesaura.Altar.addRecipe("altar_worm",<minecraft:dirt>,<waterstrainer:wo
 
 mods.naturesaura.Altar.removeRecipe(<naturesaura:infused_stone>);
 mods.naturesaura.Altar.addRecipe("infused_stone",<appliedenergistics2:sky_stone_block>,<naturesaura:infused_stone>,null,15000,80);
+
+mods.naturesaura.AnimalSpawner.removeRecipe("naturesaura:shulker");
+mods.naturesaura.AnimalSpawner.addRecipe("shulker","minecraft:shulker",150000,100,[<minecraft:end_stone>]);

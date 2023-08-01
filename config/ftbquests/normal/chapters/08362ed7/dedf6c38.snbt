@@ -1,0 +1,19 @@
+{
+	title: "{glacial.arc_furnace.title}",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.arc_furnace.text}"
+	],
+	dependencies: [
+		"7acefc82"
+	],
+	tasks: [{
+		uid: "c220082f",
+		type: "item",
+		items: [{
+			item: "magneticraft:light_plates 1 5"
+		}],
+		count: 2L
+	}]
+}

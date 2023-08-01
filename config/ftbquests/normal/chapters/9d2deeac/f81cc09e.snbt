@@ -1,0 +1,30 @@
+{
+	title: "{glacial.tavern.title}",
+	icon: "hearthstones:tavern 1 1",
+	x: -5.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.tavern.text}"
+	],
+	dependencies: [
+		"befe5a12"
+	],
+	tasks: [{
+		uid: "858e9618",
+		type: "item",
+		items: [{
+			item: "hearthstones:tavern 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd6d2cca",
+		type: "item",
+		item: {
+			id: "hearthstones:shabby_hearthstone",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

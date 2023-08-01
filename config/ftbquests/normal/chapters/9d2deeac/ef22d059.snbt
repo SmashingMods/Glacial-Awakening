@@ -1,0 +1,27 @@
+{
+	title: "{glacial.melon.title}",
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.melon.text_1}",
+		"",
+		"{glacial.melon.text_2}",
+		"",
+		"{glacial.melon.text_3}"
+	],
+	dependencies: [
+		"b2bed28f"
+	],
+	tasks: [{
+		uid: "e6c25be2",
+		type: "item",
+		items: [{
+			item: "minecraft:melon_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "46a3a238",
+		type: "item",
+		item: "morecharcoal:melon_charcoal_block"
+	}]
+}

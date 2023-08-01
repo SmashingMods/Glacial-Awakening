@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "a54712a7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:foursmore"
+		}]
+	}]
+}

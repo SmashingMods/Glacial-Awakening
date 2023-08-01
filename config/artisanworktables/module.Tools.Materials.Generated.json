@@ -246,6 +246,71 @@
       "ingredient": "ore:ingotTin",
       "langKey": "material.athenaeum.tin",
       "oreDictKey": "artisansToolTin"
+    },
+    {
+      "name": "osmium",
+      "harvestLevel": 2,
+      "maxUses": 500,
+      "efficiency": 10.0,
+      "damage": 4.0,
+      "enchantability": 12,
+      "color": "9ba9b1",
+      "shiny": true,
+      "ingredient": "ore:ingotOsmium",
+      "langKey": "material.athenaeum.osmium",
+      "oreDictKey": "artisansToolOsmium"
+    },
+    {
+      "name": "boron",
+      "harvestLevel": 2,
+      "maxUses": 550,
+      "efficiency": 8.0,
+      "damage": 2.5,
+      "enchantability": 6,
+      "color": "7d7d7d",
+      "shiny": true,
+      "ingredient": "ore:ingotBoron",
+      "langKey": "material.athenaeum.boron",
+      "oreDictKey": "artisansToolBoron"
+    },
+    {
+      "name": "toughalloy",
+      "harvestLevel": 3,
+      "maxUses": 950,
+      "efficiency": 10.0,
+      "damage": 3.0,
+      "enchantability": 15,
+      "color": "150f21",
+      "shiny": false,
+      "ingredient": "ore:ingotTough",
+      "langKey": "material.athenaeum.toughalloy",
+      "oreDictKey": "artisansToolToughalloy"
+    },
+    {
+      "name": "hardcarbon",
+      "harvestLevel": 3,
+      "maxUses": 1250,
+      "efficiency": 11.0,
+      "damage": 3.0,
+      "enchantability": 12,
+      "color": "195970",
+      "shiny": false,
+      "ingredient": "ore:ingotHardCarbon",
+      "langKey": "material.athenaeum.hardcarbon",
+      "oreDictKey": "artisansToolHardcarbon"
+    },
+    {
+      "name": "boronnitride",
+      "harvestLevel": 4,
+      "maxUses": 1950,
+      "efficiency": 12.0,
+      "damage": 2.5,
+      "enchantability": 20,
+      "color": "75b269",
+      "shiny": true,
+      "ingredient": "ore:gemBoronNitride",
+      "langKey": "material.athenaeum.boronnitride",
+      "oreDictKey": "artisansToolBoronnitride"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+	title: "{glacial.natural_aura.title}",
+	icon: "naturesaura:gold_leaf",
+	x: -2.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.natural_aura.text}"
+	],
+	dependencies: [
+		"01c813a3"
+	],
+	tasks: [{
+		uid: "42b519a3",
+		type: "item",
+		items: [{
+			item: "naturesaura:wood_stand"
+		}],
+		count: 8L
+	},
+	{
+		uid: "ab160334",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_leaf"
+		}],
+		count: 8L
+	},
+	{
+		uid: "3182c4a8",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "naturesaura:book"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "b371187d",
+		type: "item",
+		item: "hwell:fertile_soil",
+		count: 2
+	}]
+}

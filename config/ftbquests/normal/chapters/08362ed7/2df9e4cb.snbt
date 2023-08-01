@@ -1,0 +1,24 @@
+{
+	title: "{glacial.growth_chamber.title}",
+	x: -5.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.growth_chamber.text}"
+	],
+	dependencies: [
+		"ee044ffc"
+	],
+	tasks: [{
+		uid: "5eb85d2d",
+		type: "item",
+		items: [{
+			item: "ae2stuff:grower"
+		}]
+	}],
+	rewards: [{
+		uid: "007f5cbb",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 8
+	}]
+}

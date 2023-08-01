@@ -1,0 +1,23 @@
+{
+	title: "{glacial.chem_dissolution.title}",
+	x: 5.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.chem_dissolution.text}"
+	],
+	dependencies: [
+		"9a5f1c35"
+	],
+	tasks: [{
+		uid: "54ae051c",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			Damage: 6s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	title: "{glacial.ore_puller.title}",
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.ore_puller.text_1}",
+		"",
+		"{glacial.ore_puller.text_2}",
+		"",
+		"{glacial.ore_puller.text_3}"
+	],
+	dependencies: [
+		"c8950b9f"
+	],
+	tasks: [{
+		uid: "15926885",
+		type: "item",
+		items: [{
+			item: "hwell:puller"
+		}]
+	}],
+	rewards: [{
+		uid: "eb3e3561",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 16
+	},
+	{
+		uid: "161ad3aa",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 16
+	},
+	{
+		uid: "f9daa3d8",
+		type: "item",
+		item: "minecraft:diamond_ore",
+		count: 4
+	},
+	{
+		uid: "c8804551",
+		type: "item",
+		item: "minecraft:lapis_ore",
+		count: 4
+	}]
+}

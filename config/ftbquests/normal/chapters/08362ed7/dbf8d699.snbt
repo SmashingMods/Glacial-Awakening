@@ -1,0 +1,27 @@
+{
+	title: "{glacial.refinery.title}",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.refinery.text}"
+	],
+	dependencies: [
+		"f85eadb2",
+		"d1934af9"
+	],
+	tasks: [{
+		uid: "a5e91206",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "biodiesel",
+				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}]
+}

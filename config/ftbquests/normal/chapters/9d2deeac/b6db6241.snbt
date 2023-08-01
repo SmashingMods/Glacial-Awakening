@@ -1,0 +1,18 @@
+{
+	title: "{glacial.natural_altar_ores.title}",
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.natural_altar_ores.text_1}",
+		"",
+		"{glacial.natural_altar_ores.text_2}"
+	],
+	dependencies: [
+		"fa5f5198"
+	],
+	tasks: [{
+		uid: "5b23665b",
+		type: "checkmark",
+		title: "Natural Altar Ore Processing"
+	}]
+}

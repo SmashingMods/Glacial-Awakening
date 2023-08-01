@@ -1,13 +1,16 @@
 import mods.roots.Mortar;
 import mods.roots.Fey;
 import mods.roots.Pyre;
+import mods.roots.Rituals;
+
+Rituals.modifyRitual("ritual_summon_creatures",[<hwell:mutation_paste>,<minecraft:egg>,<roots:moonglow_leaf>,<roots:wildewheet>,<minecraft:wheat_seeds>]);
 
 recipes.removeByRecipeName("roots:wildwood_planks");
 recipes.addShapeless(<roots:wildwood_planks>*2,[<roots:wildwood_log>]);
 
 
-recipes.remove(<roots:bonfire>);
-recipes.addShaped(<roots:bonfire>,
+recipes.remove(<roots:pyre>);
+recipes.addShaped(<roots:pyre>,
 [[null,<minecraft:stick>,null],
  [<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
  [<ore:cobblestone>,<roots:terra_moss>,<ore:cobblestone>]]);
@@ -32,6 +35,7 @@ Pyre.addRecipe("stalicripe",<roots:stalicripe>*2,
   <roots:terra_moss>,
   <quark:root_dye>,
   <pyrotech:material:13>]);
+
   
   /*
 mods.roots.Pyre.removeRecipe(<roots:ritual_transmutation>);
@@ -87,8 +91,8 @@ recipes.addShaped(<roots:pestle>,
 
 
 
-recipes.remove(<roots:offertory_plate>);
-recipes.addShaped(<roots:offertory_plate>,
+recipes.remove(<roots:catalyst_plate>);
+recipes.addShaped(<roots:catalyst_plate>,
 [[<roots:runestone>,<roots:chiseled_runestone>,<roots:runestone>],
  [null,<naturesaura:sky_ingot>,null],
  [<roots:runestone>,<naturesaura:sky_ingot>,<roots:runestone>]]);

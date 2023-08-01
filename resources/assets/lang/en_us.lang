@@ -274,7 +274,7 @@ glacial.sky_ingot.text_1=Place the offering items in the bowl and toss a Spirit 
 glacial.sky_ingot.text_2=It may take a minute for the item to fall from the sky. It can land anywhere within the offering table structure.
 
 glacial.cow_ritual.title=Creating ... Cows?
-glacial.cow_ritual.text_1=Summon a cow by using the Roots "Ritual of Animal Summoning". You will need an offering plate with raw beef to start this ritual. Raw beef can be crafted using mutation paste.
+glacial.cow_ritual.text_1=Summon a cow by using the Roots "Ritual of Animal Summoning". You will need 2 offering plates nearby to start this ritual. Put wheat into one and any type of dye into the other before starting the ritual. See JEI usages of the item 'Ritual: Summon Creatures' to see different animal summoning recipes.
 
 glacial.cowhide.title=Cowhide
 glacial.cowhide.text_1=Now that you have a cow, you can peacefully harvest dozens of drops from it by using the "Animal Harvest" ritual.

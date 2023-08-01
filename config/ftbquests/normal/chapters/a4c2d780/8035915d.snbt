@@ -1,0 +1,29 @@
+{
+	title: "{glacial.early_storage.title}",
+	x: -7.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.early_storage.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "d623ce97",
+		type: "item",
+		items: [{
+			item: "stonechest:chest_cobblestone"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "2a999145",
+		type: "item",
+		item: {
+			id: "vaultopic:view_small",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fdc0ff76",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:living_matter_extraterrestrial"
+		}],
+		count: 8L
+	}]
+}

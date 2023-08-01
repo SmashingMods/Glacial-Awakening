@@ -1,4 +1,4 @@
-import mods.hwell.addCrushingBlockRecipe;
+// import mods.hwell.addCrushingBlockRecipe;
 import scripts._func.disable;
 
 disable(<hwell:producer>);
@@ -47,11 +47,11 @@ recipes.addShapeless(<hwell:heavy_mesh>,
 
 <ore:charcoal>.add(<minecraft:coal:1>);
 
-//mods.hwell.addCrushingBlockRecipe(IItemStack input, IItemStack[] outputs, double[] probabilities)
-addCrushingBlockRecipe(<pyrotech:rock:8>,[<pyrotech:material:28>],[1.0]);
-addCrushingBlockRecipe(<pyrotech:material:11>,[<minecraft:dye:15>],[1.0]);
-addCrushingBlockRecipe(<minecraft:flint>,[<pyrotech:material:31>*2],[1.0]);
-addCrushingBlockRecipe(<magneticraft:limestone>,[<pyrotech:rock:8>*2],[1.0]);
+// //mods.hwell.addCrushingBlockRecipe(IItemStack input, IItemStack[] outputs, double[] probabilities)
+// addCrushingBlockRecipe(<pyrotech:rock:8>,[<pyrotech:material:28>],[1.0]);
+// addCrushingBlockRecipe(<pyrotech:material:11>,[<minecraft:dye:15>],[1.0]);
+// addCrushingBlockRecipe(<minecraft:flint>,[<pyrotech:material:31>*2],[1.0]);
+// addCrushingBlockRecipe(<magneticraft:limestone>,[<pyrotech:rock:8>*2],[1.0]);
 
 //addCrushingBlockRecipe(<minecraft:iron_ingot>,[<magneticraft:light_plates>],[1.0]);
 //addCrushingBlockRecipe(<minecraft:gold_ingot>,[<magneticraft:light_plates:1>],[1.0]);
@@ -87,8 +87,8 @@ recipes.remove(<hwell:heat_furnace>);
 
 disable(<hwell:precision_grinder_empty>);
 disable(<hwell:separator>);
-mods.jei.JEI.hideCategory("hwell.grinding");
-mods.jei.JEI.hideCategory("hwell.separating");
+// mods.jei.JEI.hideCategory("hwell.grinding");
+// mods.jei.JEI.hideCategory("hwell.separating");
 
 recipes.replaceAllOccurences(<minecraft:gold_ingot>,<minecraft:glowstone>,<hwell:stabiliser_light>);
 recipes.replaceAllOccurences(<hwell:heavy_ingot>,<minecraft:iron_nugget>,<hwell:stabiliser_light>);

@@ -1,0 +1,45 @@
+{
+	title: "{glacial.luminous_table.title}",
+	icon: {
+		id: "astralsorcery:blockaltar",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.luminous_table.text_1}",
+		"",
+		"{glacial.luminous_table.text_2}"
+	],
+	dependencies: [
+		"81ab11de"
+	],
+	tasks: [{
+		uid: "d55a8490",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blockaltar",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2b0b2a44",
+		type: "item",
+		items: [{
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

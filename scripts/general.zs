@@ -130,7 +130,7 @@ recipes.remove(<ftbquests:book>);
 recipes.addShapeless(<ftbquests:book>,[<quark:root>,<minecraft:cobblestone>]);
 
 recipes.addShapeless(<minecraft:blaze_rod>,
-[<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
+[<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
 
 <minecraft:diamond>.addTooltip("Diamond ore can be created from a sentient core");
 

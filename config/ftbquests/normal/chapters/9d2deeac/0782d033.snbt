@@ -1,0 +1,45 @@
+{
+	title: "{glacial.bottled_ghosts.title}",
+	icon: {
+		id: "naturesaura:aura_bottle",
+		tag: {
+			stored_type: "naturesaura:nether"
+		}
+	},
+	x: 2.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.bottled_ghosts.text}"
+	],
+	dependencies: [
+		"4dadce26"
+	],
+	tasks: [{
+		uid: "a132acb8",
+		type: "item",
+		items: [{
+			id: "naturesaura:aura_bottle",
+			tag: {
+				stored_type: "naturesaura:nether"
+			}
+		}]
+	},
+	{
+		uid: "416a4202",
+		type: "item",
+		items: [{
+			item: "naturesaura:calling_spirit"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "bfed1123",
+		type: "item",
+		item: {
+			id: "hwell:soulsteel_sword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

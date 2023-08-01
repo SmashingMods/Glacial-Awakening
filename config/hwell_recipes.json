@@ -812,6 +812,30 @@
 			"possible_outputs": [
 				{ "out": { "item": "hwell:hamburger"} }
 			]
+		},
+		{
+			"input": { "item": "pyrotech:rock", "data": 8 },
+			"possible_outputs": [
+				{ "out": { "item": "pyrotech:material", "data": 28, "count": 1}}
+			]
+		},
+		{
+			"input": { "item": "pyrotech:material", "data": 11 },
+			"possible_outputs": [
+				{ "out": { "item": "minecraft:dye","data": 15, "count": 1}}
+			]
+		},
+		{
+			"input": { "item": "minecraft:flint" },
+			"possible_outputs": [
+				{ "out": { "item": "pyrotech:material","data":31, "count": 2}}
+			]
+		},
+		{
+			"input": { "item": "magneticraft:limestone" },
+			"possible_outputs": [
+				{ "out": { "item": "pyrotech:rock", "data":8, "count": 2}}
+			]
 		}
 	]
 	
@@ -1093,6 +1117,46 @@
 		{ "item": "hwell:mystic_iron_helmet" }, { "item": "hwell:mystic_iron_chest" },
 		{ "item": "hwell:mystic_iron_legs" }, { "item": "hwell:mystic_iron_boots" },
 
+
+		{ "item": "actuallyadditions:item_axe_crystal_black" }, { "item": "actuallyadditions:item_axe_crystal_blue" },
+		{ "item": "actuallyadditions:item_axe_crystal_green" }, { "item": "actuallyadditions:item_axe_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_axe_crystal_red" }, { "item": "actuallyadditions:item_axe_crystal_white" },
+		{ "item": "actuallyadditions:item_axe_emerald" }, { "item": "actuallyadditions:item_axe_quartz" },
+		{ "item": "actuallyadditions:item_boots_crystal_black" }, { "item": "actuallyadditions:item_boots_crystal_blue" },
+		{ "item": "actuallyadditions:item_boots_crystal_green" }, { "item": "actuallyadditions:item_boots_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_boots_crystal_red" }, { "item": "actuallyadditions:item_boots_crystal_white" },
+		{ "item": "actuallyadditions:item_boots_emerald" }, { "item": "actuallyadditions:item_boots_quartz" },
+		{ "item": "actuallyadditions:item_chest_crystal_black" }, { "item": "actuallyadditions:item_chest_crystal_blue" },
+		{ "item": "actuallyadditions:item_chest_crystal_green" }, { "item": "actuallyadditions:item_chest_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_chest_crystal_red" }, { "item": "actuallyadditions:item_chest_crystal_white" },
+		{ "item": "actuallyadditions:item_chest_emerald" }, { "item": "actuallyadditions:item_chest_quartz" },
+		{ "item": "actuallyadditions:item_helm_crystal_black" }, { "item": "actuallyadditions:item_helm_crystal_blue" },
+		{ "item": "actuallyadditions:item_helm_crystal_green" }, { "item": "actuallyadditions:item_helm_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_helm_crystal_red" }, { "item": "actuallyadditions:item_helm_crystal_white" },
+		{ "item": "actuallyadditions:item_helm_emerald" }, { "item": "actuallyadditions:item_helm_quartz" },
+		{ "item": "actuallyadditions:item_hoe_crystal_black" }, { "item": "actuallyadditions:item_hoe_crystal_blue" },
+		{ "item": "actuallyadditions:item_hoe_crystal_green" }, { "item": "actuallyadditions:item_hoe_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_hoe_crystal_red" }, { "item": "actuallyadditions:item_hoe_crystal_white" },
+		{ "item": "actuallyadditions:item_hoe_emerald" }, { "item": "actuallyadditions:item_hoe_quartz" },
+		{ "item": "actuallyadditions:item_knife" },
+		{ "item": "actuallyadditions:item_pants_crystal_black" }, { "item": "actuallyadditions:item_pants_crystal_blue" },
+		{ "item": "actuallyadditions:item_pants_crystal_green" }, { "item": "actuallyadditions:item_pants_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_pants_crystal_red" }, { "item": "actuallyadditions:item_pants_crystal_white" },
+		{ "item": "actuallyadditions:item_pants_emerald" }, { "item": "actuallyadditions:item_pants_quartz" },
+		{ "item": "actuallyadditions:item_pickaxe_crystal_black" }, { "item": "actuallyadditions:item_pickaxe_crystal_blue" },
+		{ "item": "actuallyadditions:item_pickaxe_crystal_green" }, { "item": "actuallyadditions:item_pickaxe_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_pickaxe_crystal_red" }, { "item": "actuallyadditions:item_pickaxe_crystal_white" },
+		{ "item": "actuallyadditions:item_pickaxe_emerald" }, { "item": "actuallyadditions:item_pickaxe_quartz" },
+		{ "item": "actuallyadditions:item_shovel_crystal_black" }, { "item": "actuallyadditions:item_shovel_crystal_blue" },
+		{ "item": "actuallyadditions:item_shovel_crystal_green" }, { "item": "actuallyadditions:item_shovel_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_shovel_crystal_red" }, { "item": "actuallyadditions:item_shovel_crystal_white" },
+		{ "item": "actuallyadditions:item_shovel_emerald" }, { "item": "actuallyadditions:item_shovel_quartz" },
+		{ "item": "actuallyadditions:item_sword_crystal_black" }, { "item": "actuallyadditions:item_sword_crystal_blue" },
+		{ "item": "actuallyadditions:item_sword_crystal_green" }, { "item": "actuallyadditions:item_sword_crystal_light_blue" },
+		{ "item": "actuallyadditions:item_sword_crystal_red" }, { "item": "actuallyadditions:item_sword_crystal_white" },
+		{ "item": "actuallyadditions:item_sword_emerald" }, { "item": "actuallyadditions:item_sword_quartz" },
+
+
 		{ "item": "appliedenergistics2:certus_quartz_cutting_knife"}, 
 		{ "item": "appliedenergistics2:nether_quartz_axe"}, 
 		{ "item": "appliedenergistics2:nether_quartz_hoe"}, 
@@ -1103,10 +1167,6 @@
 
 		{ "item": "betterbuilderswands:wandstone"}, 
 		{ "item": "betterbuilderswands:wandiron"}, 
-
-		{ "item": "chisel:chisel_iron"}, 
-		{ "item": "chisel:chisel_diamond"}, 
-		{ "item": "chisel:chisel_hitech"}, 
 
 		{ "item": "chiselsandbits:chisel_stone"}, 
 		{ "item": "chiselsandbits:chisel_iron"}, 

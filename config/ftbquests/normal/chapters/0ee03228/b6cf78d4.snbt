@@ -1,0 +1,23 @@
+{
+	title: "{glacial.metallurgic_infuser.title}",
+	x: 2.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.metallurgic_infuser.text}"
+	],
+	dependencies: [
+		"caf0bddf"
+	],
+	tasks: [{
+		uid: "734e462a",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			Damage: 8s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

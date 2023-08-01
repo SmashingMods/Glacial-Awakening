@@ -1,0 +1,12 @@
+{
+	x: 4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f99a59df",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:block_ice"
+		}],
+		count: 64L
+	}]
+}

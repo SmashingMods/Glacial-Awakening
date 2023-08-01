@@ -1,0 +1,26 @@
+{
+	title: "{glacial.cowhide.title}",
+	x: 7.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.cowhide.text_1}",
+		"",
+		"{glacial.cowhide.text_2}"
+	],
+	dependencies: [
+		"1a4dc3b5"
+	],
+	tasks: [{
+		uid: "518e54c9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cowhide"
+		}]
+	}],
+	rewards: [{
+		uid: "cd63b029",
+		type: "item",
+		item: "vanillafoodpantry:milkdrink 1 379",
+		count: 4
+	}]
+}

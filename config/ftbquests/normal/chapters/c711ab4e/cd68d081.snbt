@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d4897874",
+		type: "item",
+		items: [{
+			id: "arcanearchives:mountaintear",
+			tag: {
+				charge: 25,
+				infinite: 0b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

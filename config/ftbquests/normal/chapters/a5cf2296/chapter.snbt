@@ -1,0 +1,7 @@
+{
+	title: "{glacial.chapter_3.chapter}",
+	icon: "astralsorcery:blockwell",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

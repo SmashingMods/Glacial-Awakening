@@ -1,0 +1,18 @@
+{
+	title: "{glacial.tree_extractor.title}",
+	x: -2.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.tree_extractor.text}"
+	],
+	dependencies: [
+		"a7fb1ae4"
+	],
+	tasks: [{
+		uid: "1601c99c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tree_fluid_extractor"
+		}]
+	}]
+}

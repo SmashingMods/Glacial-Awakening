@@ -1,0 +1,50 @@
+{
+	title: "{glacial.bloomery.title}",
+	x: -5.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.bloomery.text_1}",
+		"{glacial.bloomery.text_2}",
+		"{glacial.bloomery.text_3}",
+		"{glacial.bloomery.text_4}",
+		"{glacial.bloomery.text_5}"
+	],
+	dependencies: [
+		"d458bb3d"
+	],
+	tasks: [{
+		uid: "f3ee3bb3",
+		type: "item",
+		items: [{
+			item: "pyrotech:bloomery"
+		}]
+	}],
+	rewards: [{
+		uid: "b9a18e6c",
+		type: "item",
+		item: "pyrotech:mechanical_bellows"
+	},
+	{
+		uid: "55a1bfce",
+		type: "item",
+		item: {
+			id: "pyrotech:cog_flint",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "d75f1855",
+		type: "command",
+		title: "Some Advancements...",
+		icon: {
+			id: "minecraft:writable_book",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		auto: "enabled",
+		command: "/advancement grant @p until pyrotech:bloomery"
+	}]
+}

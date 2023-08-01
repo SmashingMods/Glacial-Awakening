@@ -1,0 +1,47 @@
+{
+	title: "{glacial.hammer.title}",
+	icon: {
+		id: "pyrotech:bone_hammer",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -5.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.hammer.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "b728988e",
+		type: "item",
+		items: [{
+			id: "pyrotech:crude_hammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		{
+			id: "pyrotech:bone_hammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		{
+			id: "pyrotech:flint_hammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "51d1ac6e",
+		type: "item",
+		item: "speedyladders:stone_ladder",
+		count: 16
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "{glacial.manganese.title}",
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.manganese.text}"
+	],
+	dependencies: [
+		"46b009c4"
+	],
+	tasks: [{
+		uid: "e1144d1f",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot 1 11"
+		},
+		{
+			item: "alchemistry:ingot 1 25"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "30637a23",
+		type: "item",
+		item: "vanillafoodpantry:cheese_ball",
+		count: 4
+	}]
+}

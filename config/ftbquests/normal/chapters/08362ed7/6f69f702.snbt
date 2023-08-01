@@ -1,0 +1,18 @@
+{
+	title: "{glacial.latex.title}",
+	x: 2.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.latex.text}"
+	],
+	dependencies: [
+		"2120d0dd"
+	],
+	tasks: [{
+		uid: "34d6d98c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:latex_processing_unit"
+		}]
+	}]
+}

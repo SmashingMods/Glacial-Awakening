@@ -1,0 +1,26 @@
+{
+	title: "{glacial.sky_ingot.title}",
+	x: 5.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.sky_ingot.text_1}",
+		"",
+		"{glacial.sky_ingot.text_2}"
+	],
+	dependencies: [
+		"2b3ea834"
+	],
+	tasks: [{
+		uid: "cd864f6d",
+		type: "item",
+		items: [{
+			item: "naturesaura:sky_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "d0b686ce",
+		type: "item",
+		item: "forbidden_arcanus:arcane_base_block",
+		count: 64
+	}]
+}

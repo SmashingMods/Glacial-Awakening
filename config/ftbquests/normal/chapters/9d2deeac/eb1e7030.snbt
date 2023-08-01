@@ -1,0 +1,29 @@
+{
+	title: "{glacial.stone_sawmill.title}",
+	icon: "pyrotech:stone_sawmill",
+	x: -7.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.stone_sawmill.text}"
+	],
+	dependencies: [
+		"f5cea852"
+	],
+	tasks: [{
+		uid: "ac4bcc46",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_sawmill"
+		}]
+	}],
+	rewards: [{
+		uid: "30c2ca8a",
+		type: "item",
+		item: {
+			id: "pyrotech:sawmill_blade_stone",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

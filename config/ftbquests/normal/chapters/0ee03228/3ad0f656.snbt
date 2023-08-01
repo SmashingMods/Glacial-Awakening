@@ -1,0 +1,19 @@
+{
+	title: "{glacial.chem_dissolver.title}",
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.chem_dissolver.text}"
+	],
+	dependencies: [
+		"b5763ab3",
+		"b6cf78d4"
+	],
+	tasks: [{
+		uid: "84b8cf3a",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_dissolver"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "{glacial.decay_hastener.title}",
+	x: 1.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.decay_hastener.text}"
+	],
+	dependencies: [
+		"25d71472"
+	],
+	tasks: [{
+		uid: "0420acf9",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:decay_hastener_idle"
+		}]
+	}]
+}

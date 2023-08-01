@@ -1,0 +1,30 @@
+{
+	x: -5.0d,
+	y: 3.0d,
+	text: [
+		"Can be used to charge items like Building Gadgets"
+	],
+	dependencies: [
+		"a50618cb"
+	],
+	tasks: [{
+		uid: "4b301a4e",
+		type: "item",
+		items: [{
+			item: "magneticraft:battery"
+		}]
+	}],
+	rewards: [{
+		uid: "beb86055",
+		type: "item",
+		item: {
+			id: "magneticraft:battery_item_low",
+			tag: {
+				energy: 250000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,54 @@
+{
+	title: "{glacial.stone_combustion.title}",
+	icon: "skyresources:combustionheater 1 1",
+	x: 0.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.stone_combustion.text_1}",
+		"{glacial.stone_combustion.text_2}",
+		"{glacial.stone_combustion.text_3}",
+		"{glacial.stone_combustion.text_4}",
+		"{glacial.stone_combustion.text_5}",
+		"",
+		"{glacial.stone_combustion.text_6}"
+	],
+	dependencies: [
+		"c9e20a68"
+	],
+	tasks: [{
+		uid: "debee4f9",
+		type: "item",
+		items: [{
+			item: "skyresources:combustionheater 1 1"
+		}]
+	},
+	{
+		uid: "2331cb34",
+		type: "item",
+		items: [{
+			id: "waterstrainer:strainer_survivalist",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "61962aa5",
+		type: "item",
+		items: [{
+			item: "skyresources:casing 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e70bd156",
+		type: "item",
+		item: {
+			id: "minecraft:leather_helmet",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

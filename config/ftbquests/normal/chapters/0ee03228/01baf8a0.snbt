@@ -1,0 +1,23 @@
+{
+	title: "{glacial.mek_crusher.title}",
+	x: 5.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.mek_crusher.text}"
+	],
+	dependencies: [
+		"9a5f1c35"
+	],
+	tasks: [{
+		uid: "4f72e93b",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			Damage: 3s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

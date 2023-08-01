@@ -1,0 +1,28 @@
+{
+	title: "{glacial.crude_shovel.title}",
+	x: -11.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.crude_shovel.text}"
+	],
+	dependencies: [
+		"705805cc"
+	],
+	tasks: [{
+		uid: "95005b29",
+		type: "item",
+		items: [{
+			id: "pyrotech:crude_shovel",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd5f3386",
+		type: "item",
+		item: "minecraft:gravel"
+	}]
+}

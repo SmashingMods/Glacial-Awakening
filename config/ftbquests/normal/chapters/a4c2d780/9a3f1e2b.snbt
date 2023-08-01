@@ -1,0 +1,25 @@
+{
+	title: "{glacial.cave_roots.title}",
+	x: -14.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.cave_roots.text}"
+	],
+	dependencies: [
+		"0eac7c0c"
+	],
+	tasks: [{
+		uid: "9b316745",
+		type: "item",
+		items: [{
+			item: "quark:roots"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "67d5c3aa",
+		type: "item",
+		item: "minecraft:apple",
+		count: 2
+	}]
+}

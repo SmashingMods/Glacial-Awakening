@@ -1,0 +1,18 @@
+{
+	title: "{glacial.rock_crusher.title}",
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.rock_crusher.text}"
+	],
+	dependencies: [
+		"4fec3530"
+	],
+	tasks: [{
+		uid: "09568041",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rock_crusher_idle"
+		}]
+	}]
+}

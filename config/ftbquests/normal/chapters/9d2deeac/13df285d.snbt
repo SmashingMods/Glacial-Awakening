@@ -1,0 +1,29 @@
+{
+	title: "{glacial.bonsai.title}",
+	x: -5.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.bonsai.text}"
+	],
+	dependencies: [
+		"18b9a14e"
+	],
+	tasks: [{
+		uid: "a83317ad",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "04243347",
+		type: "item",
+		item: "bonsaitrees:bonsaipot 1 1"
+	},
+	{
+		uid: "a57c3c32",
+		type: "item",
+		item: "contenttweaker:myst_sapling"
+	}]
+}

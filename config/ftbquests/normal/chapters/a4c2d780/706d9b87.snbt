@@ -1,0 +1,28 @@
+{
+	title: "{glacial.flint.title}",
+	x: -8.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.flint.text}"
+	],
+	dependencies: [
+		"cf3a878d"
+	],
+	tasks: [{
+		uid: "91bf46d1",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}],
+	rewards: [{
+		uid: "487d6e43",
+		type: "item",
+		item: {
+			id: "minecraft:leather_boots",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

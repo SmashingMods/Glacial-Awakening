@@ -1,0 +1,13 @@
+{
+	x: -10.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9d13ab3c",
+		type: "item",
+		items: [{
+			item: "alchemistry:element 1 38"
+		}],
+		count: 1024L,
+		consume_items: true
+	}]
+}

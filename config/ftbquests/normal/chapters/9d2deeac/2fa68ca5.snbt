@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"Create Diamond Ore with a Sentient Core."
+	],
+	dependencies: [
+		"4dadce26"
+	],
+	tasks: [{
+		uid: "e36acfb3",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "b9a706e0",
+		type: "item",
+		item: "minecraft:diamond_ore"
+	}]
+}

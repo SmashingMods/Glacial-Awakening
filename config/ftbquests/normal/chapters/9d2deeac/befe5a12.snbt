@@ -1,0 +1,26 @@
+{
+	title: "{glacial.gold_ore.title}",
+	icon: "minecraft:gold_ore",
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.gold_ore.text}"
+	],
+	dependencies: [
+		"2684b920"
+	],
+	tasks: [{
+		uid: "aeff738e",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "67fb52ac",
+		type: "item",
+		item: "hwell:furnace_tube",
+		count: 2
+	}]
+}

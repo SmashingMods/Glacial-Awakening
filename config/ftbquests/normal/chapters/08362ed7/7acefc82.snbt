@@ -1,0 +1,19 @@
+{
+	title: "{glacial.reinforced_blast.title}",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.reinforced_blast.text}"
+	],
+	dependencies: [
+		"dbf8d699"
+	],
+	tasks: [{
+		uid: "04e82998",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	}]
+}

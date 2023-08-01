@@ -1,0 +1,19 @@
+{
+	title: "{glacial.heavy_engineering.title}",
+	x: -1.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.heavy_engineering.text}"
+	],
+	dependencies: [
+		"a9e85696"
+	],
+	tasks: [{
+		uid: "20eb4a99",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 2L
+	}]
+}

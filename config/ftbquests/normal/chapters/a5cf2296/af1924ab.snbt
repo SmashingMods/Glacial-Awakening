@@ -1,0 +1,37 @@
+{
+	title: "{glacial.radiant_resonators.title}",
+	icon: "arcanearchives:radiant_resonator",
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.radiant_resonators.text}"
+	],
+	dependencies: [
+		"65c2ee6e"
+	],
+	tasks: [{
+		uid: "34e14653",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_resonator"
+		}],
+		count: 3L
+	},
+	{
+		uid: "1027bed5",
+		type: "item",
+		items: [{
+			item: "arcanearchives:gemcutters_table"
+		}]
+	}],
+	rewards: [{
+		uid: "8fc83d43",
+		type: "item",
+		item: "arcanearchives:radiant_chest"
+	},
+	{
+		uid: "59d3d187",
+		type: "item",
+		item: "arcanearchives:brazier_of_hoarding"
+	}]
+}

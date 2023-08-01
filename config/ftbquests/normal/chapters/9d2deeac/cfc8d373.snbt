@@ -1,0 +1,23 @@
+{
+	title: "{glacial.ancient_sapling.title}",
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.ancient_sapling.text}"
+	],
+	dependencies: [
+		"b6db6241"
+	],
+	tasks: [{
+		uid: "f1c59643",
+		type: "item",
+		items: [{
+			item: "naturesaura:ancient_sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "085d8c43",
+		type: "item",
+		item: "naturesaura:ancient_sapling"
+	}]
+}

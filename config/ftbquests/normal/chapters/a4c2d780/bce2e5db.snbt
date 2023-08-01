@@ -1,0 +1,33 @@
+{
+	title: "{glacial.torches.title}",
+	icon: "minecraft:torch",
+	x: -13.0d,
+	y: 5.0d,
+	text: [
+		"{glacial.torches.text}"
+	],
+	dependencies: [
+		"bd633339"
+	],
+	tasks: [{
+		uid: "8886a136",
+		type: "item",
+		items: [{
+			item: "minecraft:torch"
+		}],
+		count: 16L
+	},
+	{
+		uid: "cdf5b8f3",
+		type: "item",
+		items: [{
+			item: "pyrotech:drying_rack"
+		}]
+	}],
+	rewards: [{
+		uid: "19e1fd5b",
+		type: "item",
+		item: "minecraft:torch",
+		count: 8
+	}]
+}

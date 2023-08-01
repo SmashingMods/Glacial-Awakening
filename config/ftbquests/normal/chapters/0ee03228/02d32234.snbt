@@ -1,0 +1,35 @@
+{
+	title: "{glacial.alchem_fission.title}",
+	icon: "alchemistry:fission_controller",
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.alchem_fission.text}"
+	],
+	dependencies: [
+		"9a5f1c35"
+	],
+	tasks: [{
+		uid: "df7191e2",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_core"
+		}],
+		count: 3L
+	},
+	{
+		uid: "0043f5f4",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_casing"
+		}],
+		count: 98L
+	},
+	{
+		uid: "a34f9673",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_controller"
+		}]
+	}]
+}

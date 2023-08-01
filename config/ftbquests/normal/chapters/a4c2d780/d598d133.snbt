@@ -1,0 +1,54 @@
+{
+	title: "{glacial.roots_staff.title}",
+	icon: {
+		id: "roots:staff",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -6.0d,
+	y: 5.0d,
+	text: [
+		"{glacial.roots_staff.text}"
+	],
+	dependencies: [
+		"3da685aa"
+	],
+	tasks: [{
+		uid: "2389c2a6",
+		type: "item",
+		items: [{
+			id: "roots:staff",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6ef332d6",
+		type: "item",
+		items: [{
+			item: "roots:imbuer"
+		}]
+	},
+	{
+		uid: "4f4ab4d4",
+		type: "item",
+		items: [{
+			id: "roots:component_pouch",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d96fadf5",
+		type: "item",
+		item: "forbidden_arcanus:cherry_peach",
+		count: 4
+	}]
+}

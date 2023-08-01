@@ -1,0 +1,33 @@
+{
+	title: "{glacial.sorrow_tokens.title}",
+	icon: "hwell:weeping_block",
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.sorrow_tokens.text}"
+	],
+	dependencies: [
+		"0782d033"
+	],
+	tasks: [{
+		uid: "17f7bf6b",
+		type: "item",
+		items: [{
+			item: "hwell:weeping_block"
+		}]
+	},
+	{
+		uid: "d0f73740",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_sorrow"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "c8a65689",
+		type: "item",
+		item: "quark:paper_lantern",
+		count: 8
+	}]
+}

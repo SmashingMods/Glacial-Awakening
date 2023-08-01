@@ -1,0 +1,33 @@
+{
+	title: "{glacial.rock_core.title}",
+	icon: "hwell:core_stone",
+	x: 4.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.rock_core.text}"
+	],
+	dependencies: [
+		"7f60b7d4"
+	],
+	tasks: [{
+		uid: "b11fce18",
+		type: "item",
+		items: [{
+			item: "hwell:core_stone"
+		}],
+		count: 8L
+	},
+	{
+		uid: "94fed59e",
+		type: "item",
+		items: [{
+			item: "hwell:crystal"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "44ddee71",
+		type: "item",
+		item: "pyrotech:bellows"
+	}]
+}

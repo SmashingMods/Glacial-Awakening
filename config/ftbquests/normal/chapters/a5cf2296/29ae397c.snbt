@@ -1,0 +1,23 @@
+{
+	title: "{glacial.hydraulic_press.title}",
+	x: -3.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.hydraulic_press.text}"
+	],
+	dependencies: [
+		"735be403"
+	],
+	tasks: [{
+		uid: "ca50d688",
+		type: "item",
+		items: [{
+			item: "magneticraft:hydraulic_press"
+		}]
+	}],
+	rewards: [{
+		uid: "021f5308",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

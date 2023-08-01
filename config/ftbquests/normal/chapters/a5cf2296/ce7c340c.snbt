@@ -1,0 +1,29 @@
+{
+	title: "{glacial.steel.title}",
+	icon: "magneticraft:ingots 1 6",
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.steel.text}"
+	],
+	dependencies: [
+		"52ec3780"
+	],
+	tasks: [{
+		uid: "7dbbdecd",
+		type: "item",
+		items: [{
+			item: "magneticraft:ingots 1 6"
+		},
+		{
+			item: "mekanism:ingot 1 4"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "da6be644",
+		type: "item",
+		item: "immersiveengineering:material 1 6",
+		count: 16
+	}]
+}

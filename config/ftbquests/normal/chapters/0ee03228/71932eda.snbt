@@ -1,0 +1,18 @@
+{
+	title: "{glacial.du_plating.title}",
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.du_plating.text}"
+	],
+	dependencies: [
+		"044556b7"
+	],
+	tasks: [{
+		uid: "b929a2c7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part 1 2"
+		}]
+	}]
+}

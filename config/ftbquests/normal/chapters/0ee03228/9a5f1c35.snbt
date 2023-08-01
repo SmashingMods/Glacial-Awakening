@@ -1,0 +1,23 @@
+{
+	title: "{glacial.osmium_compressor.title}",
+	x: 3.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.osmium_compressor.text}"
+	],
+	dependencies: [
+		"b6cf78d4"
+	],
+	tasks: [{
+		uid: "985e40a8",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			Damage: 1s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

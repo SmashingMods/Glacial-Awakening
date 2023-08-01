@@ -1,0 +1,35 @@
+{
+	title: "{glacial.druidic_supplies.title}",
+	icon: "roots:wildroot",
+	x: -8.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.druidic_supplies.text_1}",
+		"",
+		"{glacial.druidic_supplies.text_2}"
+	],
+	dependencies: [
+		"f5cea852"
+	],
+	tasks: [{
+		uid: "a640280a",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}],
+		count: 4L
+	},
+	{
+		uid: "d041ef6d",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "e370b37d",
+		type: "item",
+		item: "roots:cooked_seeds 4"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Clay one way or another",
+	x: -5.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.clay.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "a6a05ee4",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6f8dcfc8",
+		type: "item",
+		item: "minecraft:apple",
+		count: 8
+	}]
+}

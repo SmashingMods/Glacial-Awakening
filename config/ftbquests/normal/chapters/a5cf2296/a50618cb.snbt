@@ -1,0 +1,42 @@
+{
+	title: "{glacial.magnet_grinder.title}",
+	icon: "magneticraft:electric_cable",
+	x: -5.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.magnet_grinder.text_1}",
+		"",
+		"{glacial.magnet_grinder.text_2}"
+	],
+	dependencies: [
+		"c0145b00"
+	],
+	tasks: [{
+		uid: "9226f6d4",
+		type: "item",
+		items: [{
+			item: "magneticraft:grinder"
+		}]
+	},
+	{
+		uid: "de582d4a",
+		type: "item",
+		items: [{
+			item: "magneticraft:thermopile"
+		}]
+	},
+	{
+		uid: "f7f31654",
+		type: "item",
+		items: [{
+			item: "magneticraft:electric_cable"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "5fc3466c",
+		type: "item",
+		item: "magneticraft:electric_cable",
+		count: 6
+	}]
+}

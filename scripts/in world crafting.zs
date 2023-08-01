@@ -29,7 +29,6 @@ FluidToItem.transform(<rustic:sapling>,<liquid:liquid_souls>,[<minecraft:brown_m
 FluidToItem.transform(<rustic:sapling>,<liquid:liquid_souls>,[<minecraft:red_mushroom>]);
 
 FluidToItem.transform(<forbidden_arcanus:cherrywood_sapling>,<liquid:liquid_souls>,[<minecraft:sapling>],true);
-FluidToItem.transform(<forbidden_arcanus:mysterywood_sapling>,<liquid:gold>,[<minecraft:sapling>],true);
 
 FluidToItem.transform(<hearthstones:tattered_leather>*7,<liquid:water>,[<minecraft:dye:15>*3,<minecraft:leather>],true);
 FluidToItem.transform(<contenttweaker:cowhide>,<liquid:astralsorcery.liquidstarlight>,[<minecraft:rotten_flesh>],false);

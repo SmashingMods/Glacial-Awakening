@@ -1,0 +1,32 @@
+{
+	title: "{glacial.iron_ingots.title}",
+	x: -3.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.iron_ingots.text_1}",
+		"",
+		"{glacial.iron_ingots.text_2}"
+	],
+	dependencies: [
+		"519c8395",
+		"a70337fc"
+	],
+	tasks: [{
+		uid: "361eb699",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "6b98b733",
+		type: "item",
+		item: {
+			id: "pyrotech:cog_iron",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

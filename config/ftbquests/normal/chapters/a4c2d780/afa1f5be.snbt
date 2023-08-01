@@ -1,0 +1,25 @@
+{
+	title: "{glacial.fertile_soil.title}",
+	icon: "hwell:fertile_soil",
+	x: -3.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.fertile_soil.text}"
+	],
+	dependencies: [
+		"17476bc5"
+	],
+	tasks: [{
+		uid: "cdcb427a",
+		type: "item",
+		items: [{
+			item: "hwell:fertile_soil"
+		}]
+	}],
+	rewards: [{
+		uid: "e557c27e",
+		type: "item",
+		item: "minecraft:dye 1 15",
+		count: 8
+	}]
+}

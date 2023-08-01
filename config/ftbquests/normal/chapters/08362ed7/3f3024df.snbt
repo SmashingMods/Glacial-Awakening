@@ -1,0 +1,25 @@
+{
+	title: "{glacial.create_powergen.title}",
+	x: -2.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.create_powergen.text}"
+	],
+	dependencies: [
+		"a9e85696"
+	],
+	tasks: [{
+		uid: "5e8d8123",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1 1 1"
+		},
+		{
+			item: "immersiveengineering:metal_device1 1 3"
+		},
+		{
+			item: "immersiveengineering:wooden_device1"
+		}],
+		consume_items: false
+	}]
+}

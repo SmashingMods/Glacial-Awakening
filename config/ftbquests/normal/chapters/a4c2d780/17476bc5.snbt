@@ -1,0 +1,41 @@
+{
+	title: "{glacial.water_strainer.title}",
+	icon: {
+		id: "waterstrainer:strainer_survivalist_dense",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -4.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.water_strainer.text}"
+	],
+	dependencies: [
+		"5dc84beb"
+	],
+	tasks: [{
+		uid: "b670470e",
+		type: "item",
+		items: [{
+			item: "waterstrainer:strainer_base"
+		}]
+	},
+	{
+		uid: "9ebe5dc8",
+		type: "item",
+		items: [{
+			id: "waterstrainer:strainer_survivalist_dense",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6986b3f7",
+		type: "item",
+		item: "solcarrot:food_book"
+	}]
+}

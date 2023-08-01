@@ -1,0 +1,19 @@
+{
+	title: "{glacial.electrum.title}",
+	x: 1.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.electrum.text}"
+	],
+	dependencies: [
+		"cb752b70"
+	],
+	tasks: [{
+		uid: "a40bd74f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 7"
+		}],
+		count: 4L
+	}]
+}

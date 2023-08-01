@@ -1,0 +1,23 @@
+{
+	title: "{glacial.purification_chamber.title}",
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.purification_chamber.text}"
+	],
+	dependencies: [
+		"9a5f1c35"
+	],
+	tasks: [{
+		uid: "b1863915",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			Damage: 9s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

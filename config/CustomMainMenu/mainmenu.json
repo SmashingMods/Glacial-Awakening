@@ -34,13 +34,13 @@
             "posY" : -30,
             "width" : 196,
             "height" : 30,
-            imageWidth : 100,
-            imageHeight : 50,
+            "imageWidth" : 100,
+            "imageHeight" : 50,
             "alignment" : "left_center",
             "action" :
             {
                 "type" : "openLink",
-                "link" : "https://www.akliz.net/al132"      
+                "link" : "https://www.akliz.net/enderman"      
 			}
         },
 		"multiplayer":
@@ -53,8 +53,8 @@
             "posY" : -60,
             "width" : 196,
             "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -72,8 +72,8 @@
             "posY" : -90,
             "width" : 196,
             "height" : 30,
-            imageWidth : 100,
-            imageHeight : 50,
+            "imageWidth" : 100,
+            "imageHeight" : 50,
             "alignment" : "left_center",
             "action" :
             {
@@ -92,8 +92,8 @@
             "posY" : 30,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -112,8 +112,8 @@
             "posY" : 50,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -133,8 +133,8 @@
             "posY" : 100,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
 			"hoverText" : "Quit Game",
             "action" :
@@ -153,8 +153,8 @@
             "posY" : 70,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -172,8 +172,8 @@
             "posY" : 100,
             "width" : 100,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
 			"alignment" : "left_center",
             "wrappedButton" : 404
         }

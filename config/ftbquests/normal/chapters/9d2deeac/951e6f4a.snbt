@@ -1,0 +1,24 @@
+{
+	title: "{glacial.fear_token.title}",
+	x: 3.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.fear_token.text}"
+	],
+	dependencies: [
+		"0782d033"
+	],
+	tasks: [{
+		uid: "56bd3e23",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_fear"
+		}]
+	}],
+	rewards: [{
+		uid: "71347417",
+		type: "item",
+		item: "minecraft:rotten_flesh",
+		count: 8
+	}]
+}

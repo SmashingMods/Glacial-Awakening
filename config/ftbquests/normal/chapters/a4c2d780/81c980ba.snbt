@@ -1,0 +1,24 @@
+{
+	title: "{glacial.obsidian.title}",
+	x: -6.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.obsidian.text}"
+	],
+	dependencies: [
+		"d598d133"
+	],
+	tasks: [{
+		uid: "5006b3cd",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "377fd8b3",
+		type: "item",
+		item: "roots:stalicripe"
+	}]
+}

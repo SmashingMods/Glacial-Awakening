@@ -1,0 +1,7 @@
+{
+	title: "{glacial.chapter_2.chapter}",
+	icon: "pyrotech:bloomery",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

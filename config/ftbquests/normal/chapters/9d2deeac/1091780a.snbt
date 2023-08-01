@@ -1,0 +1,24 @@
+{
+	title: "{glacial.lapis.title}",
+	x: -6.0d,
+	y: -1.0d,
+	text: [
+		"{glacial.lapis.text}"
+	],
+	dependencies: [
+		"bdc592e0"
+	],
+	tasks: [{
+		uid: "89a9a1dc",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "c054cc9c",
+		type: "item",
+		item: "hwell:furnace_tube",
+		count: 2
+	}]
+}

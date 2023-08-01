@@ -1,0 +1,21 @@
+{
+	title: "{glacial.blast_furnace.title}",
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.blast_furnace.text_1}",
+		"",
+		"{glacial.blast_furnace.text_2}"
+	],
+	dependencies: [
+		"6b9d8021"
+	],
+	tasks: [{
+		uid: "a3c29dab",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}]
+}

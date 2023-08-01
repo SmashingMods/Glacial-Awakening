@@ -1,0 +1,23 @@
+{
+	title: "{glacial.redstone.title}",
+	x: -3.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.redstone.text}"
+	],
+	dependencies: [
+		"077bbf9c"
+	],
+	tasks: [{
+		uid: "54c067f9",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	}],
+	rewards: [{
+		uid: "2ae2bf78",
+		type: "item",
+		item: "minecraft:bucket"
+	}]
+}

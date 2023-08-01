@@ -1,0 +1,31 @@
+{
+	title: "{glacial.electric_connector.title}",
+	icon: "magneticraft:connector",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.electric_connector.text}"
+	],
+	dependencies: [
+		"c8950b9f"
+	],
+	tasks: [{
+		uid: "7bb58a0e",
+		type: "item",
+		items: [{
+			item: "magneticraft:connector"
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "857078a5",
+		type: "item",
+		items: [{
+			id: "magneticraft:copper_coil",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

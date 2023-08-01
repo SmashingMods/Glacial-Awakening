@@ -1,0 +1,18 @@
+{
+	title: "{glacial.atomic_reconstructor.title}",
+	x: -3.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.atomic_reconstructor.text}"
+	],
+	dependencies: [
+		"4fec3530"
+	],
+	tasks: [{
+		uid: "9d8eb8fc",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}]
+}

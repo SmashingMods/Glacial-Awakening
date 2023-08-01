@@ -1,0 +1,47 @@
+{
+	title: "{glacial.growing_trees.title}",
+	icon: "minecraft:sapling",
+	x: -2.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.growing_trees.text}"
+	],
+	dependencies: [
+		"afa1f5be"
+	],
+	tasks: [{
+		uid: "a33df7c0",
+		type: "item",
+		items: [{
+			item: "hwell:mutation_paste_block"
+		}]
+	},
+	{
+		uid: "51cdd105",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "8297b6cf",
+		type: "item",
+		item: "minecraft:dye 1 15",
+		count: 8
+	},
+	{
+		uid: "c1558a1e",
+		type: "item",
+		item: {
+			id: "inspirations:wooden_crook",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "60c1edeb",
+		type: "item",
+		item: "hwell:fertile_soil"
+	}]
+}

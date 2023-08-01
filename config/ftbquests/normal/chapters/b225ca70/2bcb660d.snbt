@@ -1,0 +1,47 @@
+{
+	title: "Energy Master",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 255,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "mekanism:energyupgrade",
+				Count: 1b
+			},
+			TrophyColorBlue: 150,
+			TrophyName: "Energy Master",
+			TrophyColorRed: 50,
+			TrophyEarnedAt: 1568475276L
+		}
+	},
+	x: -7.0d,
+	y: -4.0d,
+	shape: "square",
+	tasks: [{
+		uid: "21072f8b",
+		type: "forge_energy",
+		value: 100000000000L
+	}],
+	rewards: [{
+		uid: "33a8490b",
+		type: "command",
+		title: "Energy Master",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "mekanism:energyupgrade",
+					Count: 1b
+				},
+				TrophyColorBlue: 150,
+				TrophyName: "Energy Master",
+				TrophyColorRed: 50,
+				TrophyEarnedAt: 1568475276L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0 {  TrophyItem:{id:\"mekanism:energyupgrade\",Count:1b},  TrophyName:\"Energy Master\",  TrophyColorRed:50,  TrophyColorGreen:255,  TrophyColorBlue:150,  TrophyVariant:\"classic\"}"
+	}]
+}

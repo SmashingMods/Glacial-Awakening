@@ -1,0 +1,25 @@
+{
+	title: "{glacial.fluid_conduits.title}",
+	x: -6.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.fluid_conduits.text}"
+	],
+	dependencies: [
+		"0628341a"
+	],
+	tasks: [{
+		uid: "f09e77df",
+		type: "item",
+		items: [{
+			item: "enderio:item_liquid_conduit 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "f2939cb6",
+		type: "item",
+		item: "enderio:item_liquid_conduit 1 1",
+		count: 16
+	}]
+}

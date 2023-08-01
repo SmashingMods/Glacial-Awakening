@@ -1,0 +1,25 @@
+{
+	title: "{glacial.flesh_nuggets.title}",
+	x: -5.0d,
+	y: 8.0d,
+	text: [
+		"{glacial.flesh_nuggets.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "70c43a42",
+		type: "item",
+		items: [{
+			item: "skyresources:fleshysnownugget"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "e4a29e09",
+		type: "item",
+		item: "skyresources:heavyexplosivesnowball",
+		count: 8
+	}]
+}

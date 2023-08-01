@@ -1,0 +1,24 @@
+{
+	title: "{glacial.granite_rocks.title}",
+	x: -12.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.granite_rocks.text}"
+	],
+	dependencies: [
+		"bd633339"
+	],
+	tasks: [{
+		uid: "c0624450",
+		type: "item",
+		items: [{
+			item: "pyrotech:rock 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "ab272ab7",
+		type: "item",
+		item: "minecraft:gravel"
+	}]
+}

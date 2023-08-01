@@ -1,0 +1,21 @@
+{
+	title: "Additional Challenges",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 240,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "minecraft:clock",
+				Count: 1b
+			},
+			TrophyColorBlue: 44,
+			TrophyName: "Time Master",
+			TrophyColorRed: 240,
+			TrophyEarnedAt: 1568474965L
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

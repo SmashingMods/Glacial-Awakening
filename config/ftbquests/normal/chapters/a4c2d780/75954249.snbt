@@ -1,0 +1,23 @@
+{
+	title: "{glacial.crafting_table.title}",
+	x: -10.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.crafting_table.text}"
+	],
+	dependencies: [
+		"56356743"
+	],
+	tasks: [{
+		uid: "26022586",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "c9951de9",
+		type: "item",
+		item: "vanillafoodpantry:cookie 1 798"
+	}]
+}

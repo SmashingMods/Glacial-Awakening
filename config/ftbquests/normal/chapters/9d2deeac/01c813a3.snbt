@@ -1,0 +1,34 @@
+{
+	title: "{glacial.wildwood.title}",
+	icon: "roots:wildwood_log",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.wildwood.text}"
+	],
+	dependencies: [
+		"5bfe55ff"
+	],
+	tasks: [{
+		uid: "74c85bc0",
+		type: "item",
+		items: [{
+			item: "roots:wildwood_log"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d40ab0f8",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 5"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "fc621404",
+		type: "item",
+		item: "xencraft:xen_gem",
+		count: 16
+	}]
+}

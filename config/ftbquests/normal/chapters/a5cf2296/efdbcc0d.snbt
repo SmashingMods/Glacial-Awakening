@@ -1,0 +1,58 @@
+{
+	title: "{glacial.astral_lens.title}",
+	icon: {
+		id: "astralsorcery:blocklens",
+		tag: {
+			astralsorcery: {
+				crystalProperties: {
+					collectiveCapability: 100,
+					size: 900,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1
+				}
+			}
+		}
+	},
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.astral_lens.text_1}",
+		"",
+		"{glacial.astral_lens.text_2}"
+	],
+	dependencies: [
+		"e1b9f08b"
+	],
+	tasks: [{
+		uid: "d48a8ffb",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aa52bb6e",
+		type: "item",
+		items: [{
+			id: "astralsorcery:itemlinkingtool",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

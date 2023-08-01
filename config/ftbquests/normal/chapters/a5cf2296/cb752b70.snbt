@@ -1,0 +1,19 @@
+{
+	title: "{glacial.alloy_kiln.title}",
+	x: -1.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.alloy_kiln.text}"
+	],
+	dependencies: [
+		"6b9d8021"
+	],
+	tasks: [{
+		uid: "f108e45a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 10"
+		}],
+		count: 8L
+	}]
+}

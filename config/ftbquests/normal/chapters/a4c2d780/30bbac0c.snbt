@@ -1,0 +1,23 @@
+{
+	title: "{glacial.storage_crate.title}",
+	x: -1.0d,
+	y: 8.0d,
+	text: [
+		"{glacial.storage_crate.text}"
+	],
+	dependencies: [
+		"7215f7a3"
+	],
+	tasks: [{
+		uid: "07e9c3c0",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "6bb3bf36",
+		type: "item",
+		item: "actuallyadditions:block_giant_chest"
+	}]
+}

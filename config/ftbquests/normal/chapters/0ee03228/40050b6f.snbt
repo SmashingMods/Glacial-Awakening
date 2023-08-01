@@ -1,0 +1,23 @@
+{
+	title: "{glacial.electrolytic_separator.title}",
+	x: 5.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.electrolytic_separator.text}"
+	],
+	dependencies: [
+		"9a5f1c35"
+	],
+	tasks: [{
+		uid: "e100c8f5",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			Damage: 4s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

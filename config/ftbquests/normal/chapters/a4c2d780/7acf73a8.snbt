@@ -1,0 +1,28 @@
+{
+	title: "{glacial.wooden_bucket.title}",
+	x: -7.0d,
+	y: 8.0d,
+	text: [
+		"{glacial.wooden_bucket.text}"
+	],
+	dependencies: [
+		"04b0823f"
+	],
+	tasks: [{
+		uid: "2e8cec76",
+		type: "item",
+		items: [{
+			id: "pyrotech:bucket_wood",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bcd2e0d8",
+		type: "item",
+		item: "minecraft:apple",
+		count: 8
+	}]
+}

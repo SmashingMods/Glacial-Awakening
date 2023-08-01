@@ -1,0 +1,69 @@
+=-= Changelog =-=
+
+v1.2.0 - 2023-08-01
+===
+
+Added Mods:
+- AE2 Unofficial Extended Life
+- CensoredASM
+- Had Enough Items
+- NuclearCraft Reactor Builder
+- PipeBlocker (fixes RCE vulnerability)
+- RandomPatches
+- Startup Timer
+- Universal Tweaks
+
+Updated Mods:
+- ArchitectureCraft
+- Artisan Worktables
+- Athenaeum
+- B.A.S.E
+- BdLib
+- Carry On
+- Classic Bars
+- ContentTweaker
+- Controlling
+- Corail Tombstone
+- CraftTweaker
+- Dropt
+- Ender IO
+- Ender IO Endergy
+- Ender Tweaker
+- EnderCore
+- FoamFix
+- Gauges and Switches
+- Hearth Well
+- Hearthstones
+- It's the little things
+- LootTweaker
+- Magneticraft
+- Mechanics
+- ModTweaker
+- MTLib
+- Mystical World
+- MysticalLib
+- NuclearCraft
+- Placebo
+- Pyrotech
+- ReAuth
+- Recipe Stages
+- Roots
+- Sledgehammer
+- Smooth Font
+- Storage Drawers
+- Tesla Core Lib
+- Topography
+- UniDict
+- WanionLib
+
+Removed Mods:
+- Applied Energistics 2
+- Diet Hopper (replaced by Universal Tweaks)
+- Fast Leaf Decay (replaced by Universal Tweaks)
+- FastWorkbench (replaced by Universal Tweaks)
+- Fence Jumper (replaced by Universal Tweaks)
+- Featured Servers
+- Just Enough Items
+- No Recipe Book (replaced by Universal Tweaks)
+- TinkersOreDictCache (replaced by Universal Tweaks)
+- Toast Control (replaced by Universal Tweaks)

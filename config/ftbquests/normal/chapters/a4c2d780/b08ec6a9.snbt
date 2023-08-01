@@ -1,0 +1,35 @@
+{
+	title: "{glacial.bed.title}",
+	x: -2.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.bed.text}"
+	],
+	dependencies: [
+		"7215f7a3"
+	],
+	tasks: [{
+		uid: "84caaed1",
+		type: "item",
+		items: [{
+			id: "minecraft:bed",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5c19e0c5",
+		type: "item",
+		item: {
+			id: "vanillasatchels:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

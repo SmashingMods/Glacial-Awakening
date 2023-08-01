@@ -1,0 +1,65 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"7e1f653f",
+		"2c1f5d7f",
+		"0bbe57be",
+		"6f60f529",
+		"cd68d081",
+		"b290d57d",
+		"071df773",
+		"060b99fb",
+		"ba85bc54",
+		"7224eb91",
+		"1d289ab0",
+		"d7e22078",
+		"20c3dc79",
+		"4964759f",
+		"36a6c9bd",
+		"73496d56"
+	],
+	tasks: [{
+		uid: "e2e6781a",
+		type: "checkmark",
+		title: "Glacial Master",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 150,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "contenttweaker:glacial",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "Glacial Master",
+				TrophyColorRed: 50,
+				TrophyEarnedAt: 1568902095L
+			}
+		}
+	}],
+	rewards: [{
+		uid: "67c889da",
+		type: "command",
+		title: "Glacial Master Trophy",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 150,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "contenttweaker:glacial",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "Glacial Master",
+				TrophyColorRed: 50,
+				TrophyEarnedAt: 1568902095L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0 {  TrophyItem:{id:\"contenttweaker:glacial\",Count:1b},  TrophyName:\"Glacial Master\",  TrophyColorRed:50,  TrophyColorGreen:150,  TrophyColorBlue:255,  TrophyVariant:\"classic\"}"
+	}]
+}

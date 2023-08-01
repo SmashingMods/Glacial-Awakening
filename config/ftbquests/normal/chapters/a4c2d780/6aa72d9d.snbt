@@ -1,0 +1,28 @@
+{
+	title: "{glacial.blue_sprout.title}",
+	x: -9.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.blue_sprout.text}"
+	],
+	dependencies: [
+		"ab567859"
+	],
+	tasks: [{
+		uid: "6aed3ee8",
+		type: "item",
+		items: [{
+			item: "quark:root_flower"
+		}]
+	}],
+	rewards: [{
+		uid: "89346716",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "vanillafoodpantry:sugar_bombed"
+			}
+		}
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "{glacial.energy_conduits.title}",
+	x: -5.0d,
+	y: 1.0d,
+	text: [
+		"{glacial.energy_conduits.text}"
+	],
+	dependencies: [
+		"0628341a"
+	],
+	tasks: [{
+		uid: "64ccc4ba",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "b4b95b2b",
+		type: "item",
+		item: "enderio:item_power_conduit",
+		count: 16
+	}]
+}

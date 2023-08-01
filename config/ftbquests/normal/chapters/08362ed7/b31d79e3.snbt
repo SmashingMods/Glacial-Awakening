@@ -1,0 +1,19 @@
+{
+	title: "{glacial.industrial_chassis.title}",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.industrial_chassis.text}"
+	],
+	dependencies: [
+		"dedf6c38",
+		"6f69f702"
+	],
+	tasks: [{
+		uid: "e31aa474",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 1"
+		}]
+	}]
+}

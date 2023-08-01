@@ -1,0 +1,29 @@
+{
+	title: "{glacial.energy_acceptor.title}",
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.energy_acceptor.text}"
+	],
+	dependencies: [
+		"d832912f"
+	],
+	tasks: [{
+		uid: "76589291",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:energy_acceptor"
+		}]
+	}],
+	rewards: [{
+		uid: "7b2e3c32",
+		type: "item",
+		item: {
+			id: "appliedenergistics2:storage_cell_1k",
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	title: "{glacial.runic_shears.title}",
+	icon: {
+		id: "roots:runic_shears",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	x: -2.0d,
+	y: -1.0d,
+	description: "{glacial.runic_shears.desc}",
+	text: [
+		"{glacial.runic_shears.text}"
+	],
+	dependencies: [
+		"61128407"
+	],
+	tasks: [{
+		uid: "31ff6e90",
+		type: "item",
+		items: [{
+			id: "roots:runic_shears",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a7abe959",
+		type: "item",
+		items: [{
+			item: "roots:spirit_herb"
+		}]
+	}],
+	rewards: [{
+		uid: "ee637af9",
+		type: "item",
+		item: "xencraft:xen_gem",
+		count: 16
+	}]
+}

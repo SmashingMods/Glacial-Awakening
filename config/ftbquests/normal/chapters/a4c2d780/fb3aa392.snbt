@@ -1,0 +1,37 @@
+{
+	title: "{glacial.stone_kiln.title}",
+	icon: "pyrotech:stone_kiln",
+	x: 2.0d,
+	y: 7.0d,
+	text: [
+		"{glacial.stone_kiln.text}"
+	],
+	dependencies: [
+		"2be7abb6"
+	],
+	tasks: [{
+		uid: "1771f06b",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_kiln"
+		}]
+	},
+	{
+		uid: "0327d519",
+		type: "item",
+		items: [{
+			item: "hwell:heavy_ingot"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "d36731cf",
+		type: "item",
+		item: {
+			id: "minecraft:leather_leggings",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

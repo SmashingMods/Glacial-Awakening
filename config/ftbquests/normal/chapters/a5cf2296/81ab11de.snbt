@@ -1,0 +1,37 @@
+{
+	title: "{glacial.astral_tome.title}",
+	x: -5.0d,
+	y: 0.0d,
+	description: "{glacial.astral_tome.desc}",
+	dependencies: [
+		"af1924ab"
+	],
+	tasks: [{
+		uid: "1926faca",
+		type: "item",
+		items: [{
+			id: "astralsorcery:itemjournal",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bc4813a3",
+		type: "command",
+		title: "[Unlock more recipes]",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		command: "/gamestage add @p astral"
+	}]
+}

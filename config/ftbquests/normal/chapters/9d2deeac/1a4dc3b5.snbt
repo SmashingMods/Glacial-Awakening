@@ -1,0 +1,46 @@
+{
+	title: "{glacial.cow_ritual.title}",
+	icon: "roots:moonglow_leaf",
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.cow_ritual.text_1}"
+	],
+	dependencies: [
+		"47e84b8a"
+	],
+	tasks: [{
+		uid: "39b38f66",
+		type: "item",
+		items: [{
+			item: "roots:moonglow_leaf"
+		}]
+	},
+	{
+		uid: "4bc78d2b",
+		type: "item",
+		items: [{
+			item: "roots:wildewheet"
+		}]
+	},
+	{
+		uid: "6991a5c0",
+		type: "item",
+		items: [{
+			item: "minecraft:beef"
+		}]
+	},
+	{
+		uid: "51d39ad5",
+		type: "item",
+		items: [{
+			item: "roots:offertory_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "dda755d8",
+		type: "item",
+		item: "waterstrainer:worm",
+		count: 64
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	title: "{glacial.coke_oven.title}",
+	icon: "immersiveengineering:stone_decoration",
+	x: -2.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.coke_oven.text}"
+	],
+	dependencies: [
+		"29ae397c"
+	],
+	tasks: [{
+		uid: "270f08b9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	},
+	{
+		uid: "23dc8c83",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:tool",
+			Damage: 3s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a36c19ef",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:tool",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab6ee043",
+		type: "item",
+		item: "storagedrawers:upgrade_storage 1 2"
+	}]
+}

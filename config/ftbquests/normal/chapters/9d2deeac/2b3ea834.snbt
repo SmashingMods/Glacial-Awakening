@@ -1,0 +1,27 @@
+{
+	title: "{glacial.offering_table.title}",
+	x: 4.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.offering_table.text_1}",
+		"",
+		"{glacial.offering_table.text_2}"
+	],
+	dependencies: [
+		"951e6f4a",
+		"1fb7a066"
+	],
+	tasks: [{
+		uid: "aa5324d4",
+		type: "item",
+		items: [{
+			item: "naturesaura:offering_table"
+		}]
+	}],
+	rewards: [{
+		uid: "53070892",
+		type: "item",
+		item: "forbidden_arcanus:arcane_base_block",
+		count: 64
+	}]
+}

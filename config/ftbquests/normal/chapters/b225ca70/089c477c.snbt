@@ -1,0 +1,50 @@
+{
+	title: "Time Master",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 240,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "minecraft:clock",
+				Count: 1b
+			},
+			TrophyColorBlue: 44,
+			TrophyName: "Time Master",
+			TrophyColorRed: 240,
+			TrophyEarnedAt: 1568475329L
+		}
+	},
+	x: -8.0d,
+	y: -4.0d,
+	shape: "square",
+	tasks: [{
+		uid: "f0937330",
+		type: "stat",
+		title: "Time Challenge",
+		icon: "minecraft:clock",
+		stat: "stat.playOneMinute",
+		value: 7200000
+	}],
+	rewards: [{
+		uid: "63dfcdf5",
+		type: "command",
+		title: "Time Master",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 240,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "minecraft:clock",
+					Count: 1b
+				},
+				TrophyColorBlue: 44,
+				TrophyName: "Time Master",
+				TrophyColorRed: 240,
+				TrophyEarnedAt: 1568474965L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0 {  TrophyItem:{id:\"minecraft:clock\",Count:1b},  TrophyName:\"Time Master\",  TrophyColorRed:240,  TrophyColorGreen:240,  TrophyColorBlue:44,  TrophyVariant:\"classic\"}"
+	}]
+}

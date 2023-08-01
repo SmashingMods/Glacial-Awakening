@@ -1,0 +1,22 @@
+{
+	title: "{glacial.chapter_2.title}",
+	x: -8.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.chapter_2.text}"
+	],
+	dependencies: [
+		"2302f146"
+	],
+	tasks: [{
+		uid: "bef74789",
+		type: "checkmark",
+		title: "Chapter 2"
+	}],
+	rewards: [{
+		uid: "421469be",
+		type: "item",
+		item: "minecraft:chest",
+		count: 2
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "7346a469",
+		type: "item",
+		items: [{
+			id: "forbidden_arcanus:draco_arcanus_scepter",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

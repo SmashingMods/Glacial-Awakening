@@ -1,0 +1,49 @@
+{
+	title: "{glacial.lightwell.title}",
+	icon: "astralsorcery:blockwell",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.lightwell.text_1}",
+		"",
+		"{glacial.lightwell.text_2}"
+	],
+	dependencies: [
+		"288cb8b6"
+	],
+	tasks: [{
+		uid: "7161a7ae",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	},
+	{
+		uid: "35329e11",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "5c258313",
+		type: "item",
+		item: {
+			id: "astralsorcery:itemsextant",
+			tag: {
+				astralsorcery: {}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

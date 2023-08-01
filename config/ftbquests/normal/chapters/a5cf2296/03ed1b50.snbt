@@ -1,0 +1,27 @@
+{
+	title: "{glacial.magnet_washer.title}",
+	x: -4.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.magnet_washer.text}"
+	],
+	dependencies: [
+		"735be403"
+	],
+	tasks: [{
+		uid: "6d4d7627",
+		type: "item",
+		items: [{
+			item: "magneticraft:sluice_box"
+		},
+		{
+			item: "magneticraft:sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "c0323b43",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 4
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{glacial.life_seed.title}",
+	x: 4.0d,
+	y: 8.0d,
+	text: [
+		"{glacial.life_seed.text}"
+	],
+	dependencies: [
+		"7f60b7d4"
+	],
+	tasks: [{
+		uid: "9c3dfa53",
+		type: "item",
+		items: [{
+			id: "hwell:seed_of_life",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

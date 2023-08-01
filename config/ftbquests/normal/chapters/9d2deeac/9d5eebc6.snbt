@@ -1,0 +1,23 @@
+{
+	title: "{glacial.gravity_block.title}",
+	x: -10.0d,
+	y: 2.0d,
+	text: [
+		"{glacial.gravity_block.text}"
+	],
+	dependencies: [
+		"fae5d3aa"
+	],
+	tasks: [{
+		uid: "44c2ae93",
+		type: "item",
+		items: [{
+			item: "hwell:gravity_block"
+		}]
+	}],
+	rewards: [{
+		uid: "f628b566",
+		type: "item",
+		item: "minecraft:hopper"
+	}]
+}

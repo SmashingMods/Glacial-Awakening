@@ -1,0 +1,25 @@
+{
+	title: "{glacial.plant_fibers.title}",
+	x: -13.0d,
+	y: 6.0d,
+	text: [
+		"{glacial.plant_fibers.text}"
+	],
+	dependencies: [
+		"9a3f1e2b"
+	],
+	tasks: [{
+		uid: "6dffe8e5",
+		type: "item",
+		items: [{
+			item: "pyrotech:material 1 12"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "f8d066ab",
+		type: "item",
+		item: "minecraft:apple",
+		count: 2
+	}]
+}

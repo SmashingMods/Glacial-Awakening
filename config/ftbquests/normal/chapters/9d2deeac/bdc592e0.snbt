@@ -1,0 +1,33 @@
+{
+	title: "{glacial.fey_crafter.title}",
+	icon: "roots:fey_crafter",
+	x: -7.0d,
+	y: -1.0d,
+	description: "{glacial.fey_crafter.desc}",
+	text: [
+		"{glacial.fey_crafter.text}"
+	],
+	dependencies: [
+		"25ae6a3e"
+	],
+	tasks: [{
+		uid: "1557d90a",
+		type: "item",
+		items: [{
+			item: "roots:fey_crafter"
+		}]
+	},
+	{
+		uid: "49cac1e3",
+		type: "item",
+		items: [{
+			item: "roots:grove_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "8f7a90a2",
+		type: "item",
+		item: "roots:terra_spores",
+		count: 2
+	}]
+}

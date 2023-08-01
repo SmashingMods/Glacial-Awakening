@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fd07da39",
+		type: "item",
+		items: [{
+			item: "naturesaura:clock_hand"
+		}]
+	}]
+}

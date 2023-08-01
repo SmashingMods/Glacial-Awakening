@@ -1,0 +1,19 @@
+{
+	title: "{glacial.chem_combiner.title}",
+	x: 2.0d,
+	y: 3.0d,
+	text: [
+		"{glacial.chem_combiner.text}"
+	],
+	dependencies: [
+		"b5763ab3",
+		"b6cf78d4"
+	],
+	tasks: [{
+		uid: "15b04a6d",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_combiner"
+		}]
+	}]
+}

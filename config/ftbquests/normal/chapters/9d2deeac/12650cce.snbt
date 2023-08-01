@@ -1,0 +1,25 @@
+{
+	title: "{glacial.burst_seed.title}",
+	x: 2.0d,
+	y: 4.0d,
+	text: [
+		"{glacial.burst_seed.text_1}",
+		"",
+		"{glacial.burst_seed.text_2}"
+	],
+	dependencies: [
+		"0782d033"
+	],
+	tasks: [{
+		uid: "5bacee56",
+		type: "item",
+		items: [{
+			item: "hwell:burst_seed_netherrack"
+		}]
+	}],
+	rewards: [{
+		uid: "d2e6ab43",
+		type: "item",
+		item: "hwell:burst_seed_stone"
+	}]
+}

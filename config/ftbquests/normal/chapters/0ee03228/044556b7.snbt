@@ -1,0 +1,18 @@
+{
+	title: "{glacial.fission_controller.title}",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.fission_controller.text}"
+	],
+	dependencies: [
+		"4fec3530"
+	],
+	tasks: [{
+		uid: "0edc1934",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_controller_new_fixed"
+		}]
+	}]
+}

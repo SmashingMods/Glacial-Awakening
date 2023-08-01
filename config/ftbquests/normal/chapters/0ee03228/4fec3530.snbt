@@ -1,0 +1,16 @@
+{
+	title: "{glacial.chapter_5.chapter}",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"{glacial.chapter_5.text}"
+	],
+	dependencies: [
+		"b31d79e3"
+	],
+	tasks: [{
+		uid: "f2bae064",
+		type: "checkmark",
+		title: "Chapter 5"
+	}]
+}
