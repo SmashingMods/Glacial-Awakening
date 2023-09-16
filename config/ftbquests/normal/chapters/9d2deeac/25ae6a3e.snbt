@@ -28,8 +28,9 @@
 		count: 16L
 	}],
 	rewards: [{
-		uid: "e370b37d",
+		uid: "54840de5",
 		type: "item",
-		item: "roots:cooked_seeds 4"
+		item: "mysticalworld:cooked_seeds",
+		count: 4
 	}]
 }

@@ -1,0 +1,15 @@
+recipes.addShaped(<minecraft:wheat_seeds> * 2, [[null, null, null],[<hwell:mutation_paste>, <quark:root>, null], [null, null, null]]);
+recipes.addShaped(<minecraft:vine> * 2, [[null, null, null],[null, <hwell:mutation_paste>, <hwell:mutation_paste>], [<quark:root>, null, null]]);
+recipes.addShaped(<minecraft:reeds> * 2, [[null, <hwell:mutation_paste>, null],[<quark:root>, null, null], [null, null, null]]);
+recipes.addShaped(<minecraft:sapling:1> * 2, [[null, null, <hwell:mutation_paste>],[null, <quark:root>, null], [null, null, <hwell:mutation_paste>]]);
+recipes.addShaped(<minecraft:sapling:5> * 2, [[<hwell:mutation_paste>, null, <hwell:mutation_paste>],[null, <quark:root>, null], [null, null, null]]);
+recipes.addShaped(<minecraft:sapling:2> * 2, [[<hwell:mutation_paste>, null, null],[null, <quark:root>, null], [null, <hwell:mutation_paste>, null]]);
+recipes.addShaped(<minecraft:sapling:4> * 2, [[null, null, null],[null, <quark:root>, null], [<hwell:mutation_paste>, null, <hwell:mutation_paste>]]);
+recipes.addShaped(<minecraft:potato> * 2, [[null, null, null],[<hwell:mutation_paste>, <quark:root>, <hwell:mutation_paste>], [null, null, null]]);
+recipes.addShaped(<minecraft:nether_wart> * 2, [[<hwell:mutation_paste>, null, <hwell:mutation_paste>],[null, <quark:root>, null], [<hwell:mutation_paste>, null, <hwell:mutation_paste>]]);
+recipes.addShaped(<minecraft:red_mushroom> * 2, [[<quark:root>, null, null],[null, <hwell:mutation_paste>, null], [<hwell:mutation_paste>, null, null]]);
+recipes.addShaped(<minecraft:brown_mushroom> * 2, [[<hwell:mutation_paste>, null, null],[null, <hwell:mutation_paste>, null], [<quark:root>, null, null]]);
+recipes.addShaped(<minecraft:waterlily> * 2, [[null, null, null],[<quark:root>, null, null], [null, <hwell:mutation_paste>, <hwell:mutation_paste>]]);
+recipes.addShaped(<minecraft:chorus_flower> * 2, [[null, <hwell:mutation_paste>, null],[<hwell:mutation_paste>, <quark:root>, <hwell:mutation_paste>], [null, <hwell:mutation_paste>, null]]);
+recipes.addShaped(<minecraft:carrot> * 2, [[null, <hwell:mutation_paste>, null],[null, <quark:root>, null], [null, null, null]]);
+recipes.addShaped(<minecraft:beetroot_seeds> * 2, [[<hwell:mutation_paste>, null, null],[null, <quark:root>, null], [null, null, <hwell:mutation_paste>]]);

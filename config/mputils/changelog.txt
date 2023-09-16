@@ -1,5 +1,31 @@
 =-= Changelog =-=
 
+v1.2.2 - 2023-09-16
+===
+
+Added Mods:
+- Alfheim Lightning Engine
+- Red Core
+- Spark
+- Valkyrie
+- VintageFix
+
+Updated Mods:
+- AE2 Unofficial Extended Life
+- CraftTweaker
+- MixinBooter
+- SerializationIsBad
+- Universal Tweaks
+
+Removed Mods:
+- FoamFix (replaced by VintageFix)
+
+Changes/Bugfixes:
+- fixed broken progression line, which was caused by the last roots update
+- downgraded Hearth Well to fix the missing recipes. (No idea why this mod breaks more with every update)
+- added a note to the diamond ore quest that it needs to be silk touched
+- fixed quest "Gather Druidic Supplies" reward
+
 v1.2.1 - 2023-08-02
 ===
 

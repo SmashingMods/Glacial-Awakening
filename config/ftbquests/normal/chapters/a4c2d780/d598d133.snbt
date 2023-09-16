@@ -2,9 +2,7 @@
 	title: "{glacial.roots_staff.title}",
 	icon: {
 		id: "roots:staff",
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		}
+		tag: {}
 	},
 	x: -6.0d,
 	y: 5.0d,
@@ -50,5 +48,10 @@
 		type: "item",
 		item: "forbidden_arcanus:cherry_peach",
 		count: 4
+	},
+	{
+		uid: "cd28e49e",
+		type: "item",
+		item: "roots:gramary"
 	}]
 }

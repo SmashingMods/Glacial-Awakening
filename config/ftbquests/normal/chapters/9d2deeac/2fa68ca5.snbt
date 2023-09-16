@@ -2,7 +2,8 @@
 	x: 1.0d,
 	y: 2.0d,
 	text: [
-		"Create Diamond Ore with a Sentient Core."
+		"Create Diamond Ore with a Sentient Core.",
+		"Remember that it needs to silk touched, otherwise it'll only drop a diamond and not the ore."
 	],
 	dependencies: [
 		"4dadce26"
